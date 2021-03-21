@@ -18,6 +18,10 @@ http://iptvpro3.vision-new.org:8789/iptvpro2/GdWa4RQmlipro@/47280
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47281
 #EXTINF:-1,|PT| SPORT TV 5 HEVC
 http://iptvpro3.vision-new.org:8789/iptvpro2/GdWa4RQmlipro@/47281
+#EXTINF:-1,|BR| ELEVEN SPORTS 5 FHD
+http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/44546
+#EXTINF:-1,|BR| ELEVEN SPORTS 5 FHD
+http://iptvpro3.vision-new.org:8789/iptvpro2/GdWa4RQmlipro@/44546
 #EXTINF:-1,|PT| ELEVEN SPORTS 1 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47284
 #EXTINF:-1,|PT| ELEVEN SPORTS 1 HEVC
@@ -42,7 +46,31 @@ http://iptvpro3.vision-new.org:8789/iptvpro2/GdWa4RQmlipro@/47288
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47289
 #EXTINF:-1,|PT| ELEVEN SPORTS 6 HEVC
 http://iptvpro3.vision-new.org:8789/iptvpro2/GdWa4RQmlipro@/47289
+#EXTINF:-1,|BG| BTV ACTION HD
+http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47104
+#EXTINF:-1,|BG| BTV ACTION HD
+http://iptvpro3.vision-new.org:8789/iptvpro2/GdWa4RQmlipro@/47104
+#EXTINF:-1,|BG| BTV CINEMA
+http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47105
+#EXTINF:-1,|BG| BTV CINEMA
+http://iptvpro3.vision-new.org:8789/iptvpro2/GdWa4RQmlipro@/47105
+#EXTINF:-1,|BG| BTV COMEDY
+http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47106
+#EXTINF:-1,|BG| BTV COMEDY
+http://iptvpro3.vision-new.org:8789/iptvpro2/GdWa4RQmlipro@/47106
+#EXTINF:-1,|BG| BTV HD
+http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47062
+#EXTINF:-1,|BG| BTV HD
+http://iptvpro3.vision-new.org:8789/iptvpro2/GdWa4RQmlipro@/47062
+#EXTINF:-1,|BG| BTV LADY
+http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47088
+#EXTINF:-1,|BG| BTV LADY
+http://iptvpro3.vision-new.org:8789/iptvpro2/GdWa4RQmlipro@/47088
 #EXTINF:-1,|PT| BENFICA TV HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47292
 #EXTINF:-1,|PT| BENFICA TV HEVC
 http://iptvpro3.vision-new.org:8789/iptvpro2/GdWa4RQmlipro@/47292
+#EXTINF:-1,|VN| BTV  PACIFY
+http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/37308
+#EXTINF:-1,|VN| BTV  PACIFY
+http://iptvpro3.vision-new.org:8789/iptvpro2/GdWa4RQmlipro@/37308
