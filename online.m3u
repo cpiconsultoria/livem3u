@@ -1,4 +1,54 @@
-﻿#EXTINF:-1,|PT| SPORT TV 1 HEVC
+﻿#EXTINF:0 TVG-COUNTRY="PT" TVG-LOGO="" GROUP-TITLE="SPORT",SPORT TV 1
+http://37723998.to:2052/dale1/1234/196135?checkedby:iptvcat.com
+#EXTINF:0 TVG-COUNTRY="PT" TVG-LOGO="" GROUP-TITLE="SPORT",SPORT TV 1 FHD
+http://tvmedia2.com:8080/Hunter2/Hunter2/167763.ts?checkedby:iptvcat.com
+#EXTINF:0 TVG-COUNTRY="PT" TVG-LOGO="" GROUP-TITLE="SPORT",SPORT TV 1 FHD
+http://tvmedia2.com:8080/Majdi1/Majdi1/167763.ts?checkedby:iptvcat.com
+#EXTINF:0 TVG-COUNTRY="PT" TVG-LOGO="" GROUP-TITLE="SPORT",SPORT TV 1 FULLHD
+http://tvmedia2.com:8080/Majdi1/Majdi1/165243.ts?checkedby:iptvcat.com
+#EXTINF:0 TVG-COUNTRY="PT" TVG-LOGO="" GROUP-TITLE="SPORT",SPORT TV 1 FULLHD
+http://tvmedia2.com:8080/Hunter2/Hunter2/165243.ts?checkedby:iptvcat.com
+#EXTINF:0 TVG-COUNTRY="PT" TVG-LOGO="" GROUP-TITLE="SPORT",SPORT TV 2 FHD
+http://tvmedia2.com:8080/Majdi1/Majdi1/167764.ts?checkedby:iptvcat.com
+#EXTINF:0 TVG-COUNTRY="PT" TVG-LOGO="" GROUP-TITLE="SPORT",SPORT TV 2 FHD
+http://tvmedia2.com:8080/Hunter2/Hunter2/167764.ts?checkedby:iptvcat.com
+#EXTINF:0 TVG-COUNTRY="PT" TVG-LOGO="" GROUP-TITLE="SPORT",SPORT TV 2 FULLHD
+http://tvmedia2.com:8080/Majdi1/Majdi1/165244.ts?checkedby:iptvcat.com
+#EXTINF:0 TVG-COUNTRY="PT" TVG-LOGO="" GROUP-TITLE="SPORT",SPORT TV 2 FULLHD
+http://tvmedia2.com:8080/Hunter2/Hunter2/165244.ts?checkedby:iptvcat.com
+#EXTINF:0 TVG-COUNTRY="PT" TVG-LOGO="" GROUP-TITLE="SPORT",SPORT TV 3 FHD
+http://tvmedia2.com:8080/Hunter2/Hunter2/167765.ts?checkedby:iptvcat.com
+#EXTINF:0 TVG-COUNTRY="PT" TVG-LOGO="" GROUP-TITLE="SPORT",SPORT TV 3 FHD
+http://tvmedia2.com:8080/Majdi1/Majdi1/167765.ts?checkedby:iptvcat.com
+#EXTINF:0 TVG-COUNTRY="PT" TVG-LOGO="" GROUP-TITLE="SPORT",SPORT TV 3 FULLHD
+http://tvmedia2.com:8080/Hunter2/Hunter2/165245.ts?checkedby:iptvcat.com
+#EXTINF:0 TVG-COUNTRY="PT" TVG-LOGO="" GROUP-TITLE="SPORT",SPORT TV 3 FULLHD
+http://tvmedia2.com:8080/Majdi1/Majdi1/165245.ts?checkedby:iptvcat.com
+#EXTINF:0 TVG-COUNTRY="PT" TVG-LOGO="" GROUP-TITLE="SPORT",SPORT TV 4
+http://37723998.to:2052/dale1/1234/196136?checkedby:iptvcat.com
+#EXTINF:0 TVG-COUNTRY="PT" TVG-LOGO="" GROUP-TITLE="SPORT",SPORT TV 4 FHD
+http://tvmedia2.com:8080/Hunter2/Hunter2/167766.ts?checkedby:iptvcat.com
+#EXTINF:0 TVG-COUNTRY="PT" TVG-LOGO="" GROUP-TITLE="SPORT",SPORT TV 4 FULLHD
+http://tvmedia2.com:8080/Majdi1/Majdi1/165246.ts?checkedby:iptvcat.com
+#EXTINF:0 TVG-COUNTRY="PT" TVG-LOGO="" GROUP-TITLE="SPORT",SPORT TV 4 FULLHD
+http://tvmedia2.com:8080/Hunter2/Hunter2/165246.ts?checkedby:iptvcat.com
+#EXTINF:0 TVG-COUNTRY="PT" TVG-LOGO="" GROUP-TITLE="SPORT",SPORT TV 5 FHD
+http://tvmedia2.com:8080/Hunter2/Hunter2/167767.ts?checkedby:iptvcat.com
+#EXTINF:0 TVG-COUNTRY="RO" TVG-LOGO="" GROUP-TITLE="SPORT",PT SPORT TV
+http://152.89.62.111:8080/m123/m123/148639?checkedby:iptvcat.com
+#EXTINF:0 TVG-COUNTRY="RO" TVG-LOGO="" GROUP-TITLE="SPORT",PT SPORT TV   HD
+http://152.89.62.111:8080/m123/m123/148640?checkedby:iptvcat.com
+#EXTINF:0 TVG-COUNTRY="RO" TVG-LOGO="" GROUP-TITLE="SPORT",PT SPORT TV 1
+http://152.89.62.111:8080/m123/m123/148641?checkedby:iptvcat.com
+#EXTINF:0 TVG-COUNTRY="RO" TVG-LOGO="" GROUP-TITLE="SPORT",PT SPORT TV 2
+http://152.89.62.111:8080/m123/m123/148643?checkedby:iptvcat.com
+#EXTINF:0 TVG-COUNTRY="RO" TVG-LOGO="" GROUP-TITLE="SPORT",PT SPORT TV 3
+http://152.89.62.111:8080/m123/m123/148645?checkedby:iptvcat.com
+#EXTINF:0 TVG-COUNTRY="RO" TVG-LOGO="" GROUP-TITLE="SPORT",PT SPORT TV 4
+http://152.89.62.111:8080/m123/m123/148647?checkedby:iptvcat.com
+#EXTINF:0 TVG-COUNTRY="RO" TVG-LOGO="" GROUP-TITLE="SPORT",PT SPORT TV 4 HD
+http://152.89.62.111:8080/m123/m123/148648?checkedby:iptvcat.com
+#EXTINF:-1,|PT| SPORT TV 1 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47277
 #EXTINF:-1,|PT| SPORT TV 2 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47278
@@ -8,10 +58,6 @@ http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47279
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47280
 #EXTINF:-1,|PT| SPORT TV 5 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47281
-#EXTINF:-1,CL | SPORT TV 1 PORTUGAL
-http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/82380
-#EXTINF:-1,CL | SPORT TV 2 PORTUGAL
-http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/82381
 #EXTINF:-1,PT | SPORT TV 1 | UHD
 http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/9364
 #EXTINF:-1,PT | SPORT TV 2 | UHD
@@ -22,38 +68,184 @@ http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/9366
 http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/42970
 #EXTINF:-1,PT | SPORT TV 5 | HD
 http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/9441
+#EXTINF:-1,PT: SPORT TV
+http://kingdiablo-iptv.com:8080/live:tolgax1x/Kca35kdDCc/138223
+#EXTINF:-1,PT: SPORT TV   HD
+http://kingdiablo-iptv.com:8080/live:tolgax1x/Kca35kdDCc/138224
 #EXTINF:-1,PT: SPORT TV 1
 http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/3237
 #EXTINF:-1,PT: SPORT TV 1 FHD
 http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/3698
+#EXTINF:-1,PT: SPORT TV 1 FHD
+http://kingdiablo-iptv.com:8080/live:tolgax1x/Kca35kdDCc/138227
 #EXTINF:-1,PT: SPORT TV 1 HD
 http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/799
+#EXTINF:-1,PT: SPORT TV 1 HD
+http://kingdiablo-iptv.com:8080/live:tolgax1x/Kca35kdDCc/138228
+#EXTINF:-1,PT: SPORT TV 1 HD
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/190268
+#EXTINF:-1,PT: SPORT TV 1 SD
+http://kingdiablo-iptv.com:8080/live:tolgax1x/Kca35kdDCc/138229
 #EXTINF:-1,PT: SPORT TV 2
 http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/3236
+#EXTINF:-1,PT: SPORT TV 2
+http://kingdiablo-iptv.com:8080/live:tolgax1x/Kca35kdDCc/138230
 #EXTINF:-1,PT: SPORT TV 2 FHD
 http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/3700
+#EXTINF:-1,PT: SPORT TV 2 FHD
+http://kingdiablo-iptv.com:8080/live:tolgax1x/Kca35kdDCc/138231
 #EXTINF:-1,PT: SPORT TV 2 HD
 http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/798
 #EXTINF:-1,PT: SPORT TV 2 HD
 http://starshare.live:8080/live/44556677/44556677/315.ts
+#EXTINF:-1,PT: SPORT TV 2 HD
+http://kingdiablo-iptv.com:8080/live:tolgax1x/Kca35kdDCc/138232
+#EXTINF:-1,PT: SPORT TV 2 HD
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/190269
 #EXTINF:-1,PT: SPORT TV 3
 http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/3235
+#EXTINF:-1,PT: SPORT TV 3
+http://kingdiablo-iptv.com:8080/live:tolgax1x/Kca35kdDCc/138233
+#EXTINF:-1,PT: SPORT TV 3 FHD
+http://kingdiablo-iptv.com:8080/live:tolgax1x/Kca35kdDCc/138234
 #EXTINF:-1,PT: SPORT TV 3 HD
 http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/797
+#EXTINF:-1,PT: SPORT TV 3 HD
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/190270
 #EXTINF:-1,PT: SPORT TV 4
 http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/3234
+#EXTINF:-1,PT: SPORT TV 4
+http://kingdiablo-iptv.com:8080/live:tolgax1x/Kca35kdDCc/138235
+#EXTINF:-1,PT: SPORT TV 4 FHD
+http://kingdiablo-iptv.com:8080/live:tolgax1x/Kca35kdDCc/138236
 #EXTINF:-1,PT: SPORT TV 4 HD
 http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/796
+#EXTINF:-1,PT: SPORT TV 4 HD
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/190271
+#EXTINF:-1,PT: SPORT TV 4K
+http://kingdiablo-iptv.com:8080/live:tolgax1x/Kca35kdDCc/138237
 #EXTINF:-1,PT: SPORT TV 5
 http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/3233
+#EXTINF:-1,PT: SPORT TV 5
+http://kingdiablo-iptv.com:8080/live:tolgax1x/Kca35kdDCc/138238
 #EXTINF:-1,PT: SPORT TV 5 HD
 http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/1658
-#EXTINF:-1,SNR | SPORT TV 3 UHD
-http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/92454
-#EXTINF:-1,SNR | SPORT TV 4 | FHD
-http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/92455
-#EXTINF:-1,|BR| ELEVEN SPORTS 5 FHD
-http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/44546
+#EXTINF:-1,PT: SPORT TV 5 HD
+http://starshare.live:8080/live/44556677/44556677/318.ts
+#EXTINF:-1,PT: SPORT TV 5 HD
+http://kingdiablo-iptv.com:8080/live:tolgax1x/Kca35kdDCc/138239
+#EXTINF:-1,PT: SPORT TV 5 HD
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/190272
+#EXTINF:-1,PT: SPORT TV3 HD
+http://starshare.live:8080/live/44556677/44556677/316.ts
+#EXTINF:-1,PT: SPORT TV4 HD
+http://starshare.live:8080/live/44556677/44556677/317.ts
+#EXTINF:-1,PT:Â†³ SPORT TV 1 HD
+http://live.iptv-ksa.com:80/yunis2/yunis2/170843
+#EXTINF:-1,PT:Â†³ SPORT TV 2 HD
+http://live.iptv-ksa.com:80/yunis2/yunis2/170844
+#EXTINF:-1,PT:Â†³ SPORT TV 3 HD
+http://live.iptv-ksa.com:80/yunis2/yunis2/170845
+#EXTINF:-1,PT:Â†³ SPORT TV 4 HD
+http://live.iptv-ksa.com:80/yunis2/yunis2/170846
+#EXTINF:-1,PT:Â†³ SPORT TV 5 HD
+http://live.iptv-ksa.com:80/yunis2/yunis2/170847
+#EXTINF:-1,PT:SPORT TV 1 FHD
+http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/29392
+#EXTINF:-1,PT:SPORT TV 1 HD
+http://181.215.178.201:8000/BekirSatilmis/H3gV4kWOSa/57641
+#EXTINF:-1,PT:SPORT TV 1 HD
+http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/3192
+#EXTINF:-1,PT:SPORT TV 1 SD
+http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/29388
+#EXTINF:-1,PT:SPORT TV 2 FHD
+http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/29391
+#EXTINF:-1,PT:SPORT TV 2 HD
+http://181.215.178.201:8000/BekirSatilmis/H3gV4kWOSa/57642
+#EXTINF:-1,PT:SPORT TV 2 HD
+http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/3191
+#EXTINF:-1,PT:SPORT TV 2 SD
+http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/29387
+#EXTINF:-1,PT:SPORT TV 3 FHD
+http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/29390
+#EXTINF:-1,PT:SPORT TV 3 HD
+http://181.215.178.201:8000/BekirSatilmis/H3gV4kWOSa/57643
+#EXTINF:-1,PT:SPORT TV 3 HD
+http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/3190
+#EXTINF:-1,PT:SPORT TV 3 SD
+http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/29386
+#EXTINF:-1,PT:SPORT TV 4 FHD
+http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/29389
+#EXTINF:-1,PT:SPORT TV 4 HD
+http://181.215.178.201:8000/BekirSatilmis/H3gV4kWOSa/57644
+#EXTINF:-1,PT:SPORT TV 4 HD
+http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/3189
+#EXTINF:-1,PT:SPORT TV 4 SD
+http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/29385
+#EXTINF:-1,PT:SPORT TV 5 HD
+http://181.215.178.201:8000/BekirSatilmis/H3gV4kWOSa/57645
+#EXTINF:-1,PT:SPORT TV 5 HD
+http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/3188
+#EXTINF:-1,PT| SPORT TV
+http://rv.imax.re:80/4822570279/8799305052/81653
+#EXTINF:-1,PT| SPORT TV 1
+http://rv.imax.re:80/4822570279/8799305052/81650
+#EXTINF:-1,PT| SPORT TV 1 HD
+http://rv.imax.re:80/4822570279/8799305052/81781
+#EXTINF:-1,PT| SPORT TV 1 HD
+http://rv.imax.re:80/4822570279/8799305052/81652
+#EXTINF:-1,PT| SPORT TV 1 HD NOS
+http://rv.imax.re:80/4822570279/8799305052/81651
+#EXTINF:-1,PT| SPORT TV 2
+http://rv.imax.re:80/4822570279/8799305052/81648
+#EXTINF:-1,PT| SPORT TV 2 HD
+http://rv.imax.re:80/4822570279/8799305052/81780
+#EXTINF:-1,PT| SPORT TV 2 HD
+http://rv.imax.re:80/4822570279/8799305052/81649
+#EXTINF:-1,PT| SPORT TV 3
+http://rv.imax.re:80/4822570279/8799305052/81646
+#EXTINF:-1,PT| SPORT TV 3 HD
+http://rv.imax.re:80/4822570279/8799305052/81779
+#EXTINF:-1,PT| SPORT TV 3 HD
+http://rv.imax.re:80/4822570279/8799305052/81647
+#EXTINF:-1,PT| SPORT TV 4
+http://rv.imax.re:80/4822570279/8799305052/81645
+#EXTINF:-1,PT| SPORT TV 5
+http://rv.imax.re:80/4822570279/8799305052/81644
+#EXTINF:-1,SPORT TV 1 HD (PT)
+http://66.northerniptv.ca:8000/e267F1USIvhTpTEH4/mPPmzdj1hTU1Fdb2d/4643
+#EXTINF:-1,SPORT TV 2 HD (PT)
+http://66.northerniptv.ca:8000/e267F1USIvhTpTEH4/mPPmzdj1hTU1Fdb2d/4647
+#EXTINF:-1,SPORT TV 3 HD (PT)
+http://66.northerniptv.ca:8000/e267F1USIvhTpTEH4/mPPmzdj1hTU1Fdb2d/4646
+#EXTINF:-1,SPORT TV 4 HD (PT)
+http://66.northerniptv.ca:8000/e267F1USIvhTpTEH4/mPPmzdj1hTU1Fdb2d/4645
+#EXTINF:-1,SPORT TV 5 HD (PT)
+http://66.northerniptv.ca:8000/e267F1USIvhTpTEH4/mPPmzdj1hTU1Fdb2d/4644
+#EXTINF:0 TVG-COUNTRY="PT" TVG-LOGO="" GROUP-TITLE="SPORT",ELEVEN SPORTS 1 FHD
+http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/33360?checkedby:iptvcat.com
+#EXTINF:0 TVG-COUNTRY="PT" TVG-LOGO="" GROUP-TITLE="SPORT",ELEVEN SPORTS 2 FHD
+http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/33359?checkedby:iptvcat.com
+#EXTINF:0 TVG-COUNTRY="PT" TVG-LOGO="" GROUP-TITLE="SPORT",ELEVEN SPORTS 2 HD
+http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/33491?checkedby:iptvcat.com
+#EXTINF:0 TVG-COUNTRY="PT" TVG-LOGO="" GROUP-TITLE="SPORT",ELEVEN SPORTS 3
+http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/33490?checkedby:iptvcat.com
+#EXTINF:0 TVG-COUNTRY="PT" TVG-LOGO="" GROUP-TITLE="SPORT",ELEVEN SPORTS 3 FHD
+http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/33358?checkedby:iptvcat.com
+#EXTINF:0 TVG-COUNTRY="PT" TVG-LOGO="" GROUP-TITLE="SPORT",ELEVEN SPORTS 4 FHD
+http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/33489?checkedby:iptvcat.com
+#EXTINF:0 TVG-COUNTRY="PT" TVG-LOGO="" GROUP-TITLE="SPORT",ELEVEN SPORTS 4 FHD
+http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/33357?checkedby:iptvcat.com
+#EXTINF:0 TVG-COUNTRY="PT" TVG-LOGO="" GROUP-TITLE="SPORT",ELEVEN SPORTS 4 HD
+http://truvaiptv.com:7777/ayberK/ayberK/68670?checkedby:iptvcat.com
+#EXTINF:0 TVG-COUNTRY="PT" TVG-LOGO="" GROUP-TITLE="SPORT",ELEVEN SPORTS 4 HEVC
+http://152.89.62.111:8080/m123/m123/145958?checkedby:iptvcat.com
+#EXTINF:0 TVG-COUNTRY="RO" TVG-LOGO="" GROUP-TITLE="SPORT",PT ELEVEN SPORTS 1
+http://152.89.62.111:8080/m123/m123/148567?checkedby:iptvcat.com
+#EXTINF:0 TVG-COUNTRY="RO" TVG-LOGO="" GROUP-TITLE="SPORT",PT ELEVEN SPORTS 2
+http://152.89.62.111:8080/m123/m123/148569?checkedby:iptvcat.com
+#EXTINF:0 TVG-COUNTRY="RO" TVG-LOGO="" GROUP-TITLE="SPORT",PT ELEVEN SPORTS 6
+http://152.89.62.111:8080/m123/m123/148577?checkedby:iptvcat.com
 #EXTINF:-1,|PT| ELEVEN SPORTS 1 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47284
 #EXTINF:-1,|PT| ELEVEN SPORTS 2 HEVC
@@ -66,34 +258,18 @@ http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47287
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47288
 #EXTINF:-1,|PT| ELEVEN SPORTS 6 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47289
-#EXTINF:-1,BE: ELEVEN SPORTS 3 HD BE
-http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/39905
-#EXTINF:-1,BL | ELEVEN SPORTS 2 HD
-http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/81338
-#EXTINF:-1,BL | ELEVEN SPORTS 3 HD
-http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/81339
-#EXTINF:-1,BL | ELEVEN SPORTS 4 HD
-http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/81340
-#EXTINF:-1,BL | ELEVEN SPORTS 5 HD
-http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/81341
-#EXTINF:-1,BR: ELEVEN SPORTS 5 FHD
-http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/17853
-#EXTINF:-1,ES: ELEVEN SPORTS 4 HD
-http://51.91.73.99:25461/spain/XDWu1KatRP/8729
-#EXTINF:-1,PL: ELEVEN SPORTS 1 FHD
-http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/12401
-#EXTINF:-1,PL: ELEVEN SPORTS 1 FHD
-http://starshare.live:8080/live/44556677/44556677/1962.ts
-#EXTINF:-1,PL: ELEVEN SPORTS 2 FHD
-http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/12349
-#EXTINF:-1,PL: ELEVEN SPORTS 3 FHD
-http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/12348
-#EXTINF:-1,PL: ELEVEN SPORTS 3 FHD
-http://starshare.live:8080/live/44556677/44556677/1984.ts
-#EXTINF:-1,PL: ELEVEN SPORTS 4 FHD
-http://starshare.live:8080/live/44556677/44556677/1963.ts
-#EXTINF:-1,PT : ELEVEN SPORTS 2
-http://starshare.live:8080/live/44556677/44556677/1645.ts
+#EXTINF:-1,ELEVEN SPORTS 1 (PT)
+http://66.northerniptv.ca:8000/e267F1USIvhTpTEH4/mPPmzdj1hTU1Fdb2d/106877
+#EXTINF:-1,ELEVEN SPORTS 2 (PT)
+http://66.northerniptv.ca:8000/e267F1USIvhTpTEH4/mPPmzdj1hTU1Fdb2d/106878
+#EXTINF:-1,ELEVEN SPORTS 3 (PT)
+http://66.northerniptv.ca:8000/e267F1USIvhTpTEH4/mPPmzdj1hTU1Fdb2d/106879
+#EXTINF:-1,ELEVEN SPORTS 4 (PT)
+http://66.northerniptv.ca:8000/e267F1USIvhTpTEH4/mPPmzdj1hTU1Fdb2d/106880
+#EXTINF:-1,ELEVEN SPORTS 5 (PT)
+http://66.northerniptv.ca:8000/e267F1USIvhTpTEH4/mPPmzdj1hTU1Fdb2d/106881
+#EXTINF:-1,ELEVEN SPORTS 6 (PT)
+http://66.northerniptv.ca:8000/e267F1USIvhTpTEH4/mPPmzdj1hTU1Fdb2d/106882
 #EXTINF:-1,PT : ELEVEN SPORTS 3
 http://starshare.live:8080/live/44556677/44556677/1644.ts
 #EXTINF:-1,PT | ELEVEN SPORTS 1 | HD
@@ -108,75 +284,171 @@ http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/9403
 http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/9405
 #EXTINF:-1,PT | ELEVEN SPORTS 6 | HD
 http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/9407
+#EXTINF:-1,PT: ELEVEN SPORTS 1
+http://kingdiablo-iptv.com:8080/live:tolgax1x/Kca35kdDCc/138126
 #EXTINF:-1,PT: ELEVEN SPORTS 1 FHD
 http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/6895
+#EXTINF:-1,PT: ELEVEN SPORTS 1 FHD
+http://kingdiablo-iptv.com:8080/live:tolgax1x/Kca35kdDCc/138127
 #EXTINF:-1,PT: ELEVEN SPORTS 1 HD
 http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/5604
+#EXTINF:-1,PT: ELEVEN SPORTS 1 HD
+http://kingdiablo-iptv.com:8080/live:tolgax1x/Kca35kdDCc/138128
+#EXTINF:-1,PT: ELEVEN SPORTS 1 HD
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/190273
 #EXTINF:-1,PT: ELEVEN SPORTS 1 SD
 http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/6897
+#EXTINF:-1,PT: ELEVEN SPORTS 2
+http://kingdiablo-iptv.com:8080/live:tolgax1x/Kca35kdDCc/138129
 #EXTINF:-1,PT: ELEVEN SPORTS 2 FHD
 http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/6892
+#EXTINF:-1,PT: ELEVEN SPORTS 2 FHD
+http://kingdiablo-iptv.com:8080/live:tolgax1x/Kca35kdDCc/138130
 #EXTINF:-1,PT: ELEVEN SPORTS 2 HD
 http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/5603
+#EXTINF:-1,PT: ELEVEN SPORTS 2 HD
+http://kingdiablo-iptv.com:8080/live:tolgax1x/Kca35kdDCc/138131
+#EXTINF:-1,PT: ELEVEN SPORTS 2 HD
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/190274
 #EXTINF:-1,PT: ELEVEN SPORTS 2 SD
 http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/6894
+#EXTINF:-1,PT: ELEVEN SPORTS 3
+http://kingdiablo-iptv.com:8080/live:tolgax1x/Kca35kdDCc/138132
+#EXTINF:-1,PT: ELEVEN SPORTS 3
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/190275
+#EXTINF:-1,PT: ELEVEN SPORTS 3 FHD
+http://kingdiablo-iptv.com:8080/live:tolgax1x/Kca35kdDCc/138133
 #EXTINF:-1,PT: ELEVEN SPORTS 3 HD
 http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/5602
+#EXTINF:-1,PT: ELEVEN SPORTS 3 HD
+http://kingdiablo-iptv.com:8080/live:tolgax1x/Kca35kdDCc/138134
 #EXTINF:-1,PT: ELEVEN SPORTS 3 SD
 http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/7741
+#EXTINF:-1,PT: ELEVEN SPORTS 4
+http://kingdiablo-iptv.com:8080/live:tolgax1x/Kca35kdDCc/138135
+#EXTINF:-1,PT: ELEVEN SPORTS 4
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/190276
+#EXTINF:-1,PT: ELEVEN SPORTS 4 FHD
+http://kingdiablo-iptv.com:8080/live:tolgax1x/Kca35kdDCc/138136
 #EXTINF:-1,PT: ELEVEN SPORTS 4 HD
 http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/5601
+#EXTINF:-1,PT: ELEVEN SPORTS 4 HD
+http://kingdiablo-iptv.com:8080/live:tolgax1x/Kca35kdDCc/138137
 #EXTINF:-1,PT: ELEVEN SPORTS 4 SD
 http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/7740
+#EXTINF:-1,PT: ELEVEN SPORTS 5
+http://kingdiablo-iptv.com:8080/live:tolgax1x/Kca35kdDCc/138138
+#EXTINF:-1,PT: ELEVEN SPORTS 5
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/190277
+#EXTINF:-1,PT: ELEVEN SPORTS 5 FHD
+http://kingdiablo-iptv.com:8080/live:tolgax1x/Kca35kdDCc/138139
 #EXTINF:-1,PT: ELEVEN SPORTS 5 HD
 http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/5600
 #EXTINF:-1,PT: ELEVEN SPORTS 5 SD
 http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/7739
+#EXTINF:-1,PT: ELEVEN SPORTS 6
+http://kingdiablo-iptv.com:8080/live:tolgax1x/Kca35kdDCc/138140
+#EXTINF:-1,PT: ELEVEN SPORTS 6
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/190278
+#EXTINF:-1,PT: ELEVEN SPORTS 6 FHD
+http://kingdiablo-iptv.com:8080/live:tolgax1x/Kca35kdDCc/138141
 #EXTINF:-1,PT: ELEVEN SPORTS 6 HD
 http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/5599
 #EXTINF:-1,PT: ELEVEN SPORTS 6 SD
 http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/7738
-#EXTINF:-1,UEFA | ELEVEN SPORTS 1 HD PORTUGAL
-http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/82360
-#EXTINF:-1,UEFA | ELEVEN SPORTS 2 HD PORTUGAL
-http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/82361
-#EXTINF:-1,UEFA | ELEVEN SPORTS 3 HD PORTUGAL
-http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/82362
-#EXTINF:-1,UEFA | ELEVEN SPORTS 4 HD PORTUGAL
-http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/82363
-#EXTINF:-1,UEFA | ELEVEN SPORTS 5 HD PORTUGAL
-http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/82364
-#EXTINF:-1,UEFA | ELEVEN SPORTS 6 HD PORTUGAL
-http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/82365
-#EXTINF:-1,|BG| BTV ACTION HD
-http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47104
-#EXTINF:-1,|BG| BTV CINEMA
-http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47105
-#EXTINF:-1,|BG| BTV COMEDY
-http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47106
-#EXTINF:-1,|BG| BTV HD
-http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47062
-#EXTINF:-1,|BG| BTV LADY
-http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47088
+#EXTINF:-1,PT:Â†³ ELEVEN SPORTS 1 HD
+http://live.iptv-ksa.com:80/yunis2/yunis2/170848
+#EXTINF:-1,PT:Â†³ ELEVEN SPORTS 2 HD
+http://live.iptv-ksa.com:80/yunis2/yunis2/170849
+#EXTINF:-1,PT:Â†³ ELEVEN SPORTS 3
+http://live.iptv-ksa.com:80/yunis2/yunis2/170850
+#EXTINF:-1,PT:Â†³ ELEVEN SPORTS 4
+http://live.iptv-ksa.com:80/yunis2/yunis2/170851
+#EXTINF:-1,PT:Â†³ ELEVEN SPORTS 5
+http://live.iptv-ksa.com:80/yunis2/yunis2/170852
+#EXTINF:-1,PT:Â†³ ELEVEN SPORTS 6
+http://live.iptv-ksa.com:80/yunis2/yunis2/170853
+#EXTINF:-1,PT:ELEVEN SPORTS 1 FHD
+http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/29371
+#EXTINF:-1,PT:ELEVEN SPORTS 1 SD
+http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/49966
+#EXTINF:-1,PT:ELEVEN SPORTS 2 FHD
+http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/29370
+#EXTINF:-1,PT:ELEVEN SPORTS 2 HD
+http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/49958
+#EXTINF:-1,PT:ELEVEN SPORTS 3 FHD
+http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/29369
+#EXTINF:-1,PT:ELEVEN SPORTS 4 FHD
+http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/29368
+#EXTINF:-1,PT:ELEVEN SPORTS 5
+http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/29334
+#EXTINF:-1,PT:ELEVEN SPORTS 6 FHD
+http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/49032
+#EXTINF:-1,PT| ELEVEN SPORTS  3 HD
+http://rv.imax.re:80/4822570279/8799305052/81775
+#EXTINF:-1,PT| ELEVEN SPORTS 1 HD
+http://rv.imax.re:80/4822570279/8799305052/81777
+#EXTINF:-1,PT| ELEVEN SPORTS 1 HD
+http://rv.imax.re:80/4822570279/8799305052/81642
+#EXTINF:-1,PT| ELEVEN SPORTS 2 HD
+http://rv.imax.re:80/4822570279/8799305052/81776
+#EXTINF:-1,PT| ELEVEN SPORTS 2 HD
+http://rv.imax.re:80/4822570279/8799305052/81641
+#EXTINF:-1,PT| ELEVEN SPORTS 3 HD
+http://rv.imax.re:80/4822570279/8799305052/81640
+#EXTINF:-1,PT| ELEVEN SPORTS 4 HD
+http://rv.imax.re:80/4822570279/8799305052/81774
+#EXTINF:-1,PT| ELEVEN SPORTS 4 HD
+http://rv.imax.re:80/4822570279/8799305052/81639
+#EXTINF:-1,PT| ELEVEN SPORTS 5 HD
+http://rv.imax.re:80/4822570279/8799305052/81773
+#EXTINF:-1,PT| ELEVEN SPORTS 5 HD
+http://rv.imax.re:80/4822570279/8799305052/81638
+#EXTINF:-1,PT| ELEVEN SPORTS 6 HD
+http://rv.imax.re:80/4822570279/8799305052/81772
+#EXTINF:-1,PT| ELEVEN SPORTS 6 HD
+http://rv.imax.re:80/4822570279/8799305052/81637
+#EXTINF:-1,PT-ELEVEN SPORTS 1
+http://starshare.live:8080/live/44556677/44556677/1646.ts
+#EXTINF:0 TVG-COUNTRY="PT" TVG-LOGO="" GROUP-TITLE="UNDEFINED",BENFICA TV FULLHD
+http://tvmedia2.com:8080/Majdi1/Majdi1/165196.ts?checkedby:iptvcat.com
+#EXTINF:0 TVG-COUNTRY="PT" TVG-LOGO="" GROUP-TITLE="UNDEFINED",BENFICA TV FULLHD
+http://tvmedia2.com:8080/Hunter2/Hunter2/165196.ts?checkedby:iptvcat.com
 #EXTINF:-1,|PT| BENFICA TV HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47292
-#EXTINF:-1,|VN| BTV  PACIFY
-http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/37308
-#EXTINF:-1,BD : BTV BD
-http://starshare.live:8080/live/44556677/44556677/998.ts
-#EXTINF:-1,BE: BTV COMEDY
-http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/39884
-#EXTINF:-1,BG | BTV CINEMA
-http://starshare.live:8080/live/44556677/44556677/2219.ts
-#EXTINF:-1,BR: BTV LADY
-http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/17782
+#EXTINF:-1,BENFICA TV HD (PT)
+http://66.northerniptv.ca:8000/e267F1USIvhTpTEH4/mPPmzdj1hTU1Fdb2d/545
 #EXTINF:-1,PT | BENFICA TV | UHD
 http://megaplustv.club:8080/iptvconet/gnDbHUYQqE/9351
 #EXTINF:-1,PT: BENFICA TV 1
 http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/1111
+#EXTINF:-1,PT: BENFICA TV 1
+http://kingdiablo-iptv.com:8080/live:tolgax1x/Kca35kdDCc/138091
 #EXTINF:-1,PT: BENFICA TV 1 FHD
 http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/3247
+#EXTINF:-1,PT: BENFICA TV 1 HD
+http://kingdiablo-iptv.com:8080/live:tolgax1x/Kca35kdDCc/138092
 #EXTINF:-1,PT: BENFICA TV HD
 http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/10265
-#EXTINF:-1,THAI: BTV NEWS
-http://starshare.live:8080/live/44556677/44556677/2034.ts
+#EXTINF:-1,PT: BTV
+http://kingdiablo-iptv.com:8080/live:tolgax1x/Kca35kdDCc/138095
+#EXTINF:-1,PT: BTV 1 HD
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/190279
+#EXTINF:-1,PT: BTV FHD
+http://kingdiablo-iptv.com:8080/live:tolgax1x/Kca35kdDCc/138096
+#EXTINF:-1,PT: BTV HD
+http://kingdiablo-iptv.com:8080/live:tolgax1x/Kca35kdDCc/138097
+#EXTINF:-1,PT:Â†³ BTV 1 HD
+http://live.iptv-ksa.com:80/yunis2/yunis2/170854
+#EXTINF:-1,PT:BENFICA TV 1 FHD
+http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/3239
+#EXTINF:-1,PT:BENFICA TV 1 HD
+http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/3238
+#EXTINF:-1,PT:BENFICA TV 1 SD
+http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/3237
+#EXTINF:-1,PT:BENFICA TV HD
+http://181.215.178.201:8000/BekirSatilmis/H3gV4kWOSa/57638
+#EXTINF:-1,PT| BTV 1 HD
+http://rv.imax.re:80/4822570279/8799305052/81786
+#EXTINF:-1,PT| BTV 1 HD
+http://rv.imax.re:80/4822570279/8799305052/81664
