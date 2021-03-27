@@ -1,1 +1,45 @@
 #EXTM3U
+#EXTINF:-1 tvg-country="PT" group-title="BENFICA TV",BENFICA TV HEVC
+http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47292
+#EXTINF:-1 tvg-country="PT" group-title="BTV",BTV FHD
+http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/954
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
+http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/1045
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
+http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/1044
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HEVC
+http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47284
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HD
+http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/1043
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HEVC
+http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47285
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
+http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/1041
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HEVC
+http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47286
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HD
+http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/1039
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HEVC
+http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47287
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HD
+http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/1038
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HEVC
+http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47288
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HEVC
+http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47289
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HEVC
+http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47277
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 
+http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/985
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
+http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/984
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HEVC
+http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47278
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 HEVC
+http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47279
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 
+http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/983
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 HEVC
+http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47280
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 HEVC
+http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47281
