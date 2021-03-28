@@ -1,16 +1,42 @@
 #EXTM3U
 #EXTINF:-1 tvg-country="PT" group-title="BENFICA TV",BENFICA TV 
 http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/1111
+#EXTINF:-1 tvg-country="PT" group-title="BENFICA TV",BENFICA TV 
+https://kielbasa.live:443/Adam1/Adam1/478889
+#EXTINF:-1 tvg-country="PT" group-title="BENFICA TV",BENFICA TV 
+https://kielbasa.live:443/Adam1/Adam1/478890
+#EXTINF:-1 tvg-country="PT" group-title="BENFICA TV",BENFICA TV 
+https://kielbasa.live:443/Adam1/Adam1/478891
 #EXTINF:-1 tvg-country="PT" group-title="BENFICA TV",BENFICA TV FHD
 http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/3247
 #EXTINF:-1 tvg-country="PT" group-title="BENFICA TV",BENFICA TV FHD
 http://mvip-tn.com:25461/duygulu/OkVXhqEMpd/39943
+#EXTINF:-1 tvg-country="PT" group-title="BENFICA TV",BENFICA TV FHD
+http://panelvip1.com:8080/okanozbek/zhYxBbK7mU/58560
 #EXTINF:-1 tvg-country="PT" group-title="BENFICA TV",BENFICA TV HD
 http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/10265
 #EXTINF:-1 tvg-country="PT" group-title="BENFICA TV",BENFICA TV HD
 http://mvip-tn.com:25461/duygulu/OkVXhqEMpd/28247
 #EXTINF:-1 tvg-country="PT" group-title="BENFICA TV",BENFICA TV HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47292
+#EXTINF:-1 tvg-country="PT" group-title="BTV",BTV FHD
+http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/954
+#EXTINF:-1 tvg-country="PT" group-title="BTV",BTV FHD
+http://panelvip1.com:8080/okanozbek/zhYxBbK7mU/58566
+#EXTINF:-1 tvg-country="PT" group-title="BTV",BTV HD
+http://bazarhd.online:80/6067624950/2986891196/81786
+#EXTINF:-1 tvg-country="PT" group-title="BTV",BTV HD
+http://bazarhd.online:80/6067624950/2986891196/81664
+#EXTINF:-1 tvg-country="PT" group-title="BTV",BTV HD
+https://kielbasa.live:443/Adam1/Adam1/478892
+#EXTINF:-1 tvg-country="PT" group-title="BTV",BTV HD
+http://bazarhd.online:80/307234110115/307234110115/81786
+#EXTINF:-1 tvg-country="PT" group-title="BTV",BTV HD
+http://bazarhd.online:80/307234110115/307234110115/81664
+#EXTINF:-1 tvg-country="PT" group-title="BTV",BTV HD
+http://rv.flysat.live:80/307200111632/307200111632/81786
+#EXTINF:-1 tvg-country="PT" group-title="BTV",BTV HD
+http://rv.flysat.live:80/307200111632/307200111632/81664
 #EXTINF:-1 tvg-country="PT" group-title="BTV",BTV HD
 http://bazarhd.online:80/307234110115/307234110115/81786
 #EXTINF:-1 tvg-country="PT" group-title="BTV",BTV HD
@@ -27,10 +53,28 @@ http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/6895
 http://mvip-tn.com:25461/duygulu/OkVXhqEMpd/28250
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 FHD
 http://vipavrupa.org:8080/T6QNVGITWb123/LVcencOcf5/8667
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 FHD
+http://panelvip1.com:8080/okanozbek/zhYxBbK7mU/58597
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
 http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/5604
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
 http://mvip-tn.com:25461/duygulu/OkVXhqEMpd/28249
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
+http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/1045
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
+http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/1044
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
+http://bazarhd.online:80/6067624950/2986891196/81777
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
+http://bazarhd.online:80/6067624950/2986891196/81642
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
+http://bazarhd.online:80/307234110115/307234110115/81777
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
+http://bazarhd.online:80/307234110115/307234110115/81642
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
+http://rv.flysat.live:80/307200111632/307200111632/81777
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
+http://rv.flysat.live:80/307200111632/307200111632/81642
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
 http://bazarhd.online:80/307234110115/307234110115/81777
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
@@ -51,10 +95,26 @@ http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/6892
 http://mvip-tn.com:25461/duygulu/OkVXhqEMpd/28253
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 FHD
 http://vipavrupa.org:8080/T6QNVGITWb123/LVcencOcf5/3622
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 FHD
+http://panelvip1.com:8080/okanozbek/zhYxBbK7mU/58599
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HD
 http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/5603
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HD
 http://mvip-tn.com:25461/duygulu/OkVXhqEMpd/28252
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HD
+http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/1043
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HD
+http://bazarhd.online:80/6067624950/2986891196/81776
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HD
+http://bazarhd.online:80/6067624950/2986891196/81641
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HD
+http://bazarhd.online:80/307234110115/307234110115/81776
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HD
+http://bazarhd.online:80/307234110115/307234110115/81641
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HD
+http://rv.flysat.live:80/307200111632/307200111632/81776
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HD
+http://rv.flysat.live:80/307200111632/307200111632/81641
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HD
 http://bazarhd.online:80/307234110115/307234110115/81776
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HD
@@ -73,10 +133,26 @@ http://starshare.live:8080/live/44556677/44556677/1644.ts
 http://mvip-tn.com:25461/duygulu/OkVXhqEMpd/28256
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 FHD
 http://vipavrupa.org:8080/T6QNVGITWb123/LVcencOcf5/3623
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 FHD
+http://panelvip1.com:8080/okanozbek/zhYxBbK7mU/58601
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
 http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/5602
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
 http://mvip-tn.com:25461/duygulu/OkVXhqEMpd/28255
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
+http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/1041
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
+http://bazarhd.online:80/6067624950/2986891196/81775
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
+http://bazarhd.online:80/6067624950/2986891196/81640
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
+http://bazarhd.online:80/307234110115/307234110115/81775
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
+http://bazarhd.online:80/307234110115/307234110115/81640
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
+http://rv.flysat.live:80/307200111632/307200111632/81775
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
+http://rv.flysat.live:80/307200111632/307200111632/81640
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
 http://bazarhd.online:80/307234110115/307234110115/81775
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
@@ -91,10 +167,26 @@ http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47286
 http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/7741
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 FHD
 http://mvip-tn.com:25461/duygulu/OkVXhqEMpd/28258
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 FHD
+http://panelvip1.com:8080/okanozbek/zhYxBbK7mU/58603
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HD
 http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/5601
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HD
 http://mvip-tn.com:25461/duygulu/OkVXhqEMpd/28257
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HD
+http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/1039
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HD
+http://bazarhd.online:80/6067624950/2986891196/81774
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HD
+http://bazarhd.online:80/6067624950/2986891196/81639
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HD
+http://bazarhd.online:80/307234110115/307234110115/81774
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HD
+http://bazarhd.online:80/307234110115/307234110115/81639
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HD
+http://rv.flysat.live:80/307200111632/307200111632/81774
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HD
+http://rv.flysat.live:80/307200111632/307200111632/81639
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HD
 http://bazarhd.online:80/307234110115/307234110115/81774
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HD
@@ -109,10 +201,26 @@ http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47287
 http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/7740
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 FHD
 http://mvip-tn.com:25461/duygulu/OkVXhqEMpd/28260
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 FHD
+http://panelvip1.com:8080/okanozbek/zhYxBbK7mU/58605
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HD
 http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/5600
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HD
 http://mvip-tn.com:25461/duygulu/OkVXhqEMpd/28259
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HD
+http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/1038
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HD
+http://bazarhd.online:80/6067624950/2986891196/81773
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HD
+http://bazarhd.online:80/6067624950/2986891196/81638
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HD
+http://bazarhd.online:80/307234110115/307234110115/81773
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HD
+http://bazarhd.online:80/307234110115/307234110115/81638
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HD
+http://rv.flysat.live:80/307200111632/307200111632/81773
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HD
+http://rv.flysat.live:80/307200111632/307200111632/81638
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HD
 http://bazarhd.online:80/307234110115/307234110115/81773
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HD
@@ -127,10 +235,24 @@ http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47288
 http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/7739
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 FHD
 http://mvip-tn.com:25461/duygulu/OkVXhqEMpd/28262
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 FHD
+http://panelvip1.com:8080/okanozbek/zhYxBbK7mU/58607
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HD
 http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/5599
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HD
 http://mvip-tn.com:25461/duygulu/OkVXhqEMpd/28261
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HD
+http://bazarhd.online:80/6067624950/2986891196/81772
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HD
+http://bazarhd.online:80/6067624950/2986891196/81637
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HD
+http://bazarhd.online:80/307234110115/307234110115/81772
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HD
+http://bazarhd.online:80/307234110115/307234110115/81637
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HD
+http://rv.flysat.live:80/307200111632/307200111632/81772
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HD
+http://rv.flysat.live:80/307200111632/307200111632/81637
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HD
 http://bazarhd.online:80/307234110115/307234110115/81772
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HD
@@ -148,6 +270,14 @@ http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/3237
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 
 http://mvip-tn.com:25461/duygulu/OkVXhqEMpd/28224
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 
+http://bazarhd.online:80/6067624950/2986891196/81650
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 
+https://kielbasa.live:443/Adam1/Adam1/478967
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 
+http://bazarhd.online:80/307234110115/307234110115/81650
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 
+http://rv.flysat.live:80/307200111632/307200111632/81650
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 
 http://bazarhd.online:80/307234110115/307234110115/81650
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 
 http://rv.flysat.live:80/307200111632/307200111632/81650
@@ -157,12 +287,40 @@ http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/3698
 http://mvip-tn.com:25461/duygulu/OkVXhqEMpd/28226
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 FHD
 http://vipavrupa.org:8080/T6QNVGITWb123/LVcencOcf5/3616
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 FHD
+http://panelvip1.com:8080/okanozbek/zhYxBbK7mU/58695
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
 http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/799
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
 http://mvip-tn.com:25461/duygulu/OkVXhqEMpd/28225
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
 http://starshare.live:8080/live/44556677/44556677/314.ts
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
+http://bazarhd.online:80/6067624950/2986891196/81781
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
+http://bazarhd.online:80/6067624950/2986891196/81652
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
+http://bazarhd.online:80/6067624950/2986891196/81651
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
+https://kielbasa.live:443/Adam1/Adam1/478968
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
+https://kielbasa.live:443/Adam1/Adam1/478969
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
+https://kielbasa.live:443/Adam1/Adam1/478970
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
+https://kielbasa.live:443/Adam1/Adam1/479023
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
+http://bazarhd.online:80/307234110115/307234110115/81781
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
+http://bazarhd.online:80/307234110115/307234110115/81652
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
+http://bazarhd.online:80/307234110115/307234110115/81651
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
+http://rv.flysat.live:80/307200111632/307200111632/81781
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
+http://rv.flysat.live:80/307200111632/307200111632/81652
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
+http://rv.flysat.live:80/307200111632/307200111632/81651
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
 http://bazarhd.online:80/307234110115/307234110115/81781
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
@@ -182,6 +340,16 @@ http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/3236
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 
 http://mvip-tn.com:25461/duygulu/OkVXhqEMpd/28230
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 
+http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/985
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 
+http://bazarhd.online:80/6067624950/2986891196/81648
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 
+https://kielbasa.live:443/Adam1/Adam1/478971
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 
+http://bazarhd.online:80/307234110115/307234110115/81648
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 
+http://rv.flysat.live:80/307200111632/307200111632/81648
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 
 http://bazarhd.online:80/307234110115/307234110115/81648
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 
 http://rv.flysat.live:80/307200111632/307200111632/81648
@@ -191,12 +359,36 @@ http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/3700
 http://mvip-tn.com:25461/duygulu/OkVXhqEMpd/28232
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 FHD
 http://vipavrupa.org:8080/T6QNVGITWb123/LVcencOcf5/3617
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 FHD
+http://panelvip1.com:8080/okanozbek/zhYxBbK7mU/58697
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
 http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/798
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
 http://mvip-tn.com:25461/duygulu/OkVXhqEMpd/28231
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
 http://starshare.live:8080/live/44556677/44556677/315.ts
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
+http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/984
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
+http://bazarhd.online:80/6067624950/2986891196/81780
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
+http://bazarhd.online:80/6067624950/2986891196/81649
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
+https://kielbasa.live:443/Adam1/Adam1/478972
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
+https://kielbasa.live:443/Adam1/Adam1/478973
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
+https://kielbasa.live:443/Adam1/Adam1/478974
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
+https://kielbasa.live:443/Adam1/Adam1/478975
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
+http://bazarhd.online:80/307234110115/307234110115/81780
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
+http://bazarhd.online:80/307234110115/307234110115/81649
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
+http://rv.flysat.live:80/307200111632/307200111632/81780
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
+http://rv.flysat.live:80/307200111632/307200111632/81649
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
 http://bazarhd.online:80/307234110115/307234110115/81780
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
@@ -212,6 +404,16 @@ http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/3235
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 
 http://mvip-tn.com:25461/duygulu/OkVXhqEMpd/28233
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 
+http://bazarhd.online:80/6067624950/2986891196/81646
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 
+https://kielbasa.live:443/Adam1/Adam1/478976
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 
+https://kielbasa.live:443/Adam1/Adam1/478980
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 
+http://bazarhd.online:80/307234110115/307234110115/81646
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 
+http://rv.flysat.live:80/307200111632/307200111632/81646
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 
 http://bazarhd.online:80/307234110115/307234110115/81646
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 
 http://rv.flysat.live:80/307200111632/307200111632/81646
@@ -219,12 +421,32 @@ http://rv.flysat.live:80/307200111632/307200111632/81646
 http://mvip-tn.com:25461/duygulu/OkVXhqEMpd/28235
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 FHD
 http://vipavrupa.org:8080/T6QNVGITWb123/LVcencOcf5/3618
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 FHD
+http://panelvip1.com:8080/okanozbek/zhYxBbK7mU/58699
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 HD
 http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/797
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 HD
 http://mvip-tn.com:25461/duygulu/OkVXhqEMpd/28234
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 HD
 http://starshare.live:8080/live/44556677/44556677/316.ts
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 HD
+http://bazarhd.online:80/6067624950/2986891196/81779
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 HD
+http://bazarhd.online:80/6067624950/2986891196/81647
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 HD
+https://kielbasa.live:443/Adam1/Adam1/478977
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 HD
+https://kielbasa.live:443/Adam1/Adam1/478978
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 HD
+https://kielbasa.live:443/Adam1/Adam1/478979
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 HD
+http://bazarhd.online:80/307234110115/307234110115/81779
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 HD
+http://bazarhd.online:80/307234110115/307234110115/81647
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 HD
+http://rv.flysat.live:80/307200111632/307200111632/81779
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 HD
+http://rv.flysat.live:80/307200111632/307200111632/81647
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 HD
 http://bazarhd.online:80/307234110115/307234110115/81779
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 HD
@@ -240,6 +462,20 @@ http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/3234
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 
 http://mvip-tn.com:25461/duygulu/OkVXhqEMpd/28236
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 
+http://group-sky.ddns.net:8080/Boldmeskypfr/pvtgLD803C/983
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 
+http://bazarhd.online:80/6067624950/2986891196/81645
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 
+https://kielbasa.live:443/Adam1/Adam1/478981
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 
+https://kielbasa.live:443/Adam1/Adam1/478982
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 
+https://kielbasa.live:443/Adam1/Adam1/478985
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 
+http://bazarhd.online:80/307234110115/307234110115/81645
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 
+http://rv.flysat.live:80/307200111632/307200111632/81645
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 
 http://bazarhd.online:80/307234110115/307234110115/81645
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 
 http://rv.flysat.live:80/307200111632/307200111632/81645
@@ -247,18 +483,36 @@ http://rv.flysat.live:80/307200111632/307200111632/81645
 http://mvip-tn.com:25461/duygulu/OkVXhqEMpd/28238
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 FHD
 http://vipavrupa.org:8080/T6QNVGITWb123/LVcencOcf5/3619
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 FHD
+http://panelvip1.com:8080/okanozbek/zhYxBbK7mU/58701
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 HD
 http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/796
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 HD
 http://mvip-tn.com:25461/duygulu/OkVXhqEMpd/28237
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 HD
 http://starshare.live:8080/live/44556677/44556677/317.ts
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 HD
+https://kielbasa.live:443/Adam1/Adam1/478983
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 HD
+https://kielbasa.live:443/Adam1/Adam1/478984
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47280
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 
 http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/3233
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 
 http://mvip-tn.com:25461/duygulu/OkVXhqEMpd/28240
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 
+http://bazarhd.online:80/6067624950/2986891196/81644
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 
+https://kielbasa.live:443/Adam1/Adam1/478986
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 
+https://kielbasa.live:443/Adam1/Adam1/478987
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 
+https://kielbasa.live:443/Adam1/Adam1/478990
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 
+http://bazarhd.online:80/307234110115/307234110115/81644
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 
+http://rv.flysat.live:80/307200111632/307200111632/81644
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 
 http://bazarhd.online:80/307234110115/307234110115/81644
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 
@@ -267,11 +521,17 @@ http://rv.flysat.live:80/307200111632/307200111632/81644
 http://mvip-tn.com:25461/duygulu/OkVXhqEMpd/28239
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 FHD
 http://vipavrupa.org:8080/T6QNVGITWb123/LVcencOcf5/3620
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 FHD
+http://panelvip1.com:8080/okanozbek/zhYxBbK7mU/58703
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 HD
 http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/1658
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 HD
 http://mvip-tn.com:25461/duygulu/OkVXhqEMpd/28241
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 HD
 http://starshare.live:8080/live/44556677/44556677/318.ts
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 HD
+https://kielbasa.live:443/Adam1/Adam1/478988
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 HD
+https://kielbasa.live:443/Adam1/Adam1/478989
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47281
