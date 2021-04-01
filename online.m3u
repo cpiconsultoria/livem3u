@@ -3,20 +3,6 @@
 http://iptv.nonoip.com:7000/jamila/jamila123/36380
 #EXTINF:-1 tvg-country="PT" group-title="BENFICA TV",BENFICA TV 
 http://152.89.62.111:8080/Duff/Duff/148540
-#EXTINF:-1 tvg-country="PT" group-title="BENFICA TV",BENFICA TV 
-http://37723998.to:2052/milo/milo/196090
-#EXTINF:-1 tvg-country="PT" group-title="BENFICA TV",BENFICA TV 
-http://37723998.to:2052/milo/milo/196120
-#EXTINF:-1 tvg-country="PT" group-title="BENFICA TV",BENFICA TV 
-http://37723998.to:2052/milo/milo/196127
-#EXTINF:-1 tvg-country="PT" group-title="BENFICA TV",BENFICA TV 
-http://152.89.62.111:8080/Duff/Duff/148540
-#EXTINF:-1 tvg-country="PT" group-title="BENFICA TV",BENFICA TV 
-https://kielbasa.live:443/Adam1/Adam1/478889
-#EXTINF:-1 tvg-country="PT" group-title="BENFICA TV",BENFICA TV 
-https://kielbasa.live:443/Adam1/Adam1/478890
-#EXTINF:-1 tvg-country="PT" group-title="BENFICA TV",BENFICA TV 
-https://kielbasa.live:443/Adam1/Adam1/478891
 #EXTINF:-1 tvg-country="PT" group-title="BENFICA TV",BENFICA TV FHD
 http://mvip-tn.com:25461/duygulu/OkVXhqEMpd/39943
 #EXTINF:-1 tvg-country="PT" group-title="BENFICA TV",BENFICA TV FHD
@@ -25,46 +11,18 @@ http://iptv.nonoip.com:7000/jamila/jamila123/36406
 http://mvip-tn.com:25461/duygulu/OkVXhqEMpd/28247
 #EXTINF:-1 tvg-country="PT" group-title="BENFICA TV",BENFICA TV HD
 http://152.89.62.111:8080/Duff/Duff/148541
-#EXTINF:-1 tvg-country="PT" group-title="BENFICA TV",BENFICA TV HD
-http://152.89.62.111:8080/Duff/Duff/148541
 #EXTINF:-1 tvg-country="PT" group-title="BENFICA TV",BENFICA TV HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47292
-#EXTINF:-1 tvg-country="PT" group-title="BTV",BTV 
-http://lapazienzaelavirtudeiforti.ddns.net:29500/davide/123456/150135
-#EXTINF:-1 tvg-country="PT" group-title="BTV",BTV 
-http://37723998.to:2052/milo/milo/196002
 #EXTINF:-1 tvg-country="PT" group-title="BTV",BTV FHD
 http://mlkip.co:8080/mrt01mm/MRR0111M/23646
 #EXTINF:-1 tvg-country="PT" group-title="BTV",BTV HD
-http://lapazienzaelavirtudeiforti.ddns.net:29500/davide/123456/150136
-#EXTINF:-1 tvg-country="PT" group-title="BTV",BTV HD
 http://mlkip.co:8080/mrt01mm/MRR0111M/23645
 #EXTINF:-1 tvg-country="PT" group-title="BTV",BTV HD
-http://bazarhd.online:80/6067624950/2986891196/81786
-#EXTINF:-1 tvg-country="PT" group-title="BTV",BTV HD
-http://bazarhd.online:80/6067624950/2986891196/81664
-#EXTINF:-1 tvg-country="PT" group-title="BTV",BTV HD
 http://bazarhd.online:80/307234110115/307234110115/81786
 #EXTINF:-1 tvg-country="PT" group-title="BTV",BTV HD
 http://bazarhd.online:80/307234110115/307234110115/81664
-#EXTINF:-1 tvg-country="PT" group-title="BTV",BTV HD
-http://bazarhd.online:80/307234110115/307234110115/81786
-#EXTINF:-1 tvg-country="PT" group-title="BTV",BTV HD
-http://bazarhd.online:80/307234110115/307234110115/81664
-#EXTINF:-1 tvg-country="PT" group-title="BTV",BTV HD
-https://kielbasa.live:443/Adam1/Adam1/478892
-#EXTINF:-1 tvg-country="PT" group-title="BTV",BTV HD
-http://bazarhd.online:80/6067624950/2986891196/81786
-#EXTINF:-1 tvg-country="PT" group-title="BTV",BTV HD
-http://bazarhd.online:80/6067624950/2986891196/81664
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 
 http://starshare.live:8080/live/44556677/44556677/1646.ts
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 
-http://lapazienzaelavirtudeiforti.ddns.net:29500/davide/123456/150156
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 
-http://152.89.62.111:8080/Duff/Duff/148567
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 
-http://37723998.to:2052/milo/milo/196017
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 
 http://152.89.62.111:8080/Duff/Duff/148567
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 FHD
@@ -76,39 +34,19 @@ http://iptv.nonoip.com:7000/jamila/jamila123/36393
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
 http://mvip-tn.com:25461/duygulu/OkVXhqEMpd/28249
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
-http://bazarhd.online:80/6067624950/2986891196/81777
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
-http://bazarhd.online:80/6067624950/2986891196/81642
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
 http://iptv.nonoip.com:7000/jamila/jamila123/36392
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
-http://152.89.62.111:8080/Duff/Duff/148568
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
-http://bazarhd.online:80/307234110115/307234110115/81777
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
-http://bazarhd.online:80/307234110115/307234110115/81642
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
 http://bazarhd.online:80/307234110115/307234110115/81777
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
 http://bazarhd.online:80/307234110115/307234110115/81642
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
 http://152.89.62.111:8080/Duff/Duff/148568
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
-http://bazarhd.online:80/6067624950/2986891196/81777
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
-http://bazarhd.online:80/6067624950/2986891196/81642
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47284
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 UHD
 http://iptv.nonoip.com:7000/jamila/jamila123/36394
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 
 http://starshare.live:8080/live/44556677/44556677/1645.ts
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 
-http://lapazienzaelavirtudeiforti.ddns.net:29500/davide/123456/150157
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 
-http://152.89.62.111:8080/Duff/Duff/148569
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 
-http://37723998.to:2052/milo/milo/196018
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 
 http://152.89.62.111:8080/Duff/Duff/148569
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 FHD
@@ -120,39 +58,19 @@ http://iptv.nonoip.com:7000/jamila/jamila123/36396
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HD
 http://mvip-tn.com:25461/duygulu/OkVXhqEMpd/28252
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HD
-http://bazarhd.online:80/6067624950/2986891196/81776
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HD
-http://bazarhd.online:80/6067624950/2986891196/81641
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HD
 http://iptv.nonoip.com:7000/jamila/jamila123/36395
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HD
-http://152.89.62.111:8080/Duff/Duff/148570
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HD
-http://bazarhd.online:80/307234110115/307234110115/81776
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HD
-http://bazarhd.online:80/307234110115/307234110115/81641
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HD
 http://bazarhd.online:80/307234110115/307234110115/81776
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HD
 http://bazarhd.online:80/307234110115/307234110115/81641
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HD
 http://152.89.62.111:8080/Duff/Duff/148570
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HD
-http://bazarhd.online:80/6067624950/2986891196/81776
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HD
-http://bazarhd.online:80/6067624950/2986891196/81641
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47285
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 UHD
 http://iptv.nonoip.com:7000/jamila/jamila123/36397
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 
 http://starshare.live:8080/live/44556677/44556677/1644.ts
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 
-http://lapazienzaelavirtudeiforti.ddns.net:29500/davide/123456/150158
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 
-http://152.89.62.111:8080/Duff/Duff/148571
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 
-http://37723998.to:2052/milo/milo/196019
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 
 http://152.89.62.111:8080/Duff/Duff/148571
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 FHD
@@ -164,35 +82,15 @@ http://iptv.nonoip.com:7000/jamila/jamila123/36399
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
 http://mvip-tn.com:25461/duygulu/OkVXhqEMpd/28255
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
-http://bazarhd.online:80/6067624950/2986891196/81775
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
-http://bazarhd.online:80/6067624950/2986891196/81640
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
 http://iptv.nonoip.com:7000/jamila/jamila123/36398
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
-http://152.89.62.111:8080/Duff/Duff/148572
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
-http://bazarhd.online:80/307234110115/307234110115/81775
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
-http://bazarhd.online:80/307234110115/307234110115/81640
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
 http://bazarhd.online:80/307234110115/307234110115/81775
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
 http://bazarhd.online:80/307234110115/307234110115/81640
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
 http://152.89.62.111:8080/Duff/Duff/148572
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
-http://bazarhd.online:80/6067624950/2986891196/81775
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
-http://bazarhd.online:80/6067624950/2986891196/81640
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47286
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 
-http://lapazienzaelavirtudeiforti.ddns.net:29500/davide/123456/150159
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 
-http://152.89.62.111:8080/Duff/Duff/148573
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 
-http://37723998.to:2052/milo/milo/196020
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 
 http://152.89.62.111:8080/Duff/Duff/148573
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 FHD
@@ -202,35 +100,15 @@ http://iptv.nonoip.com:7000/jamila/jamila123/36401
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HD
 http://mvip-tn.com:25461/duygulu/OkVXhqEMpd/28257
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HD
-http://bazarhd.online:80/6067624950/2986891196/81774
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HD
-http://bazarhd.online:80/6067624950/2986891196/81639
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HD
 http://iptv.nonoip.com:7000/jamila/jamila123/36400
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HD
-http://152.89.62.111:8080/Duff/Duff/148574
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HD
-http://bazarhd.online:80/307234110115/307234110115/81774
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HD
-http://bazarhd.online:80/307234110115/307234110115/81639
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HD
 http://bazarhd.online:80/307234110115/307234110115/81774
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HD
 http://bazarhd.online:80/307234110115/307234110115/81639
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HD
 http://152.89.62.111:8080/Duff/Duff/148574
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HD
-http://bazarhd.online:80/6067624950/2986891196/81774
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HD
-http://bazarhd.online:80/6067624950/2986891196/81639
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47287
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 
-http://lapazienzaelavirtudeiforti.ddns.net:29500/davide/123456/150160
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 
-http://152.89.62.111:8080/Duff/Duff/148575
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 
-http://37723998.to:2052/milo/milo/196021
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 
 http://152.89.62.111:8080/Duff/Duff/148575
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 FHD
@@ -240,35 +118,15 @@ http://iptv.nonoip.com:7000/jamila/jamila123/36403
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HD
 http://mvip-tn.com:25461/duygulu/OkVXhqEMpd/28259
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HD
-http://bazarhd.online:80/6067624950/2986891196/81773
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HD
-http://bazarhd.online:80/6067624950/2986891196/81638
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HD
 http://iptv.nonoip.com:7000/jamila/jamila123/36402
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HD
-http://152.89.62.111:8080/Duff/Duff/148576
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HD
-http://bazarhd.online:80/307234110115/307234110115/81773
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HD
-http://bazarhd.online:80/307234110115/307234110115/81638
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HD
 http://bazarhd.online:80/307234110115/307234110115/81773
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HD
 http://bazarhd.online:80/307234110115/307234110115/81638
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HD
 http://152.89.62.111:8080/Duff/Duff/148576
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HD
-http://bazarhd.online:80/6067624950/2986891196/81773
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HD
-http://bazarhd.online:80/6067624950/2986891196/81638
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47288
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 
-http://lapazienzaelavirtudeiforti.ddns.net:29500/davide/123456/150161
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 
-http://152.89.62.111:8080/Duff/Duff/148577
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 
-http://37723998.to:2052/milo/milo/196022
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 
 http://152.89.62.111:8080/Duff/Duff/148577
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 FHD
@@ -278,55 +136,23 @@ http://iptv.nonoip.com:7000/jamila/jamila123/36405
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HD
 http://mvip-tn.com:25461/duygulu/OkVXhqEMpd/28261
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HD
-http://bazarhd.online:80/6067624950/2986891196/81772
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HD
-http://bazarhd.online:80/6067624950/2986891196/81637
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HD
 http://iptv.nonoip.com:7000/jamila/jamila123/36404
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HD
-http://152.89.62.111:8080/Duff/Duff/148578
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HD
-http://bazarhd.online:80/307234110115/307234110115/81772
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HD
-http://bazarhd.online:80/307234110115/307234110115/81637
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HD
 http://bazarhd.online:80/307234110115/307234110115/81772
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HD
 http://bazarhd.online:80/307234110115/307234110115/81637
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HD
 http://152.89.62.111:8080/Duff/Duff/148578
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HD
-http://bazarhd.online:80/6067624950/2986891196/81772
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HD
-http://bazarhd.online:80/6067624950/2986891196/81637
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47289
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 
 http://mvip-tn.com:25461/duygulu/OkVXhqEMpd/28224
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 
-http://lapazienzaelavirtudeiforti.ddns.net:29500/davide/123456/150211
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 
-http://bazarhd.online:80/6067624950/2986891196/81650
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 
 http://iptv.nonoip.com:7000/jamila/jamila123/36382
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 
-http://152.89.62.111:8080/Duff/Duff/148641
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 
-http://37723998.to:2052/milo/milo/196111
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 
-http://37723998.to:2052/milo/milo/196135
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 
-http://37723998.to:2052/milo/milo/28103
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 
-http://bazarhd.online:80/307234110115/307234110115/81650
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 
 http://bazarhd.online:80/307234110115/307234110115/81650
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 
 http://152.89.62.111:8080/Duff/Duff/148641
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 
-https://kielbasa.live:443/Adam1/Adam1/478967
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 
-http://bazarhd.online:80/6067624950/2986891196/81650
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 FHD
 http://mvip-tn.com:25461/duygulu/OkVXhqEMpd/28226
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 FHD
@@ -340,26 +166,10 @@ http://mvip-tn.com:25461/duygulu/OkVXhqEMpd/28225
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
 http://starshare.live:8080/live/44556677/44556677/314.ts
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
-http://lapazienzaelavirtudeiforti.ddns.net:29500/davide/123456/150212
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
 http://mlkip.co:8080/mrt01mm/MRR0111M/23591
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
-http://bazarhd.online:80/6067624950/2986891196/81781
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
-http://bazarhd.online:80/6067624950/2986891196/81652
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
-http://bazarhd.online:80/6067624950/2986891196/81651
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
 http://iptv.nonoip.com:7000/jamila/jamila123/36383
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
-http://152.89.62.111:8080/Duff/Duff/148642
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
-http://bazarhd.online:80/307234110115/307234110115/81781
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
-http://bazarhd.online:80/307234110115/307234110115/81652
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
-http://bazarhd.online:80/307234110115/307234110115/81651
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
 http://bazarhd.online:80/307234110115/307234110115/81781
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
 http://bazarhd.online:80/307234110115/307234110115/81652
@@ -367,48 +177,16 @@ http://bazarhd.online:80/307234110115/307234110115/81652
 http://bazarhd.online:80/307234110115/307234110115/81651
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
 http://152.89.62.111:8080/Duff/Duff/148642
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
-https://kielbasa.live:443/Adam1/Adam1/478968
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
-https://kielbasa.live:443/Adam1/Adam1/478969
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
-https://kielbasa.live:443/Adam1/Adam1/478970
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
-https://kielbasa.live:443/Adam1/Adam1/479023
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
-http://bazarhd.online:80/6067624950/2986891196/81781
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
-http://bazarhd.online:80/6067624950/2986891196/81652
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
-http://bazarhd.online:80/6067624950/2986891196/81651
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47277
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 
 http://mvip-tn.com:25461/duygulu/OkVXhqEMpd/28230
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 
-http://lapazienzaelavirtudeiforti.ddns.net:29500/davide/123456/150213
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 
-http://bazarhd.online:80/6067624950/2986891196/81648
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 
 http://iptv.nonoip.com:7000/jamila/jamila123/36384
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 
-http://152.89.62.111:8080/Duff/Duff/148643
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 
-http://37723998.to:2052/milo/milo/196067
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 
-http://37723998.to:2052/milo/milo/196159
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 
-http://37723998.to:2052/milo/milo/28102
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 
-http://bazarhd.online:80/307234110115/307234110115/81648
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 
 http://bazarhd.online:80/307234110115/307234110115/81648
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 
 http://152.89.62.111:8080/Duff/Duff/148643
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 
-https://kielbasa.live:443/Adam1/Adam1/478971
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 
-http://bazarhd.online:80/6067624950/2986891196/81648
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 FHD
 http://mvip-tn.com:25461/duygulu/OkVXhqEMpd/28232
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 FHD
@@ -420,69 +198,25 @@ http://mvip-tn.com:25461/duygulu/OkVXhqEMpd/28231
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
 http://starshare.live:8080/live/44556677/44556677/315.ts
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
-http://lapazienzaelavirtudeiforti.ddns.net:29500/davide/123456/150214
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
 http://mlkip.co:8080/mrt01mm/MRR0111M/23588
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
-http://bazarhd.online:80/6067624950/2986891196/81780
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
-http://bazarhd.online:80/6067624950/2986891196/81649
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
 http://iptv.nonoip.com:7000/jamila/jamila123/36385
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
-http://152.89.62.111:8080/Duff/Duff/148644
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
-http://bazarhd.online:80/307234110115/307234110115/81780
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
-http://bazarhd.online:80/307234110115/307234110115/81649
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
 http://bazarhd.online:80/307234110115/307234110115/81780
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
 http://bazarhd.online:80/307234110115/307234110115/81649
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
 http://152.89.62.111:8080/Duff/Duff/148644
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
-https://kielbasa.live:443/Adam1/Adam1/478972
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
-https://kielbasa.live:443/Adam1/Adam1/478973
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
-https://kielbasa.live:443/Adam1/Adam1/478974
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
-https://kielbasa.live:443/Adam1/Adam1/478975
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
-http://bazarhd.online:80/6067624950/2986891196/81780
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
-http://bazarhd.online:80/6067624950/2986891196/81649
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47278
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 
 http://mvip-tn.com:25461/duygulu/OkVXhqEMpd/28233
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 
-http://lapazienzaelavirtudeiforti.ddns.net:29500/davide/123456/150215
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 
-http://bazarhd.online:80/6067624950/2986891196/81646
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 
 http://iptv.nonoip.com:7000/jamila/jamila123/36386
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 
-http://152.89.62.111:8080/Duff/Duff/148645
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 
-http://37723998.to:2052/milo/milo/196068
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 
-http://37723998.to:2052/milo/milo/196160
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 
-http://37723998.to:2052/milo/milo/28101
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 
-http://bazarhd.online:80/307234110115/307234110115/81646
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 
 http://bazarhd.online:80/307234110115/307234110115/81646
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 
 http://152.89.62.111:8080/Duff/Duff/148645
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 
-https://kielbasa.live:443/Adam1/Adam1/478976
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 
-https://kielbasa.live:443/Adam1/Adam1/478980
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 
-http://bazarhd.online:80/6067624950/2986891196/81646
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 FHD
 http://mvip-tn.com:25461/duygulu/OkVXhqEMpd/28235
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 FHD
@@ -494,67 +228,25 @@ http://mvip-tn.com:25461/duygulu/OkVXhqEMpd/28234
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 HD
 http://starshare.live:8080/live/44556677/44556677/316.ts
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 HD
-http://lapazienzaelavirtudeiforti.ddns.net:29500/davide/123456/150219
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 HD
 http://mlkip.co:8080/mrt01mm/MRR0111M/23586
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 HD
-http://bazarhd.online:80/6067624950/2986891196/81779
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 HD
-http://bazarhd.online:80/6067624950/2986891196/81647
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 HD
 http://iptv.nonoip.com:7000/jamila/jamila123/36387
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 HD
-http://152.89.62.111:8080/Duff/Duff/148646
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 HD
-http://bazarhd.online:80/307234110115/307234110115/81779
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 HD
-http://bazarhd.online:80/307234110115/307234110115/81647
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 HD
 http://bazarhd.online:80/307234110115/307234110115/81779
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 HD
 http://bazarhd.online:80/307234110115/307234110115/81647
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 HD
 http://152.89.62.111:8080/Duff/Duff/148646
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 HD
-https://kielbasa.live:443/Adam1/Adam1/478977
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 HD
-https://kielbasa.live:443/Adam1/Adam1/478978
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 HD
-https://kielbasa.live:443/Adam1/Adam1/478979
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 HD
-http://bazarhd.online:80/6067624950/2986891196/81779
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 HD
-http://bazarhd.online:80/6067624950/2986891196/81647
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47279
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 
 http://mvip-tn.com:25461/duygulu/OkVXhqEMpd/28236
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 
-http://lapazienzaelavirtudeiforti.ddns.net:29500/davide/123456/150220
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 
-http://bazarhd.online:80/6067624950/2986891196/81645
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 
 http://iptv.nonoip.com:7000/jamila/jamila123/36388
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 
-http://152.89.62.111:8080/Duff/Duff/148647
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 
-http://37723998.to:2052/milo/milo/196136
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 
-http://37723998.to:2052/milo/milo/28100
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 
-http://bazarhd.online:80/307234110115/307234110115/81645
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 
 http://bazarhd.online:80/307234110115/307234110115/81645
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 
 http://152.89.62.111:8080/Duff/Duff/148647
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 
-https://kielbasa.live:443/Adam1/Adam1/478981
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 
-https://kielbasa.live:443/Adam1/Adam1/478982
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 
-https://kielbasa.live:443/Adam1/Adam1/478985
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 
-http://bazarhd.online:80/6067624950/2986891196/81645
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 FHD
 http://mvip-tn.com:25461/duygulu/OkVXhqEMpd/28238
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 FHD
@@ -571,42 +263,16 @@ http://mlkip.co:8080/mrt01mm/MRR0111M/23584
 http://iptv.nonoip.com:7000/jamila/jamila123/36389
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 HD
 http://152.89.62.111:8080/Duff/Duff/148648
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 HD
-http://152.89.62.111:8080/Duff/Duff/148648
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 HD
-https://kielbasa.live:443/Adam1/Adam1/478983
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 HD
-https://kielbasa.live:443/Adam1/Adam1/478984
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47280
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 
 http://mvip-tn.com:25461/duygulu/OkVXhqEMpd/28240
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 
-http://lapazienzaelavirtudeiforti.ddns.net:29500/davide/123456/150216
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 
-http://bazarhd.online:80/6067624950/2986891196/81644
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 
 http://iptv.nonoip.com:7000/jamila/jamila123/36390
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 
-http://152.89.62.111:8080/Duff/Duff/148649
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 
-http://37723998.to:2052/milo/milo/196069
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 
-http://37723998.to:2052/milo/milo/196161
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 
-http://bazarhd.online:80/307234110115/307234110115/81644
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 
 http://bazarhd.online:80/307234110115/307234110115/81644
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 
 http://152.89.62.111:8080/Duff/Duff/148649
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 
-https://kielbasa.live:443/Adam1/Adam1/478986
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 
-https://kielbasa.live:443/Adam1/Adam1/478987
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 
-https://kielbasa.live:443/Adam1/Adam1/478990
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 
-http://bazarhd.online:80/6067624950/2986891196/81644
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 FHD
 http://mvip-tn.com:25461/duygulu/OkVXhqEMpd/28239
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 FHD
@@ -623,11 +289,5 @@ http://mlkip.co:8080/mrt01mm/MRR0111M/23582
 http://iptv.nonoip.com:7000/jamila/jamila123/36391
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 HD
 http://152.89.62.111:8080/Duff/Duff/148650
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 HD
-http://152.89.62.111:8080/Duff/Duff/148650
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 HD
-https://kielbasa.live:443/Adam1/Adam1/478988
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 HD
-https://kielbasa.live:443/Adam1/Adam1/478989
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47281
