@@ -13,22 +13,10 @@ http://listamy.com:8080/cuco/cuco/393463
 http://nomorecable.xyz:80/vmp343streams/850256/18198
 #EXTINF:-1 tvg-country="PT" group-title="BTV",BTV 
 http://listamy.com:8080/Berto/Berto/393463
-#EXTINF:-1 tvg-country="PT" group-title="BTV",BTV 
-http://sky-siptv.com:8000/jassica11/er1452000/27269
-#EXTINF:-1 tvg-country="PT" group-title="BTV",BTV 
-http://nomorecable.xyz:80/vmp343streams/850256/18198
-#EXTINF:-1 tvg-country="PT" group-title="BTV",BTV 
-http://listamy.com:8080/Berto/Berto/393463
-#EXTINF:-1 tvg-country="PT" group-title="BTV",BTV (LOW)
-http://sky-siptv.com:8000/jassica11/er1452000/27270
 #EXTINF:-1 tvg-country="PT" group-title="BTV",BTV FHD
 http://listamy.com:8080/cuco/cuco/393462
 #EXTINF:-1 tvg-country="PT" group-title="BTV",BTV FHD
 http://client-proplus.com:8080/imad/imad/9642
-#EXTINF:-1 tvg-country="PT" group-title="BTV",BTV FHD
-http://listamy.com:8080/Berto/Berto/393462
-#EXTINF:-1 tvg-country="PT" group-title="BTV",BTV FHD
-http://sky-siptv.com:8000/jassica11/er1452000/27271
 #EXTINF:-1 tvg-country="PT" group-title="BTV",BTV FHD
 http://listamy.com:8080/Berto/Berto/393462
 #EXTINF:-1 tvg-country="PT" group-title="BTV",BTV HD
@@ -37,18 +25,6 @@ http://listamy.com:8080/cuco/cuco/393461
 http://nomorecable.xyz:80/vmp343streams/850256/18138
 #EXTINF:-1 tvg-country="PT" group-title="BTV",BTV HD
 http://listamy.com:8080/Berto/Berto/393461
-#EXTINF:-1 tvg-country="PT" group-title="BTV",BTV HD
-http://live.iptv-ksa.com:80/Nader/Nader/170854
-#EXTINF:-1 tvg-country="PT" group-title="BTV",BTV HD
-http://sky-siptv.com:8000/jassica11/er1452000/27272
-#EXTINF:-1 tvg-country="PT" group-title="BTV",BTV HD
-http://nomorecable.xyz:80/vmp343streams/850256/18138
-#EXTINF:-1 tvg-country="PT" group-title="BTV",BTV HD
-http://listamy.com:8080/Berto/Berto/393461
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 
-http://starshare.live:8080/live/44556677/44556677/1646.ts
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 
-http://nomorecable.xyz:80/vmp343streams/850256/35889
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 
 http://nomorecable.xyz:80/vmp343streams/850256/35889
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 FHD
@@ -57,16 +33,10 @@ http://mvip-tn.com:25461/duygulu/OkVXhqEMpd/28250
 http://listamy.com:8080/cuco/cuco/393464
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 FHD
 http://listamy.com:8080/Berto/Berto/393464
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 FHD
-http://listamy.com:8080/Berto/Berto/393464
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
 http://mvip-tn.com:25461/duygulu/OkVXhqEMpd/28249
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
 http://listamy.com:8080/cuco/cuco/393465
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
-http://listamy.com:8080/Berto/Berto/393465
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
-http://live.iptv-ksa.com:80/Nader/Nader/170848
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
 http://listamy.com:8080/Berto/Berto/393465
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HEVC
@@ -75,12 +45,6 @@ http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47284
 http://listamy.com:8080/cuco/cuco/393466
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 SD
 http://listamy.com:8080/Berto/Berto/393466
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 SD
-http://listamy.com:8080/Berto/Berto/393466
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 
-http://starshare.live:8080/live/44556677/44556677/1645.ts
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 
-http://nomorecable.xyz:80/vmp343streams/850256/35890
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 
 http://nomorecable.xyz:80/vmp343streams/850256/35890
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 FHD
@@ -89,26 +53,14 @@ http://mvip-tn.com:25461/duygulu/OkVXhqEMpd/28253
 http://listamy.com:8080/cuco/cuco/393467
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 FHD
 http://listamy.com:8080/Berto/Berto/393467
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 FHD
-http://listamy.com:8080/Berto/Berto/393467
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HD
 http://mvip-tn.com:25461/duygulu/OkVXhqEMpd/28252
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HD
 http://listamy.com:8080/cuco/cuco/393468
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HD
 http://listamy.com:8080/Berto/Berto/393468
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HD
-http://live.iptv-ksa.com:80/Nader/Nader/170849
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HD
-http://listamy.com:8080/Berto/Berto/393468
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47285
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 
-http://starshare.live:8080/live/44556677/44556677/1644.ts
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 
-http://nomorecable.xyz:80/vmp343streams/850256/35891
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 
-http://live.iptv-ksa.com:80/Nader/Nader/170850
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 
 http://nomorecable.xyz:80/vmp343streams/850256/35891
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 FHD
@@ -117,22 +69,14 @@ http://mvip-tn.com:25461/duygulu/OkVXhqEMpd/28256
 http://listamy.com:8080/cuco/cuco/393469
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 FHD
 http://listamy.com:8080/Berto/Berto/393469
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 FHD
-http://listamy.com:8080/Berto/Berto/393469
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
 http://mvip-tn.com:25461/duygulu/OkVXhqEMpd/28255
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
 http://listamy.com:8080/cuco/cuco/393470
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
 http://listamy.com:8080/Berto/Berto/393470
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
-http://listamy.com:8080/Berto/Berto/393470
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47286
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 
-http://nomorecable.xyz:80/vmp343streams/850256/35892
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 
-http://live.iptv-ksa.com:80/Nader/Nader/170851
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 
 http://nomorecable.xyz:80/vmp343streams/850256/35892
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 FHD
@@ -141,22 +85,14 @@ http://mvip-tn.com:25461/duygulu/OkVXhqEMpd/28258
 http://listamy.com:8080/cuco/cuco/393471
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 FHD
 http://listamy.com:8080/Berto/Berto/393471
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 FHD
-http://listamy.com:8080/Berto/Berto/393471
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HD
 http://mvip-tn.com:25461/duygulu/OkVXhqEMpd/28257
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HD
 http://listamy.com:8080/cuco/cuco/393472
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HD
 http://listamy.com:8080/Berto/Berto/393472
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HD
-http://listamy.com:8080/Berto/Berto/393472
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47287
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 
-http://nomorecable.xyz:80/vmp343streams/850256/35893
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 
-http://live.iptv-ksa.com:80/Nader/Nader/170852
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 
 http://nomorecable.xyz:80/vmp343streams/850256/35893
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 FHD
@@ -167,14 +103,8 @@ http://mvip-tn.com:25461/duygulu/OkVXhqEMpd/28259
 http://listamy.com:8080/cuco/cuco/393473
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HD
 http://listamy.com:8080/Berto/Berto/393473
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HD
-http://listamy.com:8080/Berto/Berto/393473
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47288
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 
-http://nomorecable.xyz:80/vmp343streams/850256/35894
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 
-http://live.iptv-ksa.com:80/Nader/Nader/170853
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 
 http://nomorecable.xyz:80/vmp343streams/850256/35894
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 FHD
@@ -183,8 +113,6 @@ http://mvip-tn.com:25461/duygulu/OkVXhqEMpd/28262
 http://mvip-tn.com:25461/duygulu/OkVXhqEMpd/28261
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HD
 http://listamy.com:8080/cuco/cuco/393474
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HD
-http://listamy.com:8080/Berto/Berto/393474
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HD
 http://listamy.com:8080/Berto/Berto/393474
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HEVC
@@ -199,14 +127,6 @@ http://client-proplus.com:8080/imad/imad/6494
 http://nomorecable.xyz:80/vmp343streams/850256/18147
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 
 http://listamy.com:8080/Berto/Berto/393451
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 
-http://sky-siptv.com:8000/jassica11/er1452000/27393
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 
-http://nomorecable.xyz:80/vmp343streams/850256/18147
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 
-http://listamy.com:8080/Berto/Berto/393451
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 (LOW)
-http://sky-siptv.com:8000/jassica11/er1452000/27394
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 FHD
 http://mvip-tn.com:25461/duygulu/OkVXhqEMpd/28226
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 FHD
@@ -215,24 +135,10 @@ http://listamy.com:8080/cuco/cuco/393449
 http://client-proplus.com:8080/imad/imad/16056
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 FHD
 http://listamy.com:8080/Berto/Berto/393449
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 FHD
-http://sky-siptv.com:8000/jassica11/er1452000/27395
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 FHD
-http://listamy.com:8080/Berto/Berto/393449
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
 http://mvip-tn.com:25461/duygulu/OkVXhqEMpd/28225
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
-http://starshare.live:8080/live/44556677/44556677/314.ts
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
 http://listamy.com:8080/cuco/cuco/393450
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
-http://nomorecable.xyz:80/vmp343streams/850256/18148
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
-http://listamy.com:8080/Berto/Berto/393450
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
-http://live.iptv-ksa.com:80/Nader/Nader/170843
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
-http://sky-siptv.com:8000/jassica11/er1452000/27396
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
 http://nomorecable.xyz:80/vmp343streams/850256/18148
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
@@ -249,14 +155,6 @@ http://client-proplus.com:8080/imad/imad/6495
 http://nomorecable.xyz:80/vmp343streams/850256/18146
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 
 http://listamy.com:8080/Berto/Berto/393454
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 
-http://sky-siptv.com:8000/jassica11/er1452000/27397
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 
-http://nomorecable.xyz:80/vmp343streams/850256/18146
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 
-http://listamy.com:8080/Berto/Berto/393454
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 (LOW)
-http://sky-siptv.com:8000/jassica11/er1452000/27398
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 FHD
 http://mvip-tn.com:25461/duygulu/OkVXhqEMpd/28232
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 FHD
@@ -265,24 +163,10 @@ http://listamy.com:8080/cuco/cuco/393452
 http://client-proplus.com:8080/imad/imad/16055
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 FHD
 http://listamy.com:8080/Berto/Berto/393452
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 FHD
-http://sky-siptv.com:8000/jassica11/er1452000/27399
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 FHD
-http://listamy.com:8080/Berto/Berto/393452
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
 http://mvip-tn.com:25461/duygulu/OkVXhqEMpd/28231
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
-http://starshare.live:8080/live/44556677/44556677/315.ts
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
 http://listamy.com:8080/cuco/cuco/393453
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
-http://nomorecable.xyz:80/vmp343streams/850256/18145
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
-http://listamy.com:8080/Berto/Berto/393453
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
-http://live.iptv-ksa.com:80/Nader/Nader/170844
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
-http://sky-siptv.com:8000/jassica11/er1452000/27400
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
 http://nomorecable.xyz:80/vmp343streams/850256/18145
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
@@ -295,10 +179,6 @@ http://mvip-tn.com:25461/duygulu/OkVXhqEMpd/28233
 http://client-proplus.com:8080/imad/imad/6496
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 
 http://nomorecable.xyz:80/vmp343streams/850256/18144
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 
-http://sky-siptv.com:8000/jassica11/er1452000/27401
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 
-http://nomorecable.xyz:80/vmp343streams/850256/18144
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 FHD
 http://mvip-tn.com:25461/duygulu/OkVXhqEMpd/28235
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 FHD
@@ -307,28 +187,14 @@ http://listamy.com:8080/cuco/cuco/393455
 http://client-proplus.com:8080/imad/imad/16054
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 FHD
 http://listamy.com:8080/Berto/Berto/393455
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 FHD
-http://sky-siptv.com:8000/jassica11/er1452000/27402
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 FHD
-http://listamy.com:8080/Berto/Berto/393455
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 HD
 http://mvip-tn.com:25461/duygulu/OkVXhqEMpd/28234
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 HD
-http://starshare.live:8080/live/44556677/44556677/316.ts
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 HD
-http://nomorecable.xyz:80/vmp343streams/850256/18143
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 HD
-http://live.iptv-ksa.com:80/Nader/Nader/170845
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 HD
-http://sky-siptv.com:8000/jassica11/er1452000/27403
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 HD
 http://nomorecable.xyz:80/vmp343streams/850256/18143
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47279
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 SD
 http://listamy.com:8080/cuco/cuco/393456
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 SD
-http://listamy.com:8080/Berto/Berto/393456
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 SD
 http://listamy.com:8080/Berto/Berto/393456
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 
@@ -341,32 +207,14 @@ http://client-proplus.com:8080/imad/imad/6497
 http://nomorecable.xyz:80/vmp343streams/850256/18142
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 
 http://listamy.com:8080/Berto/Berto/393458
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 
-http://sky-siptv.com:8000/jassica11/er1452000/27404
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 
-http://nomorecable.xyz:80/vmp343streams/850256/18142
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 
-http://listamy.com:8080/Berto/Berto/393458
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 FHD
 http://mvip-tn.com:25461/duygulu/OkVXhqEMpd/28238
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 FHD
 http://client-proplus.com:8080/imad/imad/16053
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 FHD
-http://sky-siptv.com:8000/jassica11/er1452000/27405
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 HD
 http://mvip-tn.com:25461/duygulu/OkVXhqEMpd/28237
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 HD
-http://starshare.live:8080/live/44556677/44556677/317.ts
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 HD
 http://listamy.com:8080/cuco/cuco/393457
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 HD
-http://nomorecable.xyz:80/vmp343streams/850256/18141
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 HD
-http://listamy.com:8080/Berto/Berto/393457
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 HD
-http://live.iptv-ksa.com:80/Nader/Nader/170846
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 HD
-http://sky-siptv.com:8000/jassica11/er1452000/27406
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 HD
 http://nomorecable.xyz:80/vmp343streams/850256/18141
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 HD
@@ -383,32 +231,14 @@ http://client-proplus.com:8080/imad/imad/6498
 http://nomorecable.xyz:80/vmp343streams/850256/18140
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 
 http://listamy.com:8080/Berto/Berto/393460
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 
-http://sky-siptv.com:8000/jassica11/er1452000/27407
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 
-http://nomorecable.xyz:80/vmp343streams/850256/18140
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 
-http://listamy.com:8080/Berto/Berto/393460
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 FHD
 http://mvip-tn.com:25461/duygulu/OkVXhqEMpd/28239
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 FHD
 http://client-proplus.com:8080/imad/imad/16052
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 FHD
-http://sky-siptv.com:8000/jassica11/er1452000/27408
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 HD
 http://mvip-tn.com:25461/duygulu/OkVXhqEMpd/28241
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 HD
-http://starshare.live:8080/live/44556677/44556677/318.ts
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 HD
 http://listamy.com:8080/cuco/cuco/393459
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 HD
-http://nomorecable.xyz:80/vmp343streams/850256/18139
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 HD
-http://listamy.com:8080/Berto/Berto/393459
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 HD
-http://live.iptv-ksa.com:80/Nader/Nader/170847
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 HD
-http://sky-siptv.com:8000/jassica11/er1452000/27409
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 HD
 http://nomorecable.xyz:80/vmp343streams/850256/18139
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 HD
