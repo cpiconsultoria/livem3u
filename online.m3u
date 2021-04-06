@@ -17,8 +17,10 @@ http://tvmedia2.com:8080/trevor/trevor/165195.ts
 http://client-proplus.com:8080/Kore/Kore/3645
 #EXTINF:-1 tvg-country="PT" group-title="BENFICA TV",BENFICA TV HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47292
+#EXTINF:-1 tvg-country="PT" group-title="BTV",BTV 
+http://listamy.com:8080/Berto/Berto/393463
 #EXTINF:-1 tvg-country="PT" group-title="BTV",BTV FHD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/8042
+http://listamy.com:8080/Berto/Berto/393462
 #EXTINF:-1 tvg-country="PT" group-title="BTV",BTV FHD
 http://client-proplus.com:8080/Kore/Kore/9642
 #EXTINF:-1 tvg-country="PT" group-title="BTV",BTV FHD
@@ -32,6 +34,8 @@ http://rv.flysat.live:80/307200102142/307200102142/81664
 #EXTINF:-1 tvg-country="PT" group-title="BTV",BTV HD
 http://pn.tvott.info:80/0174263561/8759368659/81664
 #EXTINF:-1 tvg-country="PT" group-title="BTV",BTV HD
+http://listamy.com:8080/Berto/Berto/393461
+#EXTINF:-1 tvg-country="PT" group-title="BTV",BTV HD
 http://rv.flysat.live:80/307242117531/307242117531/81786
 #EXTINF:-1 tvg-country="PT" group-title="BTV",BTV HD
 http://rv.flysat.live:80/307242117531/307242117531/81664
@@ -44,6 +48,8 @@ http://pn.tvott.info:80/0174263561/8759368659/81664
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 FHD
 http://skylogic.site:8080/esterichannel50con/36cb6c13/1499
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 FHD
+http://listamy.com:8080/Berto/Berto/393464
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 FHD
 http://panelvip1.com:8080/okanozbek/zhYxBbK7mU/58597
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
 http://hdhd.tk:80/peter123/peter123/4853
@@ -52,15 +58,15 @@ http://rv.flysat.live:80/307200102142/307200102142/81642
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
 http://pn.tvott.info:80/0174263561/8759368659/81642
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
-http://rv.flysat.live:80/307242117531/307242117531/81777
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
-http://rv.flysat.live:80/307242117531/307242117531/81642
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
-http://rv.flysat.live:80/307242117531/307242117531/81777
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
-http://rv.flysat.live:80/307242117531/307242117531/81642
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
 http://listamy.com:8080/Berto/Berto/393465
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
+http://rv.flysat.live:80/307242117531/307242117531/81777
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
+http://rv.flysat.live:80/307242117531/307242117531/81642
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
+http://rv.flysat.live:80/307242117531/307242117531/81777
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
+http://rv.flysat.live:80/307242117531/307242117531/81642
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
 http://pn.tvott.info:80/0174263561/8759368659/81642
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HEVC
@@ -80,15 +86,15 @@ http://rv.flysat.live:80/307200102142/307200102142/81641
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HD
 http://pn.tvott.info:80/0174263561/8759368659/81641
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HD
-http://rv.flysat.live:80/307242117531/307242117531/81776
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HD
-http://rv.flysat.live:80/307242117531/307242117531/81641
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HD
-http://rv.flysat.live:80/307242117531/307242117531/81776
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HD
-http://rv.flysat.live:80/307242117531/307242117531/81641
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HD
 http://listamy.com:8080/Berto/Berto/393468
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HD
+http://rv.flysat.live:80/307242117531/307242117531/81776
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HD
+http://rv.flysat.live:80/307242117531/307242117531/81641
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HD
+http://rv.flysat.live:80/307242117531/307242117531/81776
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HD
+http://rv.flysat.live:80/307242117531/307242117531/81641
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HD
 http://pn.tvott.info:80/0174263561/8759368659/81641
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HEVC
@@ -106,23 +112,21 @@ http://rv.flysat.live:80/307200102142/307200102142/81640
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
 http://pn.tvott.info:80/0174263561/8759368659/81640
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
-http://rv.flysat.live:80/307242117531/307242117531/81775
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
-http://rv.flysat.live:80/307242117531/307242117531/81640
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
-http://rv.flysat.live:80/307242117531/307242117531/81775
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
-http://rv.flysat.live:80/307242117531/307242117531/81640
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
 http://listamy.com:8080/Berto/Berto/393470
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
+http://rv.flysat.live:80/307242117531/307242117531/81775
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
+http://rv.flysat.live:80/307242117531/307242117531/81640
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
+http://rv.flysat.live:80/307242117531/307242117531/81775
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
+http://rv.flysat.live:80/307242117531/307242117531/81640
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
 http://pn.tvott.info:80/0174263561/8759368659/81640
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47286
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 FHD
 http://skylogic.site:8080/esterichannel50con/36cb6c13/1509
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 FHD
-http://listamy.com:8080/Berto/Berto/393471
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 FHD
 http://listamy.com:8080/Berto/Berto/393471
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 FHD
@@ -143,8 +147,6 @@ http://rv.flysat.live:80/307242117531/307242117531/81639
 http://rv.flysat.live:80/307242117531/307242117531/81774
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HD
 http://rv.flysat.live:80/307242117531/307242117531/81639
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HD
-http://listamy.com:8080/Berto/Berto/393472
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HD
 http://pn.tvott.info:80/0174263561/8759368659/81639
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HEVC
@@ -170,8 +172,6 @@ http://rv.flysat.live:80/307242117531/307242117531/81773
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HD
 http://rv.flysat.live:80/307242117531/307242117531/81638
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HD
-http://listamy.com:8080/Berto/Berto/393473
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HD
 http://pn.tvott.info:80/0174263561/8759368659/81638
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47288
@@ -196,8 +196,6 @@ http://rv.flysat.live:80/307242117531/307242117531/81772
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HD
 http://rv.flysat.live:80/307242117531/307242117531/81637
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HD
-http://listamy.com:8080/Berto/Berto/393474
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HD
 http://pn.tvott.info:80/0174263561/8759368659/81637
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47289
@@ -207,6 +205,8 @@ https://fullenglish.xyz:443/monte/monte123/478967
 http://rv.flysat.live:80/307200102142/307200102142/81650
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 
 http://pn.tvott.info:80/0174263561/8759368659/81650
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 
+http://listamy.com:8080/Berto/Berto/393451
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 
 http://rv.flysat.live:80/307242117531/307242117531/81650
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 
@@ -240,6 +240,8 @@ http://pn.tvott.info:80/0174263561/8759368659/81652
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
 http://pn.tvott.info:80/0174263561/8759368659/81651
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
+http://listamy.com:8080/Berto/Berto/393450
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
 http://rv.flysat.live:80/307242117531/307242117531/81781
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
 http://rv.flysat.live:80/307242117531/307242117531/81652
@@ -264,6 +266,8 @@ http://rv.flysat.live:80/307200102142/307200102142/81648
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 
 http://pn.tvott.info:80/0174263561/8759368659/81648
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 
+http://listamy.com:8080/Berto/Berto/393454
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 
 http://rv.flysat.live:80/307242117531/307242117531/81648
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 
 http://rv.flysat.live:80/307242117531/307242117531/81648
@@ -273,6 +277,8 @@ http://client-proplus.com:8080/Kore/Kore/6495
 http://pn.tvott.info:80/0174263561/8759368659/81648
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 FHD
 http://skylogic.site:8080/esterichannel50con/36cb6c13/1486
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 FHD
+http://listamy.com:8080/Berto/Berto/393452
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 FHD
 http://client-proplus.com:8080/Kore/Kore/16055
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 FHD
@@ -293,6 +299,8 @@ http://hdhd.tk:80/peter123/peter123/4906
 http://rv.flysat.live:80/307200102142/307200102142/81649
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
 http://pn.tvott.info:80/0174263561/8759368659/81649
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
+http://listamy.com:8080/Berto/Berto/393453
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
 http://rv.flysat.live:80/307242117531/307242117531/81780
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
@@ -324,6 +332,8 @@ http://pn.tvott.info:80/0174263561/8759368659/81646
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 FHD
 http://skylogic.site:8080/esterichannel50con/36cb6c13/1489
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 FHD
+http://listamy.com:8080/Berto/Berto/393455
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 FHD
 http://client-proplus.com:8080/Kore/Kore/16054
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 FHD
 http://panelvip1.com:8080/okanozbek/zhYxBbK7mU/58699
@@ -353,6 +363,8 @@ http://rv.flysat.live:80/307242117531/307242117531/81647
 http://pn.tvott.info:80/0174263561/8759368659/81647
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47279
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 SD
+http://listamy.com:8080/Berto/Berto/393456
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 
 https://fullenglish.xyz:443/monte/monte123/478981
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 
@@ -363,6 +375,8 @@ https://fullenglish.xyz:443/monte/monte123/478985
 http://rv.flysat.live:80/307200102142/307200102142/81645
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 
 http://pn.tvott.info:80/0174263561/8759368659/81645
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 
+http://listamy.com:8080/Berto/Berto/393458
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 
 http://rv.flysat.live:80/307242117531/307242117531/81645
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 
@@ -383,6 +397,8 @@ http://tvmedia2.com:8080/trevor/trevor/165246.ts
 https://fullenglish.xyz:443/monte/monte123/478983
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 HD
 https://fullenglish.xyz:443/monte/monte123/478984
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 HD
+http://listamy.com:8080/Berto/Berto/393457
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47280
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 UHD
@@ -397,6 +413,8 @@ https://fullenglish.xyz:443/monte/monte123/478990
 http://rv.flysat.live:80/307200102142/307200102142/81644
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 
 http://pn.tvott.info:80/0174263561/8759368659/81644
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 
+http://listamy.com:8080/Berto/Berto/393460
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 
 http://rv.flysat.live:80/307242117531/307242117531/81644
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 
@@ -417,6 +435,8 @@ http://tvmedia2.com:8080/trevor/trevor/165247.ts
 https://fullenglish.xyz:443/monte/monte123/478988
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 HD
 https://fullenglish.xyz:443/monte/monte123/478989
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 HD
+http://listamy.com:8080/Berto/Berto/393459
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47281
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 SD
