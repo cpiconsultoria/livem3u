@@ -6,15 +6,31 @@ http://tvmedia2.com:8080/trevor/trevor/165196.ts
 #EXTINF:-1 tvg-country="PT" group-title="BENFICA TV",BENFICA TV FULLHD
 http://tvmedia2.com:8080/trevor/trevor/165196.ts
 #EXTINF:-1 tvg-country="PT" group-title="BENFICA TV",BENFICA TV HD
-http://tvmedia2.com:8080/trevor/trevor/165195.ts
-#EXTINF:-1 tvg-country="PT" group-title="BENFICA TV",BENFICA TV HD
 http://iconnect10.com:8080/petre/petre123/3645
+#EXTINF:-1 tvg-country="PT" group-title="BENFICA TV",BENFICA TV HD
+http://tvmedia2.com:8080/trevor/trevor/165195.ts
 #EXTINF:-1 tvg-country="PT" group-title="BENFICA TV",BENFICA TV HD
 http://tvmedia2.com:8080/trevor/trevor/165195.ts
 #EXTINF:-1 tvg-country="PT" group-title="BENFICA TV",BENFICA TV HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47292
+#EXTINF:-1 tvg-country="PT" group-title="BTV",BTV 
+http://listamy.com:8080/cuco/cuco/393463
+#EXTINF:-1 tvg-country="PT" group-title="BTV",BTV 
+http://listamy.com:8080/cuco/cuco/393463
 #EXTINF:-1 tvg-country="PT" group-title="BTV",BTV FHD
-http://iconnect10.com:8080/petre/petre123/9642
+http://listamy.com:8080/cuco/cuco/393462
+#EXTINF:-1 tvg-country="PT" group-title="BTV",BTV FHD
+http://listamy.com:8080/cuco/cuco/393462
+#EXTINF:-1 tvg-country="PT" group-title="BTV",BTV HD
+http://evdibac.com:80/WUpdBcZvax/KlBxnHjzPo/81664
+#EXTINF:-1 tvg-country="PT" group-title="BTV",BTV HD
+http://evdibac.com:80/WUpdBcZvax/KlBxnHjzPo/81786
+#EXTINF:-1 tvg-country="PT" group-title="BTV",BTV HD
+http://muttsnutsback.land-4-sale.us:8080/S/S/190279
+#EXTINF:-1 tvg-country="PT" group-title="BTV",BTV HD
+http://listamy.com:8080/cuco/cuco/393461
+#EXTINF:-1 tvg-country="PT" group-title="BTV",BTV HD
+http://pn.tvott.info:80/0174263561/8759368659/81664
 #EXTINF:-1 tvg-country="PT" group-title="BTV",BTV HD
 http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/121448
 #EXTINF:-1 tvg-country="PT" group-title="BTV",BTV HD
@@ -24,33 +40,19 @@ http://185.71.64.167:80/0637168846/7088664803/81786
 #EXTINF:-1 tvg-country="PT" group-title="BTV",BTV HD
 http://pn.tvott.info:80/0174263561/8759368659/81664
 #EXTINF:-1 tvg-country="PT" group-title="BTV",BTV HD
-http://evdibac.com:80/WUpdBcZvax/KlBxnHjzPo/81664
-#EXTINF:-1 tvg-country="PT" group-title="BTV",BTV HD
-http://evdibac.com:80/WUpdBcZvax/KlBxnHjzPo/81786
-#EXTINF:-1 tvg-country="PT" group-title="BTV",BTV HD
-http://muttsnutsback.land-4-sale.us:8080/S/S/190279
+http://listamy.com:8080/cuco/cuco/393461
 #EXTINF:-1 tvg-country="PT" group-title="BTV",BTV HD
 http://rv.flysat.live:80/307200102142/307200102142/81664
 #EXTINF:-1 tvg-country="PT" group-title="BTV",BTV HD
 http://rv.flysat.live:80/307200102142/307200102142/81664
-#EXTINF:-1 tvg-country="PT" group-title="BTV",BTV HD
-http://pn.tvott.info:80/0174263561/8759368659/81664
 #EXTINF:-1 tvg-country="PT" group-title="BTV",BTV HD
 http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/84673
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 FHD
 http://listamy.com:8080/cuco/cuco/393464
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 FHD
+http://listamy.com:8080/cuco/cuco/393464
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 FHD
 http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/84607
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
-http://185.71.64.167:80/0637168846/7088664803/81642
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
-http://185.71.64.167:80/0637168846/7088664803/81777
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
-http://listamy.com:8080/cuco/cuco/393465
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
-http://pn.tvott.info:80/0174263561/8759368659/81642
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
-http://listamy.com:8080/cuco/cuco/393465
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
 http://evdibac.com:80/WUpdBcZvax/KlBxnHjzPo/81642
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
@@ -58,11 +60,21 @@ http://evdibac.com:80/WUpdBcZvax/KlBxnHjzPo/81777
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
 http://muttsnutsback.land-4-sale.us:8080/S/S/190273
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
-http://rv.flysat.live:80/307200102142/307200102142/81642
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
-http://rv.flysat.live:80/307200102142/307200102142/81642
+http://listamy.com:8080/cuco/cuco/393465
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
 http://pn.tvott.info:80/0174263561/8759368659/81642
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
+http://185.71.64.167:80/0637168846/7088664803/81642
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
+http://185.71.64.167:80/0637168846/7088664803/81777
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
+http://pn.tvott.info:80/0174263561/8759368659/81642
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
+http://listamy.com:8080/cuco/cuco/393465
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
+http://rv.flysat.live:80/307200102142/307200102142/81642
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
+http://rv.flysat.live:80/307200102142/307200102142/81642
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
 http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/39046
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HEVC
@@ -78,27 +90,27 @@ http://listamy.com:8080/cuco/cuco/393467
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 FHD
 http://listamy.com:8080/cuco/cuco/393467
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HD
-http://185.71.64.167:80/0637168846/7088664803/81641
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HD
-http://185.71.64.167:80/0637168846/7088664803/81776
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HD
-http://listamy.com:8080/cuco/cuco/393468
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HD
-http://pn.tvott.info:80/0174263561/8759368659/81641
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HD
-http://listamy.com:8080/cuco/cuco/393468
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HD
 http://evdibac.com:80/WUpdBcZvax/KlBxnHjzPo/81641
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HD
 http://evdibac.com:80/WUpdBcZvax/KlBxnHjzPo/81776
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HD
 http://muttsnutsback.land-4-sale.us:8080/S/S/190274
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HD
-http://rv.flysat.live:80/307200102142/307200102142/81641
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HD
-http://rv.flysat.live:80/307200102142/307200102142/81641
+http://listamy.com:8080/cuco/cuco/393468
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HD
 http://pn.tvott.info:80/0174263561/8759368659/81641
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HD
+http://185.71.64.167:80/0637168846/7088664803/81641
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HD
+http://185.71.64.167:80/0637168846/7088664803/81776
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HD
+http://pn.tvott.info:80/0174263561/8759368659/81641
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HD
+http://listamy.com:8080/cuco/cuco/393468
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HD
+http://rv.flysat.live:80/307200102142/307200102142/81641
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HD
+http://rv.flysat.live:80/307200102142/307200102142/81641
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HD
 http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/39047
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HEVC
@@ -112,25 +124,25 @@ http://listamy.com:8080/cuco/cuco/393469
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 FHD
 http://listamy.com:8080/cuco/cuco/393469
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
-http://185.71.64.167:80/0637168846/7088664803/81640
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
-http://185.71.64.167:80/0637168846/7088664803/81775
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
-http://listamy.com:8080/cuco/cuco/393470
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
-http://pn.tvott.info:80/0174263561/8759368659/81640
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
-http://listamy.com:8080/cuco/cuco/393470
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
 http://evdibac.com:80/WUpdBcZvax/KlBxnHjzPo/81640
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
 http://evdibac.com:80/WUpdBcZvax/KlBxnHjzPo/81775
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
-http://rv.flysat.live:80/307200102142/307200102142/81640
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
-http://rv.flysat.live:80/307200102142/307200102142/81640
+http://listamy.com:8080/cuco/cuco/393470
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
 http://pn.tvott.info:80/0174263561/8759368659/81640
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
+http://185.71.64.167:80/0637168846/7088664803/81640
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
+http://185.71.64.167:80/0637168846/7088664803/81775
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
+http://pn.tvott.info:80/0174263561/8759368659/81640
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
+http://listamy.com:8080/cuco/cuco/393470
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
+http://rv.flysat.live:80/307200102142/307200102142/81640
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
+http://rv.flysat.live:80/307200102142/307200102142/81640
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
 http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/39048
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HEVC
@@ -142,25 +154,25 @@ http://listamy.com:8080/cuco/cuco/393471
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 FHD
 http://listamy.com:8080/cuco/cuco/393471
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HD
-http://185.71.64.167:80/0637168846/7088664803/81639
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HD
-http://185.71.64.167:80/0637168846/7088664803/81774
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HD
-http://listamy.com:8080/cuco/cuco/393472
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HD
-http://pn.tvott.info:80/0174263561/8759368659/81639
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HD
-http://listamy.com:8080/cuco/cuco/393472
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HD
 http://evdibac.com:80/WUpdBcZvax/KlBxnHjzPo/81639
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HD
 http://evdibac.com:80/WUpdBcZvax/KlBxnHjzPo/81774
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HD
-http://rv.flysat.live:80/307200102142/307200102142/81639
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HD
-http://rv.flysat.live:80/307200102142/307200102142/81639
+http://listamy.com:8080/cuco/cuco/393472
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HD
 http://pn.tvott.info:80/0174263561/8759368659/81639
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HD
+http://185.71.64.167:80/0637168846/7088664803/81639
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HD
+http://185.71.64.167:80/0637168846/7088664803/81774
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HD
+http://pn.tvott.info:80/0174263561/8759368659/81639
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HD
+http://listamy.com:8080/cuco/cuco/393472
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HD
+http://rv.flysat.live:80/307200102142/307200102142/81639
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HD
+http://rv.flysat.live:80/307200102142/307200102142/81639
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HD
 http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/39049
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HEVC
@@ -170,25 +182,25 @@ http://muttsnutsback.land-4-sale.us:8080/S/S/190277
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 FHD
 http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/84610
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HD
-http://185.71.64.167:80/0637168846/7088664803/81638
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HD
-http://185.71.64.167:80/0637168846/7088664803/81773
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HD
-http://listamy.com:8080/cuco/cuco/393473
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HD
-http://pn.tvott.info:80/0174263561/8759368659/81638
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HD
-http://listamy.com:8080/cuco/cuco/393473
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HD
 http://evdibac.com:80/WUpdBcZvax/KlBxnHjzPo/81638
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HD
 http://evdibac.com:80/WUpdBcZvax/KlBxnHjzPo/81773
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HD
-http://rv.flysat.live:80/307200102142/307200102142/81638
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HD
-http://rv.flysat.live:80/307200102142/307200102142/81638
+http://listamy.com:8080/cuco/cuco/393473
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HD
 http://pn.tvott.info:80/0174263561/8759368659/81638
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HD
+http://185.71.64.167:80/0637168846/7088664803/81638
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HD
+http://185.71.64.167:80/0637168846/7088664803/81773
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HD
+http://pn.tvott.info:80/0174263561/8759368659/81638
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HD
+http://listamy.com:8080/cuco/cuco/393473
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HD
+http://rv.flysat.live:80/307200102142/307200102142/81638
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HD
+http://rv.flysat.live:80/307200102142/307200102142/81638
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HD
 http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/59502
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HEVC
@@ -196,53 +208,75 @@ http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47288
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 
 http://muttsnutsback.land-4-sale.us:8080/S/S/190278
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HD
-http://185.71.64.167:80/0637168846/7088664803/81637
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HD
-http://185.71.64.167:80/0637168846/7088664803/81772
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HD
-http://listamy.com:8080/cuco/cuco/393474
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HD
-http://pn.tvott.info:80/0174263561/8759368659/81637
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HD
-http://listamy.com:8080/cuco/cuco/393474
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HD
 http://evdibac.com:80/WUpdBcZvax/KlBxnHjzPo/81637
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HD
 http://evdibac.com:80/WUpdBcZvax/KlBxnHjzPo/81772
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HD
-http://rv.flysat.live:80/307200102142/307200102142/81637
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HD
-http://rv.flysat.live:80/307200102142/307200102142/81637
+http://listamy.com:8080/cuco/cuco/393474
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HD
 http://pn.tvott.info:80/0174263561/8759368659/81637
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HD
+http://185.71.64.167:80/0637168846/7088664803/81637
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HD
+http://185.71.64.167:80/0637168846/7088664803/81772
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HD
+http://pn.tvott.info:80/0174263561/8759368659/81637
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HD
+http://listamy.com:8080/cuco/cuco/393474
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HD
+http://rv.flysat.live:80/307200102142/307200102142/81637
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HD
+http://rv.flysat.live:80/307200102142/307200102142/81637
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HD
 http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/59503
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47289
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 
+http://evdibac.com:80/WUpdBcZvax/KlBxnHjzPo/81650
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 
+http://listamy.com:8080/cuco/cuco/393451
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 
+http://pn.tvott.info:80/0174263561/8759368659/81650
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 
 http://185.71.64.167:80/0637168846/7088664803/81650
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 
 http://pn.tvott.info:80/0174263561/8759368659/81650
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 
-http://evdibac.com:80/WUpdBcZvax/KlBxnHjzPo/81650
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 
-http://rv.flysat.live:80/307200102142/307200102142/81650
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 
 http://iconnect10.com:8080/petre/petre123/6494
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 
+http://listamy.com:8080/cuco/cuco/393451
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 
 http://rv.flysat.live:80/307200102142/307200102142/81650
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 
-http://pn.tvott.info:80/0174263561/8759368659/81650
+http://rv.flysat.live:80/307200102142/307200102142/81650
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 
 http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/8867
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 FHD
+http://listamy.com:8080/cuco/cuco/393449
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 FHD
 http://iconnect10.com:8080/petre/petre123/16056
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 FHD
+http://listamy.com:8080/cuco/cuco/393449
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 FHD
 http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/84595
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 FULLHD
 http://tvmedia2.com:8080/trevor/trevor/165243.ts
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 FULLHD
 http://tvmedia2.com:8080/trevor/trevor/165243.ts
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
+http://evdibac.com:80/WUpdBcZvax/KlBxnHjzPo/81651
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
+http://evdibac.com:80/WUpdBcZvax/KlBxnHjzPo/81652
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
+http://evdibac.com:80/WUpdBcZvax/KlBxnHjzPo/81781
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
+http://muttsnutsback.land-4-sale.us:8080/S/S/190268
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
+http://listamy.com:8080/cuco/cuco/393450
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
+http://pn.tvott.info:80/0174263561/8759368659/81651
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
+http://pn.tvott.info:80/0174263561/8759368659/81652
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
 http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/121432
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
@@ -256,13 +290,7 @@ http://pn.tvott.info:80/0174263561/8759368659/81651
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
 http://pn.tvott.info:80/0174263561/8759368659/81652
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
-http://evdibac.com:80/WUpdBcZvax/KlBxnHjzPo/81651
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
-http://evdibac.com:80/WUpdBcZvax/KlBxnHjzPo/81652
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
-http://evdibac.com:80/WUpdBcZvax/KlBxnHjzPo/81781
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
-http://muttsnutsback.land-4-sale.us:8080/S/S/190268
+http://listamy.com:8080/cuco/cuco/393450
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
 http://rv.flysat.live:80/307200102142/307200102142/81651
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
@@ -271,10 +299,6 @@ http://rv.flysat.live:80/307200102142/307200102142/81652
 http://rv.flysat.live:80/307200102142/307200102142/81651
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
 http://rv.flysat.live:80/307200102142/307200102142/81652
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
-http://pn.tvott.info:80/0174263561/8759368659/81651
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
-http://pn.tvott.info:80/0174263561/8759368659/81652
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
 http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/84666
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
@@ -284,27 +308,45 @@ http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47277
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 SD
 http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/84597
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 
+http://evdibac.com:80/WUpdBcZvax/KlBxnHjzPo/81648
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 
+http://listamy.com:8080/cuco/cuco/393454
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 
+http://pn.tvott.info:80/0174263561/8759368659/81648
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 
 http://185.71.64.167:80/0637168846/7088664803/81648
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 
 http://pn.tvott.info:80/0174263561/8759368659/81648
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 
-http://evdibac.com:80/WUpdBcZvax/KlBxnHjzPo/81648
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 
-http://rv.flysat.live:80/307200102142/307200102142/81648
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 
 http://iconnect10.com:8080/petre/petre123/6495
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 
+http://listamy.com:8080/cuco/cuco/393454
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 
 http://rv.flysat.live:80/307200102142/307200102142/81648
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 
-http://pn.tvott.info:80/0174263561/8759368659/81648
+http://rv.flysat.live:80/307200102142/307200102142/81648
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 
 http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/84667
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 FHD
+http://listamy.com:8080/cuco/cuco/393452
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 FHD
 http://iconnect10.com:8080/petre/petre123/16055
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 FHD
+http://listamy.com:8080/cuco/cuco/393452
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 FULLHD
 http://tvmedia2.com:8080/trevor/trevor/165244.ts
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 FULLHD
 http://tvmedia2.com:8080/trevor/trevor/165244.ts
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
+http://evdibac.com:80/WUpdBcZvax/KlBxnHjzPo/81649
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
+http://evdibac.com:80/WUpdBcZvax/KlBxnHjzPo/81780
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
+http://muttsnutsback.land-4-sale.us:8080/S/S/190269
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
+http://listamy.com:8080/cuco/cuco/393453
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
+http://pn.tvott.info:80/0174263561/8759368659/81649
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
 http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/121433
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
@@ -314,17 +356,11 @@ http://185.71.64.167:80/0637168846/7088664803/81780
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
 http://pn.tvott.info:80/0174263561/8759368659/81649
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
-http://evdibac.com:80/WUpdBcZvax/KlBxnHjzPo/81649
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
-http://evdibac.com:80/WUpdBcZvax/KlBxnHjzPo/81780
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
-http://muttsnutsback.land-4-sale.us:8080/S/S/190269
+http://listamy.com:8080/cuco/cuco/393453
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
 http://rv.flysat.live:80/307200102142/307200102142/81649
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
 http://rv.flysat.live:80/307200102142/307200102142/81649
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
-http://pn.tvott.info:80/0174263561/8759368659/81649
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
 http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/84598
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
@@ -334,27 +370,39 @@ http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47278
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 SD
 http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/84599
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 
-http://185.71.64.167:80/0637168846/7088664803/81646
+http://evdibac.com:80/WUpdBcZvax/KlBxnHjzPo/81646
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 
 http://pn.tvott.info:80/0174263561/8759368659/81646
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 
-http://evdibac.com:80/WUpdBcZvax/KlBxnHjzPo/81646
+http://185.71.64.167:80/0637168846/7088664803/81646
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 
-http://rv.flysat.live:80/307200102142/307200102142/81646
+http://pn.tvott.info:80/0174263561/8759368659/81646
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 
 http://iconnect10.com:8080/petre/petre123/6496
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 
 http://rv.flysat.live:80/307200102142/307200102142/81646
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 
-http://pn.tvott.info:80/0174263561/8759368659/81646
+http://rv.flysat.live:80/307200102142/307200102142/81646
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 
 http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/84669
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 FHD
+http://listamy.com:8080/cuco/cuco/393455
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 FHD
 http://iconnect10.com:8080/petre/petre123/16054
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 FHD
+http://listamy.com:8080/cuco/cuco/393455
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 FULLHD
 http://tvmedia2.com:8080/trevor/trevor/165245.ts
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 FULLHD
 http://tvmedia2.com:8080/trevor/trevor/165245.ts
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 HD
+http://evdibac.com:80/WUpdBcZvax/KlBxnHjzPo/81647
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 HD
+http://evdibac.com:80/WUpdBcZvax/KlBxnHjzPo/81779
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 HD
+http://muttsnutsback.land-4-sale.us:8080/S/S/190270
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 HD
+http://pn.tvott.info:80/0174263561/8759368659/81647
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 HD
 http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/121434
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 HD
@@ -364,17 +412,9 @@ http://185.71.64.167:80/0637168846/7088664803/81779
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 HD
 http://pn.tvott.info:80/0174263561/8759368659/81647
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 HD
-http://evdibac.com:80/WUpdBcZvax/KlBxnHjzPo/81647
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 HD
-http://evdibac.com:80/WUpdBcZvax/KlBxnHjzPo/81779
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 HD
-http://muttsnutsback.land-4-sale.us:8080/S/S/190270
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 HD
 http://rv.flysat.live:80/307200102142/307200102142/81647
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 HD
 http://rv.flysat.live:80/307200102142/307200102142/81647
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 HD
-http://pn.tvott.info:80/0174263561/8759368659/81647
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 HD
 http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/84668
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 HD
@@ -382,7 +422,17 @@ http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/84600
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47279
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 SD
+http://listamy.com:8080/cuco/cuco/393456
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 SD
+http://listamy.com:8080/cuco/cuco/393456
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 SD
 http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/84601
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 
+http://evdibac.com:80/WUpdBcZvax/KlBxnHjzPo/81645
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 
+http://listamy.com:8080/cuco/cuco/393458
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 
+http://pn.tvott.info:80/0174263561/8759368659/81645
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 
 http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/121435
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 
@@ -390,15 +440,13 @@ http://185.71.64.167:80/0637168846/7088664803/81645
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 
 http://pn.tvott.info:80/0174263561/8759368659/81645
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 
-http://evdibac.com:80/WUpdBcZvax/KlBxnHjzPo/81645
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 
-http://rv.flysat.live:80/307200102142/307200102142/81645
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 
 http://iconnect10.com:8080/petre/petre123/6497
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 
+http://listamy.com:8080/cuco/cuco/393458
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 
 http://rv.flysat.live:80/307200102142/307200102142/81645
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 
-http://pn.tvott.info:80/0174263561/8759368659/81645
+http://rv.flysat.live:80/307200102142/307200102142/81645
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 
 http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/84670
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 FHD
@@ -412,11 +460,21 @@ http://tvmedia2.com:8080/trevor/trevor/165246.ts
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 HD
 http://muttsnutsback.land-4-sale.us:8080/S/S/190271
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 HD
+http://listamy.com:8080/cuco/cuco/393457
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 HD
+http://listamy.com:8080/cuco/cuco/393457
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 HD
 http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/33627
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47280
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 SD
 http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/84603
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 
+http://evdibac.com:80/WUpdBcZvax/KlBxnHjzPo/81644
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 
+http://listamy.com:8080/cuco/cuco/393460
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 
+http://pn.tvott.info:80/0174263561/8759368659/81644
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 
 http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/121436
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 
@@ -424,15 +482,13 @@ http://185.71.64.167:80/0637168846/7088664803/81644
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 
 http://pn.tvott.info:80/0174263561/8759368659/81644
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 
-http://evdibac.com:80/WUpdBcZvax/KlBxnHjzPo/81644
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 
-http://rv.flysat.live:80/307200102142/307200102142/81644
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 
 http://iconnect10.com:8080/petre/petre123/6498
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 
+http://listamy.com:8080/cuco/cuco/393460
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 
 http://rv.flysat.live:80/307200102142/307200102142/81644
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 
-http://pn.tvott.info:80/0174263561/8759368659/81644
+http://rv.flysat.live:80/307200102142/307200102142/81644
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 
 http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/84671
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 FHD
@@ -445,6 +501,10 @@ http://tvmedia2.com:8080/trevor/trevor/165247.ts
 http://tvmedia2.com:8080/trevor/trevor/165247.ts
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 HD
 http://muttsnutsback.land-4-sale.us:8080/S/S/190272
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 HD
+http://listamy.com:8080/cuco/cuco/393459
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 HD
+http://listamy.com:8080/cuco/cuco/393459
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 HD
 http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/84605
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 HD
