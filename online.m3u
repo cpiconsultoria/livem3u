@@ -1,174 +1,148 @@
 #EXTM3U
 #EXTINF:-1 tvg-country="PT" group-title="BENFICA TV",BENFICA TV 
-http://pulsestreamstv.uk:8080/66666/66666/148540
-#EXTINF:-1 tvg-country="PT" group-title="BENFICA TV",BENFICA TV 
 http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/84672
 #EXTINF:-1 tvg-country="PT" group-title="BENFICA TV",BENFICA TV FHD
 http://smartersplus.com:8880/FLAF122155/576DYQQ52/3239
 #EXTINF:-1 tvg-country="PT" group-title="BENFICA TV",BENFICA TV FULLHD
 http://tvmedia2.com:8080/andrea/andrea/165196.m3u8
 #EXTINF:-1 tvg-country="PT" group-title="BENFICA TV",BENFICA TV HD
-http://pulsestreamstv.uk:8080/66666/66666/148541
+http://smartersplus.com:8880/FLAF122155/576DYQQ52/3238
 #EXTINF:-1 tvg-country="PT" group-title="BENFICA TV",BENFICA TV HD
 http://tvmedia2.com:8080/andrea/andrea/165195.m3u8
-#EXTINF:-1 tvg-country="PT" group-title="BENFICA TV",BENFICA TV HD
-http://smartersplus.com:8880/FLAF122155/576DYQQ52/3238
 #EXTINF:-1 tvg-country="PT" group-title="BENFICA TV",BENFICA TV HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47292
 #EXTINF:-1 tvg-country="PT" group-title="BENFICA TV",BENFICA TV SD
 http://smartersplus.com:8880/FLAF122155/576DYQQ52/3237
 #EXTINF:-1 tvg-country="PT" group-title="BTV",BTV HD
-http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/84673
+http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/121448
+#EXTINF:-1 tvg-country="PT" group-title="BTV",BTV HD
+http://pn.tvott.info:80/0174263561/8759368659/81664
+#EXTINF:-1 tvg-country="PT" group-title="BTV",BTV HD
+http://rv.flysat.live:80/307200102142/307200102142/81664
 #EXTINF:-1 tvg-country="PT" group-title="BTV",BTV HD
 http://185.71.64.167:80/0637168846/7088664803/81664
 #EXTINF:-1 tvg-country="PT" group-title="BTV",BTV HD
 http://185.71.64.167:80/0637168846/7088664803/81786
 #EXTINF:-1 tvg-country="PT" group-title="BTV",BTV HD
-http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/121448
-#EXTINF:-1 tvg-country="PT" group-title="BTV",BTV HD
-http://rv.flysat.live:80/307200102142/307200102142/81664
-#EXTINF:-1 tvg-country="PT" group-title="BTV",BTV HD
-http://pn.tvott.info:80/0174263561/8759368659/81664
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 
-http://pulsestreamstv.uk:8080/66666/66666/148567
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 FHD
-http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/84607
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/84673
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 FHD
 http://smartersplus.com:8880/FLAF122155/576DYQQ52/29371
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 FHD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/84607
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
-http://pulsestreamstv.uk:8080/66666/66666/148568
+http://pn.tvott.info:80/0174263561/8759368659/81642
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
-http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/39046
+http://rv.flysat.live:80/307200102142/307200102142/81642
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
 http://185.71.64.167:80/0637168846/7088664803/81642
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
 http://185.71.64.167:80/0637168846/7088664803/81777
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
-http://rv.flysat.live:80/307200102142/307200102142/81642
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
-http://pn.tvott.info:80/0174263561/8759368659/81642
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/39046
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47284
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 SD
-http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/84608
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 SD
 http://smartersplus.com:8880/FLAF122155/576DYQQ52/49966
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 
-http://pulsestreamstv.uk:8080/66666/66666/148569
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 SD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/84608
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 FHD
 http://smartersplus.com:8880/FLAF122155/576DYQQ52/29370
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HD
-http://pulsestreamstv.uk:8080/66666/66666/148570
+http://pn.tvott.info:80/0174263561/8759368659/81641
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HD
-http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/39047
+http://rv.flysat.live:80/307200102142/307200102142/81641
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HD
 http://185.71.64.167:80/0637168846/7088664803/81641
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HD
 http://185.71.64.167:80/0637168846/7088664803/81776
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HD
-http://rv.flysat.live:80/307200102142/307200102142/81641
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HD
-http://pn.tvott.info:80/0174263561/8759368659/81641
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/39047
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47285
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 SD
 http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/84609
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 
-http://pulsestreamstv.uk:8080/66666/66666/148571
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 FHD
 http://smartersplus.com:8880/FLAF122155/576DYQQ52/29369
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
-http://pulsestreamstv.uk:8080/66666/66666/148572
+http://pn.tvott.info:80/0174263561/8759368659/81640
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
-http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/39048
+http://rv.flysat.live:80/307200102142/307200102142/81640
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
 http://185.71.64.167:80/0637168846/7088664803/81640
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
 http://185.71.64.167:80/0637168846/7088664803/81775
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
-http://rv.flysat.live:80/307200102142/307200102142/81640
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
-http://pn.tvott.info:80/0174263561/8759368659/81640
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/39048
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47286
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 
-http://pulsestreamstv.uk:8080/66666/66666/148573
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 FHD
 http://smartersplus.com:8880/FLAF122155/576DYQQ52/29368
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HD
-http://pulsestreamstv.uk:8080/66666/66666/148574
+http://pn.tvott.info:80/0174263561/8759368659/81639
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HD
-http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/39049
+http://rv.flysat.live:80/307200102142/307200102142/81639
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HD
 http://185.71.64.167:80/0637168846/7088664803/81639
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HD
 http://185.71.64.167:80/0637168846/7088664803/81774
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HD
-http://rv.flysat.live:80/307200102142/307200102142/81639
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HD
-http://pn.tvott.info:80/0174263561/8759368659/81639
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/39049
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47287
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 
-http://pulsestreamstv.uk:8080/66666/66666/148575
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 
 http://smartersplus.com:8880/FLAF122155/576DYQQ52/29334
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 FHD
 http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/84610
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HD
-http://pulsestreamstv.uk:8080/66666/66666/148576
+http://pn.tvott.info:80/0174263561/8759368659/81638
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HD
-http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/59502
+http://rv.flysat.live:80/307200102142/307200102142/81638
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HD
 http://185.71.64.167:80/0637168846/7088664803/81638
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HD
 http://185.71.64.167:80/0637168846/7088664803/81773
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HD
-http://rv.flysat.live:80/307200102142/307200102142/81638
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HD
-http://pn.tvott.info:80/0174263561/8759368659/81638
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/59502
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47288
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 
-http://pulsestreamstv.uk:8080/66666/66666/148577
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 FHD
 http://smartersplus.com:8880/FLAF122155/576DYQQ52/49032
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HD
-http://pulsestreamstv.uk:8080/66666/66666/148578
+http://pn.tvott.info:80/0174263561/8759368659/81637
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HD
-http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/59503
+http://rv.flysat.live:80/307200102142/307200102142/81637
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HD
 http://185.71.64.167:80/0637168846/7088664803/81637
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HD
 http://185.71.64.167:80/0637168846/7088664803/81772
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HD
-http://rv.flysat.live:80/307200102142/307200102142/81637
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HD
-http://pn.tvott.info:80/0174263561/8759368659/81637
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/59503
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47289
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 
-http://pulsestreamstv.uk:8080/66666/66666/148641
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 
-http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/8867
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 
-http://185.71.64.167:80/0637168846/7088664803/81650
+http://pn.tvott.info:80/0174263561/8759368659/81650
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 
 http://rv.flysat.live:80/307200102142/307200102142/81650
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 
-http://pn.tvott.info:80/0174263561/8759368659/81650
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 FHD
-http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/84595
+http://185.71.64.167:80/0637168846/7088664803/81650
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/8867
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 FHD
 http://smartersplus.com:8880/FLAF122155/576DYQQ52/29392
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 FHD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/84595
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 FULLHD
 http://tvmedia2.com:8080/andrea/andrea/165243.m3u8
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
-http://pulsestreamstv.uk:8080/66666/66666/148642
+http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/121432
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
-http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/84666
+http://pn.tvott.info:80/0174263561/8759368659/81651
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
-http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/84596
+http://pn.tvott.info:80/0174263561/8759368659/81652
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
+http://rv.flysat.live:80/307200102142/307200102142/81651
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
+http://rv.flysat.live:80/307200102142/307200102142/81652
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
 http://smartersplus.com:8880/FLAF122155/576DYQQ52/3192
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
@@ -178,41 +152,33 @@ http://185.71.64.167:80/0637168846/7088664803/81652
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
 http://185.71.64.167:80/0637168846/7088664803/81781
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
-http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/121432
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/84666
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
-http://rv.flysat.live:80/307200102142/307200102142/81651
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
-http://rv.flysat.live:80/307200102142/307200102142/81652
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
-http://pn.tvott.info:80/0174263561/8759368659/81651
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
-http://pn.tvott.info:80/0174263561/8759368659/81652
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/84596
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47277
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 SD
-http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/84597
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 SD
 http://smartersplus.com:8880/FLAF122155/576DYQQ52/29388
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 SD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/84597
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 
-http://pulsestreamstv.uk:8080/66666/66666/148643
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 
-http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/84667
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 
-http://185.71.64.167:80/0637168846/7088664803/81648
+http://pn.tvott.info:80/0174263561/8759368659/81648
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 
 http://rv.flysat.live:80/307200102142/307200102142/81648
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 
-http://pn.tvott.info:80/0174263561/8759368659/81648
+http://185.71.64.167:80/0637168846/7088664803/81648
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/84667
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 FHD
 http://smartersplus.com:8880/FLAF122155/576DYQQ52/29391
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 FULLHD
 http://tvmedia2.com:8080/andrea/andrea/165244.m3u8
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
-http://pulsestreamstv.uk:8080/66666/66666/148644
+http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/121433
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
-http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/84598
+http://pn.tvott.info:80/0174263561/8759368659/81649
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
-http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/33623
+http://rv.flysat.live:80/307200102142/307200102142/81649
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
 http://smartersplus.com:8880/FLAF122155/576DYQQ52/3191
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
@@ -220,37 +186,33 @@ http://185.71.64.167:80/0637168846/7088664803/81649
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
 http://185.71.64.167:80/0637168846/7088664803/81780
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
-http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/121433
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/84598
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
-http://rv.flysat.live:80/307200102142/307200102142/81649
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
-http://pn.tvott.info:80/0174263561/8759368659/81649
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/33623
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47278
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 SD
-http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/84599
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 SD
 http://smartersplus.com:8880/FLAF122155/576DYQQ52/29387
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 SD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/84599
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 
-http://pulsestreamstv.uk:8080/66666/66666/148645
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 
-http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/84669
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 
-http://185.71.64.167:80/0637168846/7088664803/81646
+http://pn.tvott.info:80/0174263561/8759368659/81646
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 
 http://rv.flysat.live:80/307200102142/307200102142/81646
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 
-http://pn.tvott.info:80/0174263561/8759368659/81646
+http://185.71.64.167:80/0637168846/7088664803/81646
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/84669
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 FHD
 http://smartersplus.com:8880/FLAF122155/576DYQQ52/29390
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 FULLHD
 http://tvmedia2.com:8080/andrea/andrea/165245.m3u8
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 HD
-http://pulsestreamstv.uk:8080/66666/66666/148646
+http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/121434
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 HD
-http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/84668
+http://pn.tvott.info:80/0174263561/8759368659/81647
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 HD
-http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/84600
+http://rv.flysat.live:80/307200102142/307200102142/81647
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 HD
 http://smartersplus.com:8880/FLAF122155/576DYQQ52/3190
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 HD
@@ -258,73 +220,63 @@ http://185.71.64.167:80/0637168846/7088664803/81647
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 HD
 http://185.71.64.167:80/0637168846/7088664803/81779
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 HD
-http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/121434
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/84668
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 HD
-http://rv.flysat.live:80/307200102142/307200102142/81647
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 HD
-http://pn.tvott.info:80/0174263561/8759368659/81647
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/84600
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47279
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 SD
-http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/84601
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 SD
 http://smartersplus.com:8880/FLAF122155/576DYQQ52/29386
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 
-http://pulsestreamstv.uk:8080/66666/66666/148647
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 
-http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/84670
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 
-http://185.71.64.167:80/0637168846/7088664803/81645
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 SD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/84601
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 
 http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/121435
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 
+http://pn.tvott.info:80/0174263561/8759368659/81645
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 
 http://rv.flysat.live:80/307200102142/307200102142/81645
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 
-http://pn.tvott.info:80/0174263561/8759368659/81645
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 FHD
-http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/84602
+http://185.71.64.167:80/0637168846/7088664803/81645
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/84670
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 FHD
 http://smartersplus.com:8880/FLAF122155/576DYQQ52/29389
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 FHD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/84602
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 FULLHD
 http://tvmedia2.com:8080/andrea/andrea/165246.m3u8
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 HD
-http://pulsestreamstv.uk:8080/66666/66666/148648
+http://smartersplus.com:8880/FLAF122155/576DYQQ52/3189
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 HD
 http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/33627
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 HD
-http://smartersplus.com:8880/FLAF122155/576DYQQ52/3189
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47280
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 SD
-http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/84603
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 SD
 http://smartersplus.com:8880/FLAF122155/576DYQQ52/29385
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 
-http://pulsestreamstv.uk:8080/66666/66666/148649
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 
-http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/84671
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 
-http://185.71.64.167:80/0637168846/7088664803/81644
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 SD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/84603
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 
 http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/121436
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 
+http://pn.tvott.info:80/0174263561/8759368659/81644
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 
 http://rv.flysat.live:80/307200102142/307200102142/81644
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 
-http://pn.tvott.info:80/0174263561/8759368659/81644
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 FHD
-http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/84604
+http://185.71.64.167:80/0637168846/7088664803/81644
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/84671
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 FHD
 http://smartersplus.com:8880/FLAF122155/576DYQQ52/49958
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 FHD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/84604
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 FULLHD
 http://tvmedia2.com:8080/andrea/andrea/165247.m3u8
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 HD
-http://pulsestreamstv.uk:8080/66666/66666/148650
+http://smartersplus.com:8880/FLAF122155/576DYQQ52/3188
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 HD
 http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/84605
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 HD
 http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/33628
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 HD
-http://smartersplus.com:8880/FLAF122155/576DYQQ52/3188
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47281
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 SD
