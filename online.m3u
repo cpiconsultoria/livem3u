@@ -16,11 +16,11 @@ http://tvmedia2.com:8080/andrea/andrea/165196.m3u8
 #EXTINF:-1 tvg-country="PT" group-title="BENFICA TV",BENFICA TV HD
 http://tvmedia2.com:8080/andrea/andrea/165195.m3u8
 #EXTINF:-1 tvg-country="PT" group-title="BENFICA TV",BENFICA TV HD
+http://smartersplus.com:8880/FLAF122155/576DYQQ52/3238
+#EXTINF:-1 tvg-country="PT" group-title="BENFICA TV",BENFICA TV HD
 http://pulsestreamstv.uk:8080/66666/66666/148541
 #EXTINF:-1 tvg-country="PT" group-title="BENFICA TV",BENFICA TV HD
 http://pulsestreamstv.uk:8080/tyler12345/tyler12345/148541
-#EXTINF:-1 tvg-country="PT" group-title="BENFICA TV",BENFICA TV HD
-http://smartersplus.com:8880/FLAF122155/576DYQQ52/3238
 #EXTINF:-1 tvg-country="PT" group-title="BENFICA TV",BENFICA TV HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47292
 #EXTINF:-1 tvg-country="PT" group-title="BENFICA TV",BENFICA TV SD
@@ -124,11 +124,11 @@ http://pulsestreamstv.uk:8080/tyler12345/tyler12345/148574
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47287
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 
+http://smartersplus.com:8880/FLAF122155/576DYQQ52/29334
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 
 http://pulsestreamstv.uk:8080/66666/66666/148575
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 
 http://pulsestreamstv.uk:8080/tyler12345/tyler12345/148575
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 
-http://smartersplus.com:8880/FLAF122155/576DYQQ52/29334
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 FHD
 http://localhd.tv:8081/abtaria0206/LWwNyUDslN/6513
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HD
@@ -200,11 +200,11 @@ http://localhd.tv:8081/abtaria0206/LWwNyUDslN/1721
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
 http://localhd.tv:8081/abtaria0206/LWwNyUDslN/4437
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
+http://smartersplus.com:8880/FLAF122155/576DYQQ52/3192
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
 http://pulsestreamstv.uk:8080/66666/66666/148642
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
 http://pulsestreamstv.uk:8080/tyler12345/tyler12345/148642
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
-http://smartersplus.com:8880/FLAF122155/576DYQQ52/3192
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47277
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 SD
@@ -240,11 +240,11 @@ http://185.71.64.167:80/0637168846/7088664803/81780
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
 http://localhd.tv:8081/abtaria0206/LWwNyUDslN/1722
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
+http://smartersplus.com:8880/FLAF122155/576DYQQ52/3191
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
 http://pulsestreamstv.uk:8080/66666/66666/148644
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
 http://pulsestreamstv.uk:8080/tyler12345/tyler12345/148644
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
-http://smartersplus.com:8880/FLAF122155/576DYQQ52/3191
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47278
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 SD
@@ -276,11 +276,11 @@ http://185.71.64.167:80/0637168846/7088664803/81779
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 HD
 http://localhd.tv:8081/abtaria0206/LWwNyUDslN/1723
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 HD
+http://smartersplus.com:8880/FLAF122155/576DYQQ52/3190
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 HD
 http://pulsestreamstv.uk:8080/66666/66666/148646
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 HD
 http://pulsestreamstv.uk:8080/tyler12345/tyler12345/148646
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 HD
-http://smartersplus.com:8880/FLAF122155/576DYQQ52/3190
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47279
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 SD
@@ -304,11 +304,11 @@ http://tvmedia2.com:8080/andrea/andrea/165246.m3u8
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 HD
 http://localhd.tv:8081/abtaria0206/LWwNyUDslN/1724
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 HD
+http://smartersplus.com:8880/FLAF122155/576DYQQ52/3189
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 HD
 http://pulsestreamstv.uk:8080/66666/66666/148648
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 HD
 http://pulsestreamstv.uk:8080/tyler12345/tyler12345/148648
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 HD
-http://smartersplus.com:8880/FLAF122155/576DYQQ52/3189
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47280
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 SD
@@ -334,10 +334,10 @@ http://localhd.tv:8081/abtaria0206/LWwNyUDslN/2295
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 HD
 http://localhd.tv:8081/abtaria0206/LWwNyUDslN/2139
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 HD
+http://smartersplus.com:8880/FLAF122155/576DYQQ52/3188
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 HD
 http://pulsestreamstv.uk:8080/66666/66666/148650
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 HD
 http://pulsestreamstv.uk:8080/tyler12345/tyler12345/148650
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 HD
-http://smartersplus.com:8880/FLAF122155/576DYQQ52/3188
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47281
