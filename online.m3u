@@ -2,14 +2,6 @@
 #EXTINF:-1 tvg-country="PT" group-title="BENFICA TV",BENFICA TV 
 http://pulsestreamstv.uk:8080/66666/66666/148540
 #EXTINF:-1 tvg-country="PT" group-title="BENFICA TV",BENFICA TV 
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/1669
-#EXTINF:-1 tvg-country="PT" group-title="BENFICA TV",BENFICA TV 
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/1670
-#EXTINF:-1 tvg-country="PT" group-title="BENFICA TV",BENFICA TV 
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/1669
-#EXTINF:-1 tvg-country="PT" group-title="BENFICA TV",BENFICA TV 
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/1670
-#EXTINF:-1 tvg-country="PT" group-title="BENFICA TV",BENFICA TV 
 http://188.93.238.25:2052/live/Rafael1234/Rafael1234/196127.m3u8
 #EXTINF:-1 tvg-country="PT" group-title="BENFICA TV",BENFICA TV 
 http://188.93.238.25:2052/live/Rafael1234/Rafael1234/196120.m3u8
@@ -17,6 +9,14 @@ http://188.93.238.25:2052/live/Rafael1234/Rafael1234/196120.m3u8
 http://188.93.238.25:2052/live/Rafael1234/Rafael1234/196090.m3u8
 #EXTINF:-1 tvg-country="PT" group-title="BENFICA TV",BENFICA TV 
 http://pulsestreamstv.uk:8080/66666/66666/148540
+#EXTINF:-1 tvg-country="PT" group-title="BENFICA TV",BENFICA TV 
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/1669
+#EXTINF:-1 tvg-country="PT" group-title="BENFICA TV",BENFICA TV 
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/1670
+#EXTINF:-1 tvg-country="PT" group-title="BENFICA TV",BENFICA TV 
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/1669
+#EXTINF:-1 tvg-country="PT" group-title="BENFICA TV",BENFICA TV 
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/1670
 #EXTINF:-1 tvg-country="PT" group-title="BENFICA TV",BENFICA TV FHD
 http://localhd.tv:8081/abtaria0206/LWwNyUDslN/4269
 #EXTINF:-1 tvg-country="PT" group-title="BENFICA TV",BENFICA TV FHD
@@ -28,65 +28,55 @@ http://tvmedia2.com:8080/doreen/doreen/165196.ts
 #EXTINF:-1 tvg-country="PT" group-title="BENFICA TV",BENFICA TV HD
 http://pulsestreamstv.uk:8080/66666/66666/148541
 #EXTINF:-1 tvg-country="PT" group-title="BENFICA TV",BENFICA TV HD
-http://tvmedia2.com:8080/doreen/doreen/165195.ts
-#EXTINF:-1 tvg-country="PT" group-title="BENFICA TV",BENFICA TV HD
-http://tvmedia2.com:8080/doreen/doreen/165195.ts
-#EXTINF:-1 tvg-country="PT" group-title="BENFICA TV",BENFICA TV HD
 http://pulsestreamstv.uk:8080/66666/66666/148541
+#EXTINF:-1 tvg-country="PT" group-title="BENFICA TV",BENFICA TV HD
+http://tvmedia2.com:8080/doreen/doreen/165195.ts
+#EXTINF:-1 tvg-country="PT" group-title="BENFICA TV",BENFICA TV HD
+http://tvmedia2.com:8080/doreen/doreen/165195.ts
 #EXTINF:-1 tvg-country="PT" group-title="BENFICA TV",BENFICA TV HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47292
-#EXTINF:-1 tvg-country="PT" group-title="BTV",BTV 
-http://hdhd.tk:80/jorge12/jorge12/4836
 #EXTINF:-1 tvg-country="PT" group-title="BTV",BTV 
 http://188.93.238.25:2052/live/Rafael1234/Rafael1234/196002.m3u8
 #EXTINF:-1 tvg-country="PT" group-title="BTV",BTV 
 http://iptv.nonoip.com:7000/naima/naima1234/38083
 #EXTINF:-1 tvg-country="PT" group-title="BTV",BTV 
 http://iptv.nonoip.com:7000/naima/naima1234/38083
-#EXTINF:-1 tvg-country="PT" group-title="BTV",BTV HD
-http://185.71.64.167:80/US7AyKXvqA/JMkDn1XyYj/81664
-#EXTINF:-1 tvg-country="PT" group-title="BTV",BTV HD
-http://185.71.64.167:80/US7AyKXvqA/JMkDn1XyYj/81786
-#EXTINF:-1 tvg-country="PT" group-title="BTV",BTV HD
-http://pn.tvott.info:80/477845056156344/477845056156344/81664
-#EXTINF:-1 tvg-country="PT" group-title="BTV",BTV HD
-http://pn.tvott.info:80/477845056156344/477845056156344/81786
-#EXTINF:-1 tvg-country="PT" group-title="BTV",BTV HD
-http://iptv.nonoip.com:7000/naima/naima1234/38084
+#EXTINF:-1 tvg-country="PT" group-title="BTV",BTV 
+http://hdhd.tk:80/jorge12/jorge12/4836
 #EXTINF:-1 tvg-country="PT" group-title="BTV",BTV HD
 http://iptv.nonoip.com:7000/naima/naima1234/38084
 #EXTINF:-1 tvg-country="PT" group-title="BTV",BTV HD
 http://ip.mooniptv.cz:80/8841898559/6679704282/81664
 #EXTINF:-1 tvg-country="PT" group-title="BTV",BTV HD
 http://ip.mooniptv.cz:80/8841898559/6679704282/81786
+#EXTINF:-1 tvg-country="PT" group-title="BTV",BTV HD
+http://iptv.nonoip.com:7000/naima/naima1234/38084
+#EXTINF:-1 tvg-country="PT" group-title="BTV",BTV HD
+http://pn.tvott.info:80/477845056156344/477845056156344/81664
+#EXTINF:-1 tvg-country="PT" group-title="BTV",BTV HD
+http://pn.tvott.info:80/477845056156344/477845056156344/81786
+#EXTINF:-1 tvg-country="PT" group-title="BTV",BTV HD
+http://185.71.64.167:80/US7AyKXvqA/JMkDn1XyYj/81664
+#EXTINF:-1 tvg-country="PT" group-title="BTV",BTV HD
+http://185.71.64.167:80/US7AyKXvqA/JMkDn1XyYj/81786
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 
 http://pulsestreamstv.uk:8080/66666/66666/148567
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 
-http://hdhd.tk:80/jorge12/jorge12/4853
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 
 http://188.93.238.25:2052/live/Rafael1234/Rafael1234/196017.m3u8
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 
 http://iptv.nonoip.com:7000/naima/naima1234/38101
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 
+http://pulsestreamstv.uk:8080/66666/66666/148567
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 
 http://iptv.nonoip.com:7000/naima/naima1234/38101
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 
-http://pulsestreamstv.uk:8080/66666/66666/148567
+http://hdhd.tk:80/jorge12/jorge12/4853
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 FHD
 http://localhd.tv:8081/abtaria0206/LWwNyUDslN/6510
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 FHD
 http://localhd.tv:8081/abtaria0206/LWwNyUDslN/6510
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
-http://185.71.64.167:80/US7AyKXvqA/JMkDn1XyYj/81642
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
-http://185.71.64.167:80/US7AyKXvqA/JMkDn1XyYj/81777
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
 http://pulsestreamstv.uk:8080/66666/66666/148568
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
-http://pn.tvott.info:80/477845056156344/477845056156344/81642
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
-http://pn.tvott.info:80/477845056156344/477845056156344/81777
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
-http://iptv.nonoip.com:7000/naima/naima1234/38102
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
 http://iptv.nonoip.com:7000/naima/naima1234/38102
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
@@ -95,36 +85,36 @@ http://ip.mooniptv.cz:80/8841898559/6679704282/81642
 http://ip.mooniptv.cz:80/8841898559/6679704282/81777
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
 http://pulsestreamstv.uk:8080/66666/66666/148568
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
+http://iptv.nonoip.com:7000/naima/naima1234/38102
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
+http://pn.tvott.info:80/477845056156344/477845056156344/81642
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
+http://pn.tvott.info:80/477845056156344/477845056156344/81777
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
+http://185.71.64.167:80/US7AyKXvqA/JMkDn1XyYj/81642
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
+http://185.71.64.167:80/US7AyKXvqA/JMkDn1XyYj/81777
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47284
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 
 http://pulsestreamstv.uk:8080/66666/66666/148569
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 
-http://hdhd.tk:80/jorge12/jorge12/4854
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 
 http://188.93.238.25:2052/live/Rafael1234/Rafael1234/196018.m3u8
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 
 http://iptv.nonoip.com:7000/naima/naima1234/38103
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 
+http://pulsestreamstv.uk:8080/66666/66666/148569
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 
 http://iptv.nonoip.com:7000/naima/naima1234/38103
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 
-http://pulsestreamstv.uk:8080/66666/66666/148569
+http://hdhd.tk:80/jorge12/jorge12/4854
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 FHD
 http://localhd.tv:8081/abtaria0206/LWwNyUDslN/6509
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 FHD
 http://localhd.tv:8081/abtaria0206/LWwNyUDslN/6509
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HD
-http://185.71.64.167:80/US7AyKXvqA/JMkDn1XyYj/81641
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HD
-http://185.71.64.167:80/US7AyKXvqA/JMkDn1XyYj/81776
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HD
 http://pulsestreamstv.uk:8080/66666/66666/148570
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HD
-http://pn.tvott.info:80/477845056156344/477845056156344/81641
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HD
-http://pn.tvott.info:80/477845056156344/477845056156344/81776
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HD
-http://iptv.nonoip.com:7000/naima/naima1234/38104
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HD
 http://iptv.nonoip.com:7000/naima/naima1234/38104
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HD
@@ -133,36 +123,36 @@ http://ip.mooniptv.cz:80/8841898559/6679704282/81641
 http://ip.mooniptv.cz:80/8841898559/6679704282/81776
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HD
 http://pulsestreamstv.uk:8080/66666/66666/148570
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HD
+http://iptv.nonoip.com:7000/naima/naima1234/38104
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HD
+http://pn.tvott.info:80/477845056156344/477845056156344/81641
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HD
+http://pn.tvott.info:80/477845056156344/477845056156344/81776
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HD
+http://185.71.64.167:80/US7AyKXvqA/JMkDn1XyYj/81641
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HD
+http://185.71.64.167:80/US7AyKXvqA/JMkDn1XyYj/81776
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47285
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 
 http://pulsestreamstv.uk:8080/66666/66666/148571
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 
-http://hdhd.tk:80/jorge12/jorge12/4855
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 
 http://188.93.238.25:2052/live/Rafael1234/Rafael1234/196019.m3u8
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 
 http://iptv.nonoip.com:7000/naima/naima1234/38105
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 
+http://pulsestreamstv.uk:8080/66666/66666/148571
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 
 http://iptv.nonoip.com:7000/naima/naima1234/38105
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 
-http://pulsestreamstv.uk:8080/66666/66666/148571
+http://hdhd.tk:80/jorge12/jorge12/4855
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 FHD
 http://localhd.tv:8081/abtaria0206/LWwNyUDslN/6511
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 FHD
 http://localhd.tv:8081/abtaria0206/LWwNyUDslN/6511
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
-http://185.71.64.167:80/US7AyKXvqA/JMkDn1XyYj/81640
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
-http://185.71.64.167:80/US7AyKXvqA/JMkDn1XyYj/81775
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
 http://pulsestreamstv.uk:8080/66666/66666/148572
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
-http://pn.tvott.info:80/477845056156344/477845056156344/81640
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
-http://pn.tvott.info:80/477845056156344/477845056156344/81775
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
-http://iptv.nonoip.com:7000/naima/naima1234/38106
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
 http://iptv.nonoip.com:7000/naima/naima1234/38106
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
@@ -171,36 +161,36 @@ http://ip.mooniptv.cz:80/8841898559/6679704282/81640
 http://ip.mooniptv.cz:80/8841898559/6679704282/81775
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
 http://pulsestreamstv.uk:8080/66666/66666/148572
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
+http://iptv.nonoip.com:7000/naima/naima1234/38106
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
+http://pn.tvott.info:80/477845056156344/477845056156344/81640
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
+http://pn.tvott.info:80/477845056156344/477845056156344/81775
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
+http://185.71.64.167:80/US7AyKXvqA/JMkDn1XyYj/81640
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
+http://185.71.64.167:80/US7AyKXvqA/JMkDn1XyYj/81775
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47286
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 
 http://pulsestreamstv.uk:8080/66666/66666/148573
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 
-http://hdhd.tk:80/jorge12/jorge12/4856
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 
 http://188.93.238.25:2052/live/Rafael1234/Rafael1234/196020.m3u8
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 
 http://iptv.nonoip.com:7000/naima/naima1234/38107
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 
+http://pulsestreamstv.uk:8080/66666/66666/148573
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 
 http://iptv.nonoip.com:7000/naima/naima1234/38107
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 
-http://pulsestreamstv.uk:8080/66666/66666/148573
+http://hdhd.tk:80/jorge12/jorge12/4856
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 FHD
 http://localhd.tv:8081/abtaria0206/LWwNyUDslN/6512
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 FHD
 http://localhd.tv:8081/abtaria0206/LWwNyUDslN/6512
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HD
-http://185.71.64.167:80/US7AyKXvqA/JMkDn1XyYj/81639
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HD
-http://185.71.64.167:80/US7AyKXvqA/JMkDn1XyYj/81774
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HD
 http://pulsestreamstv.uk:8080/66666/66666/148574
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HD
-http://pn.tvott.info:80/477845056156344/477845056156344/81639
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HD
-http://pn.tvott.info:80/477845056156344/477845056156344/81774
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HD
-http://iptv.nonoip.com:7000/naima/naima1234/38108
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HD
 http://iptv.nonoip.com:7000/naima/naima1234/38108
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HD
@@ -209,36 +199,36 @@ http://ip.mooniptv.cz:80/8841898559/6679704282/81639
 http://ip.mooniptv.cz:80/8841898559/6679704282/81774
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HD
 http://pulsestreamstv.uk:8080/66666/66666/148574
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HD
+http://iptv.nonoip.com:7000/naima/naima1234/38108
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HD
+http://pn.tvott.info:80/477845056156344/477845056156344/81639
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HD
+http://pn.tvott.info:80/477845056156344/477845056156344/81774
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HD
+http://185.71.64.167:80/US7AyKXvqA/JMkDn1XyYj/81639
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HD
+http://185.71.64.167:80/US7AyKXvqA/JMkDn1XyYj/81774
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47287
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 
 http://pulsestreamstv.uk:8080/66666/66666/148575
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 
-http://hdhd.tk:80/jorge12/jorge12/4857
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 
 http://188.93.238.25:2052/live/Rafael1234/Rafael1234/196021.m3u8
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 
 http://iptv.nonoip.com:7000/naima/naima1234/38109
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 
+http://pulsestreamstv.uk:8080/66666/66666/148575
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 
 http://iptv.nonoip.com:7000/naima/naima1234/38109
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 
-http://pulsestreamstv.uk:8080/66666/66666/148575
+http://hdhd.tk:80/jorge12/jorge12/4857
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 FHD
 http://localhd.tv:8081/abtaria0206/LWwNyUDslN/6513
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 FHD
 http://localhd.tv:8081/abtaria0206/LWwNyUDslN/6513
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HD
-http://185.71.64.167:80/US7AyKXvqA/JMkDn1XyYj/81638
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HD
-http://185.71.64.167:80/US7AyKXvqA/JMkDn1XyYj/81773
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HD
 http://pulsestreamstv.uk:8080/66666/66666/148576
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HD
-http://pn.tvott.info:80/477845056156344/477845056156344/81638
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HD
-http://pn.tvott.info:80/477845056156344/477845056156344/81773
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HD
-http://iptv.nonoip.com:7000/naima/naima1234/38110
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HD
 http://iptv.nonoip.com:7000/naima/naima1234/38110
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HD
@@ -247,36 +237,36 @@ http://ip.mooniptv.cz:80/8841898559/6679704282/81638
 http://ip.mooniptv.cz:80/8841898559/6679704282/81773
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HD
 http://pulsestreamstv.uk:8080/66666/66666/148576
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HD
+http://iptv.nonoip.com:7000/naima/naima1234/38110
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HD
+http://pn.tvott.info:80/477845056156344/477845056156344/81638
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HD
+http://pn.tvott.info:80/477845056156344/477845056156344/81773
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HD
+http://185.71.64.167:80/US7AyKXvqA/JMkDn1XyYj/81638
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HD
+http://185.71.64.167:80/US7AyKXvqA/JMkDn1XyYj/81773
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47288
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 
 http://pulsestreamstv.uk:8080/66666/66666/148577
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 
-http://hdhd.tk:80/jorge12/jorge12/4858
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 
 http://188.93.238.25:2052/live/Rafael1234/Rafael1234/196022.m3u8
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 
 http://iptv.nonoip.com:7000/naima/naima1234/38111
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 
+http://pulsestreamstv.uk:8080/66666/66666/148577
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 
 http://iptv.nonoip.com:7000/naima/naima1234/38111
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 
-http://pulsestreamstv.uk:8080/66666/66666/148577
+http://hdhd.tk:80/jorge12/jorge12/4858
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 FHD
 http://localhd.tv:8081/abtaria0206/LWwNyUDslN/6729
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 FHD
 http://localhd.tv:8081/abtaria0206/LWwNyUDslN/6729
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HD
-http://185.71.64.167:80/US7AyKXvqA/JMkDn1XyYj/81637
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HD
-http://185.71.64.167:80/US7AyKXvqA/JMkDn1XyYj/81772
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HD
 http://pulsestreamstv.uk:8080/66666/66666/148578
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HD
-http://pn.tvott.info:80/477845056156344/477845056156344/81637
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HD
-http://pn.tvott.info:80/477845056156344/477845056156344/81772
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HD
-http://iptv.nonoip.com:7000/naima/naima1234/38112
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HD
 http://iptv.nonoip.com:7000/naima/naima1234/38112
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HD
@@ -285,14 +275,20 @@ http://ip.mooniptv.cz:80/8841898559/6679704282/81637
 http://ip.mooniptv.cz:80/8841898559/6679704282/81772
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HD
 http://pulsestreamstv.uk:8080/66666/66666/148578
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HD
+http://iptv.nonoip.com:7000/naima/naima1234/38112
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HD
+http://pn.tvott.info:80/477845056156344/477845056156344/81637
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HD
+http://pn.tvott.info:80/477845056156344/477845056156344/81772
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HD
+http://185.71.64.167:80/US7AyKXvqA/JMkDn1XyYj/81637
+#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HD
+http://185.71.64.167:80/US7AyKXvqA/JMkDn1XyYj/81772
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47289
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 
-http://185.71.64.167:80/US7AyKXvqA/JMkDn1XyYj/81650
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 
 http://pulsestreamstv.uk:8080/66666/66666/148641
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 
-http://pn.tvott.info:80/477845056156344/477845056156344/81650
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 
 http://188.93.238.25:2052/live/Rafael1234/Rafael1234/196135.m3u8
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 
@@ -300,11 +296,17 @@ http://188.93.238.25:2052/live/Rafael1234/Rafael1234/196111.m3u8
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 
 http://iptv.nonoip.com:7000/naima/naima1234/38089
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 
-http://iptv.nonoip.com:7000/naima/naima1234/38089
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 
 http://ip.mooniptv.cz:80/8841898559/6679704282/81650
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 
 http://pulsestreamstv.uk:8080/66666/66666/148641
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 
+http://iptv.nonoip.com:7000/naima/naima1234/38089
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 
+http://pn.tvott.info:80/477845056156344/477845056156344/81650
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 
+http://185.71.64.167:80/US7AyKXvqA/JMkDn1XyYj/81650
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 FHD
+http://tvmedia2.com:8080/doreen/doreen/167763.ts
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 FHD
 http://tvmedia2.com:8080/doreen/doreen/167763.ts
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 FHD
@@ -315,20 +317,24 @@ http://localhd.tv:8081/abtaria0206/LWwNyUDslN/5341
 http://localhd.tv:8081/abtaria0206/LWwNyUDslN/4445
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 FHD
 http://localhd.tv:8081/abtaria0206/LWwNyUDslN/5341
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 FHD
-http://tvmedia2.com:8080/doreen/doreen/167763.ts
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 FULLHD
 http://tvmedia2.com:8080/doreen/doreen/165243.ts
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 FULLHD
 http://tvmedia2.com:8080/doreen/doreen/165243.ts
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
-http://185.71.64.167:80/US7AyKXvqA/JMkDn1XyYj/81651
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
-http://185.71.64.167:80/US7AyKXvqA/JMkDn1XyYj/81652
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
-http://185.71.64.167:80/US7AyKXvqA/JMkDn1XyYj/81781
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
 http://pulsestreamstv.uk:8080/66666/66666/148642
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
+http://iptv.nonoip.com:7000/naima/naima1234/38090
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
+http://ip.mooniptv.cz:80/8841898559/6679704282/81651
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
+http://ip.mooniptv.cz:80/8841898559/6679704282/81652
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
+http://ip.mooniptv.cz:80/8841898559/6679704282/81781
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
+http://pulsestreamstv.uk:8080/66666/66666/148642
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
+http://iptv.nonoip.com:7000/naima/naima1234/38090
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
 http://pn.tvott.info:80/477845056156344/477845056156344/81651
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
@@ -344,17 +350,11 @@ http://localhd.tv:8081/abtaria0206/LWwNyUDslN/1721
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
 http://localhd.tv:8081/abtaria0206/LWwNyUDslN/4437
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
-http://iptv.nonoip.com:7000/naima/naima1234/38090
+http://185.71.64.167:80/US7AyKXvqA/JMkDn1XyYj/81651
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
-http://iptv.nonoip.com:7000/naima/naima1234/38090
+http://185.71.64.167:80/US7AyKXvqA/JMkDn1XyYj/81652
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
-http://ip.mooniptv.cz:80/8841898559/6679704282/81651
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
-http://ip.mooniptv.cz:80/8841898559/6679704282/81652
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
-http://ip.mooniptv.cz:80/8841898559/6679704282/81781
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
-http://pulsestreamstv.uk:8080/66666/66666/148642
+http://185.71.64.167:80/US7AyKXvqA/JMkDn1XyYj/81781
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47277
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 SD
@@ -366,13 +366,7 @@ http://localhd.tv:8081/abtaria0206/LWwNyUDslN/5335
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 UHD
 http://localhd.tv:8081/abtaria0206/LWwNyUDslN/5335
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 
-http://185.71.64.167:80/US7AyKXvqA/JMkDn1XyYj/81648
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 
 http://pulsestreamstv.uk:8080/66666/66666/148643
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 
-http://pn.tvott.info:80/477845056156344/477845056156344/81648
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 
-http://hdhd.tk:80/jorge12/jorge12/4906
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 
 http://188.93.238.25:2052/live/Rafael1234/Rafael1234/196159.m3u8
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 
@@ -380,11 +374,19 @@ http://188.93.238.25:2052/live/Rafael1234/Rafael1234/196067.m3u8
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 
 http://iptv.nonoip.com:7000/naima/naima1234/38091
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 
-http://iptv.nonoip.com:7000/naima/naima1234/38091
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 
 http://ip.mooniptv.cz:80/8841898559/6679704282/81648
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 
 http://pulsestreamstv.uk:8080/66666/66666/148643
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 
+http://iptv.nonoip.com:7000/naima/naima1234/38091
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 
+http://hdhd.tk:80/jorge12/jorge12/4906
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 
+http://pn.tvott.info:80/477845056156344/477845056156344/81648
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 
+http://185.71.64.167:80/US7AyKXvqA/JMkDn1XyYj/81648
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 FHD
+http://tvmedia2.com:8080/doreen/doreen/167764.ts
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 FHD
 http://tvmedia2.com:8080/doreen/doreen/167764.ts
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 FHD
@@ -395,18 +397,22 @@ http://localhd.tv:8081/abtaria0206/LWwNyUDslN/665020106
 http://localhd.tv:8081/abtaria0206/LWwNyUDslN/4444
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 FHD
 http://localhd.tv:8081/abtaria0206/LWwNyUDslN/665020106
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 FHD
-http://tvmedia2.com:8080/doreen/doreen/167764.ts
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 FULLHD
 http://tvmedia2.com:8080/doreen/doreen/165244.ts
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 FULLHD
 http://tvmedia2.com:8080/doreen/doreen/165244.ts
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
-http://185.71.64.167:80/US7AyKXvqA/JMkDn1XyYj/81649
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
-http://185.71.64.167:80/US7AyKXvqA/JMkDn1XyYj/81780
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
 http://pulsestreamstv.uk:8080/66666/66666/148644
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
+http://iptv.nonoip.com:7000/naima/naima1234/38092
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
+http://ip.mooniptv.cz:80/8841898559/6679704282/81649
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
+http://ip.mooniptv.cz:80/8841898559/6679704282/81780
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
+http://pulsestreamstv.uk:8080/66666/66666/148644
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
+http://iptv.nonoip.com:7000/naima/naima1234/38092
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
 http://pn.tvott.info:80/477845056156344/477845056156344/81649
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
@@ -416,25 +422,13 @@ http://localhd.tv:8081/abtaria0206/LWwNyUDslN/1722
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
 http://localhd.tv:8081/abtaria0206/LWwNyUDslN/1722
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
-http://iptv.nonoip.com:7000/naima/naima1234/38092
+http://185.71.64.167:80/US7AyKXvqA/JMkDn1XyYj/81649
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
-http://iptv.nonoip.com:7000/naima/naima1234/38092
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
-http://ip.mooniptv.cz:80/8841898559/6679704282/81649
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
-http://ip.mooniptv.cz:80/8841898559/6679704282/81780
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
-http://pulsestreamstv.uk:8080/66666/66666/148644
+http://185.71.64.167:80/US7AyKXvqA/JMkDn1XyYj/81780
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47278
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 
-http://185.71.64.167:80/US7AyKXvqA/JMkDn1XyYj/81646
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 
 http://pulsestreamstv.uk:8080/66666/66666/148645
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 
-http://pn.tvott.info:80/477845056156344/477845056156344/81646
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 
-http://hdhd.tk:80/jorge12/jorge12/4907
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 
 http://188.93.238.25:2052/live/Rafael1234/Rafael1234/196160.m3u8
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 
@@ -442,11 +436,19 @@ http://188.93.238.25:2052/live/Rafael1234/Rafael1234/196068.m3u8
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 
 http://iptv.nonoip.com:7000/naima/naima1234/38093
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 
-http://iptv.nonoip.com:7000/naima/naima1234/38093
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 
 http://ip.mooniptv.cz:80/8841898559/6679704282/81646
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 
 http://pulsestreamstv.uk:8080/66666/66666/148645
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 
+http://iptv.nonoip.com:7000/naima/naima1234/38093
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 
+http://hdhd.tk:80/jorge12/jorge12/4907
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 
+http://pn.tvott.info:80/477845056156344/477845056156344/81646
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 
+http://185.71.64.167:80/US7AyKXvqA/JMkDn1XyYj/81646
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 FHD
+http://tvmedia2.com:8080/doreen/doreen/167765.ts
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 FHD
 http://tvmedia2.com:8080/doreen/doreen/167765.ts
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 FHD
@@ -457,18 +459,22 @@ http://localhd.tv:8081/abtaria0206/LWwNyUDslN/5342
 http://localhd.tv:8081/abtaria0206/LWwNyUDslN/4443
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 FHD
 http://localhd.tv:8081/abtaria0206/LWwNyUDslN/5342
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 FHD
-http://tvmedia2.com:8080/doreen/doreen/167765.ts
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 FULLHD
 http://tvmedia2.com:8080/doreen/doreen/165245.ts
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 FULLHD
 http://tvmedia2.com:8080/doreen/doreen/165245.ts
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 HD
-http://185.71.64.167:80/US7AyKXvqA/JMkDn1XyYj/81647
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 HD
-http://185.71.64.167:80/US7AyKXvqA/JMkDn1XyYj/81779
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 HD
 http://pulsestreamstv.uk:8080/66666/66666/148646
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 HD
+http://iptv.nonoip.com:7000/naima/naima1234/38094
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 HD
+http://ip.mooniptv.cz:80/8841898559/6679704282/81647
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 HD
+http://ip.mooniptv.cz:80/8841898559/6679704282/81779
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 HD
+http://pulsestreamstv.uk:8080/66666/66666/148646
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 HD
+http://iptv.nonoip.com:7000/naima/naima1234/38094
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 HD
 http://pn.tvott.info:80/477845056156344/477845056156344/81647
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 HD
@@ -478,31 +484,27 @@ http://localhd.tv:8081/abtaria0206/LWwNyUDslN/1723
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 HD
 http://localhd.tv:8081/abtaria0206/LWwNyUDslN/1723
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 HD
-http://iptv.nonoip.com:7000/naima/naima1234/38094
+http://185.71.64.167:80/US7AyKXvqA/JMkDn1XyYj/81647
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 HD
-http://iptv.nonoip.com:7000/naima/naima1234/38094
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 HD
-http://ip.mooniptv.cz:80/8841898559/6679704282/81647
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 HD
-http://ip.mooniptv.cz:80/8841898559/6679704282/81779
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 HD
-http://pulsestreamstv.uk:8080/66666/66666/148646
+http://185.71.64.167:80/US7AyKXvqA/JMkDn1XyYj/81779
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47279
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 
-http://185.71.64.167:80/US7AyKXvqA/JMkDn1XyYj/81645
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 
 http://pulsestreamstv.uk:8080/66666/66666/148647
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 
-http://pn.tvott.info:80/477845056156344/477845056156344/81645
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 
-http://hdhd.tk:80/jorge12/jorge12/4908
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 
 http://188.93.238.25:2052/live/Rafael1234/Rafael1234/196136.m3u8
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 
 http://ip.mooniptv.cz:80/8841898559/6679704282/81645
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 
 http://pulsestreamstv.uk:8080/66666/66666/148647
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 
+http://hdhd.tk:80/jorge12/jorge12/4908
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 
+http://pn.tvott.info:80/477845056156344/477845056156344/81645
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 
+http://185.71.64.167:80/US7AyKXvqA/JMkDn1XyYj/81645
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 FHD
+http://tvmedia2.com:8080/doreen/doreen/167766.ts
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 FHD
 http://tvmedia2.com:8080/doreen/doreen/167766.ts
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 FHD
@@ -513,8 +515,6 @@ http://localhd.tv:8081/abtaria0206/LWwNyUDslN/5343
 http://localhd.tv:8081/abtaria0206/LWwNyUDslN/4441
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 FHD
 http://localhd.tv:8081/abtaria0206/LWwNyUDslN/5343
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 FHD
-http://tvmedia2.com:8080/doreen/doreen/167766.ts
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 FULLHD
 http://tvmedia2.com:8080/doreen/doreen/165246.ts
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 FULLHD
@@ -522,25 +522,19 @@ http://tvmedia2.com:8080/doreen/doreen/165246.ts
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 HD
 http://pulsestreamstv.uk:8080/66666/66666/148648
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 HD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/1724
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 HD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/1724
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 HD
-http://iptv.nonoip.com:7000/naima/naima1234/38096
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 HD
 http://iptv.nonoip.com:7000/naima/naima1234/38096
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 HD
 http://pulsestreamstv.uk:8080/66666/66666/148648
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 HD
+http://iptv.nonoip.com:7000/naima/naima1234/38096
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 HD
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/1724
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 HD
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/1724
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47280
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 
-http://185.71.64.167:80/US7AyKXvqA/JMkDn1XyYj/81644
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 
 http://pulsestreamstv.uk:8080/66666/66666/148649
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 
-http://pn.tvott.info:80/477845056156344/477845056156344/81644
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 
-http://hdhd.tk:80/jorge12/jorge12/4909
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 
 http://188.93.238.25:2052/live/Rafael1234/Rafael1234/196161.m3u8
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 
@@ -548,11 +542,19 @@ http://188.93.238.25:2052/live/Rafael1234/Rafael1234/196069.m3u8
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 
 http://iptv.nonoip.com:7000/naima/naima1234/38097
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 
-http://iptv.nonoip.com:7000/naima/naima1234/38097
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 
 http://ip.mooniptv.cz:80/8841898559/6679704282/81644
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 
 http://pulsestreamstv.uk:8080/66666/66666/148649
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 
+http://iptv.nonoip.com:7000/naima/naima1234/38097
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 
+http://hdhd.tk:80/jorge12/jorge12/4909
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 
+http://pn.tvott.info:80/477845056156344/477845056156344/81644
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 
+http://185.71.64.167:80/US7AyKXvqA/JMkDn1XyYj/81644
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 FHD
+http://tvmedia2.com:8080/doreen/doreen/167767.ts
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 FHD
 http://tvmedia2.com:8080/doreen/doreen/167767.ts
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 FHD
@@ -563,14 +565,18 @@ http://localhd.tv:8081/abtaria0206/LWwNyUDslN/5344
 http://localhd.tv:8081/abtaria0206/LWwNyUDslN/4439
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 FHD
 http://localhd.tv:8081/abtaria0206/LWwNyUDslN/5344
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 FHD
-http://tvmedia2.com:8080/doreen/doreen/167767.ts
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 FULLHD
 http://tvmedia2.com:8080/doreen/doreen/165247.ts
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 FULLHD
 http://tvmedia2.com:8080/doreen/doreen/165247.ts
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 HD
 http://pulsestreamstv.uk:8080/66666/66666/148650
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 HD
+http://iptv.nonoip.com:7000/naima/naima1234/38098
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 HD
+http://pulsestreamstv.uk:8080/66666/66666/148650
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 HD
+http://iptv.nonoip.com:7000/naima/naima1234/38098
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 HD
 http://localhd.tv:8081/abtaria0206/LWwNyUDslN/2295
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 HD
@@ -579,11 +585,5 @@ http://localhd.tv:8081/abtaria0206/LWwNyUDslN/2139
 http://localhd.tv:8081/abtaria0206/LWwNyUDslN/2295
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 HD
 http://localhd.tv:8081/abtaria0206/LWwNyUDslN/2139
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 HD
-http://iptv.nonoip.com:7000/naima/naima1234/38098
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 HD
-http://iptv.nonoip.com:7000/naima/naima1234/38098
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 HD
-http://pulsestreamstv.uk:8080/66666/66666/148650
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47281
