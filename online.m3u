@@ -11,22 +11,16 @@ http://localhd.tv:8081/abtaria0206/LWwNyUDslN/1670
 http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/48292
 #EXTINF:-1 tvg-country="PT" group-title="BENFICA TV",BENFICA TV FHD
 http://localhd.tv:8081/abtaria0206/LWwNyUDslN/4269
-#EXTINF:-1 tvg-country="PT" group-title="BENFICA TV",BENFICA TV FHD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/1497
 #EXTINF:-1 tvg-country="PT" group-title="BENFICA TV",BENFICA TV HD
 http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/48291
 #EXTINF:-1 tvg-country="PT" group-title="BENFICA TV",BENFICA TV HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47292
-#EXTINF:-1 tvg-country="PT" group-title="BTV",BTV FHD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/8042
 #EXTINF:-1 tvg-country="PT" group-title="BTV",BTV HD
 http://rv.flysat.live:80/wade/wade/81664
 #EXTINF:-1 tvg-country="PT" group-title="BTV",BTV HD
 http://rv.flysat.live:80/wade/wade/81786
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 
 http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/48266
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 FHD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/1499
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
 http://rv.flysat.live:80/wade/wade/81642
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
@@ -47,8 +41,6 @@ http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/48263
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47285
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 
 http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/48262
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 FHD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/1506
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
 http://rv.flysat.live:80/wade/wade/81640
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
@@ -59,8 +51,6 @@ http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/48261
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47286
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 
 http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/48260
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 FHD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/1509
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HD
 http://rv.flysat.live:80/wade/wade/81639
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HD
@@ -97,22 +87,20 @@ http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/48193
 http://localhd.tv:8081/abtaria0206/LWwNyUDslN/4445
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 FHD
 http://localhd.tv:8081/abtaria0206/LWwNyUDslN/4445
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 FHD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/1483
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/1721
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/4437
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/1721
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/4437
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
 http://rv.flysat.live:80/wade/wade/81651
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
 http://rv.flysat.live:80/wade/wade/81652
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
 http://rv.flysat.live:80/wade/wade/81781
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/1721
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/4437
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/1721
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/4437
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
 http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/48192
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HEVC
@@ -129,16 +117,14 @@ http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/48191
 http://localhd.tv:8081/abtaria0206/LWwNyUDslN/4444
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 FHD
 http://localhd.tv:8081/abtaria0206/LWwNyUDslN/4444
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 FHD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/1486
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/1722
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/1722
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
 http://rv.flysat.live:80/wade/wade/81649
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
 http://rv.flysat.live:80/wade/wade/81780
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/1722
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/1722
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
 http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/48190
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HEVC
@@ -151,16 +137,14 @@ http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/48189
 http://localhd.tv:8081/abtaria0206/LWwNyUDslN/4443
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 FHD
 http://localhd.tv:8081/abtaria0206/LWwNyUDslN/4443
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 FHD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/1489
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 HD
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/1723
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 HD
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/1723
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 HD
 http://rv.flysat.live:80/wade/wade/81647
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 HD
 http://rv.flysat.live:80/wade/wade/81779
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 HD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/1723
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 HD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/1723
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 HD
 http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/48188
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 HEVC
@@ -171,8 +155,6 @@ http://rv.flysat.live:80/wade/wade/81645
 http://localhd.tv:8081/abtaria0206/LWwNyUDslN/4441
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 FHD
 http://localhd.tv:8081/abtaria0206/LWwNyUDslN/4441
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 FHD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/1492
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 HD
 http://localhd.tv:8081/abtaria0206/LWwNyUDslN/1724
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 HD
@@ -187,8 +169,6 @@ http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/48187
 http://localhd.tv:8081/abtaria0206/LWwNyUDslN/4439
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 FHD
 http://localhd.tv:8081/abtaria0206/LWwNyUDslN/4439
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 FHD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/1495
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 HD
 http://localhd.tv:8081/abtaria0206/LWwNyUDslN/2295
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 HD
