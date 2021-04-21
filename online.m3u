@@ -5,62 +5,26 @@ http://localhd.tv:8081/abtaria0206/LWwNyUDslN/1669
 http://localhd.tv:8081/abtaria0206/LWwNyUDslN/1670
 #EXTINF:-1 tvg-country="PT" group-title="BENFICA TV",BENFICA TV FHD
 http://localhd.tv:8081/abtaria0206/LWwNyUDslN/4269
-#EXTINF:-1 tvg-country="PT" group-title="BENFICA TV",BENFICA TV HEVC
-http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47292
-#EXTINF:-1 tvg-country="PT" group-title="BTV",BTV 
-http://myserverdns.ddns.net:29500/lazaro/lazaro/150135
 #EXTINF:-1 tvg-country="PT" group-title="BTV",BTV 
 http://atlasiptv.org:8080/mustafa/mustafa/1236
+#EXTINF:-1 tvg-country="PT" group-title="BTV",BTV 
+http://myserverdns.ddns.net:29500/lazaro/lazaro/150135
 #EXTINF:-1 tvg-country="PT" group-title="BTV",BTV FHD
 http://atlasiptv.org:8080/mustafa/mustafa/1237
 #EXTINF:-1 tvg-country="PT" group-title="BTV",BTV HD
-http://185.71.64.167:80/9369407316/3938935138/81664
-#EXTINF:-1 tvg-country="PT" group-title="BTV",BTV HD
-http://185.71.64.167:80/9369407316/3938935138/81786
-#EXTINF:-1 tvg-country="PT" group-title="BTV",BTV HD
-http://rv.flysat.live:80/musa1/musa2/81664
-#EXTINF:-1 tvg-country="PT" group-title="BTV",BTV HD
-http://rv.flysat.live:80/musa1/musa2/81786
-#EXTINF:-1 tvg-country="PT" group-title="BTV",BTV HD
-http://rv.flysat.live:80/wade/wade/81664
-#EXTINF:-1 tvg-country="PT" group-title="BTV",BTV HD
-http://rv.flysat.live:80/wade/wade/81786
-#EXTINF:-1 tvg-country="PT" group-title="BTV",BTV HD
-http://myserverdns.ddns.net:29500/lazaro/lazaro/150136
-#EXTINF:-1 tvg-country="PT" group-title="BTV",BTV HD
-http://rv.flysat.live:80/wade/wade/81664
-#EXTINF:-1 tvg-country="PT" group-title="BTV",BTV HD
-http://rv.flysat.live:80/wade/wade/81786
+http://ottin.me:8000/salam_000946/ImHfNpi5/107776
 #EXTINF:-1 tvg-country="PT" group-title="BTV",BTV HD
 http://atlasiptv.org:8080/mustafa/mustafa/1238
 #EXTINF:-1 tvg-country="PT" group-title="BTV",BTV HD
-http://ottin.me:8000/salam_000946/ImHfNpi5/107776
+http://myserverdns.ddns.net:29500/lazaro/lazaro/150136
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 
 http://myserverdns.ddns.net:29500/lazaro/lazaro/150156
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 FHD
 http://atlasiptv.org:8080/mustafa/mustafa/1241
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
-http://185.71.64.167:80/9369407316/3938935138/81642
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
-http://185.71.64.167:80/9369407316/3938935138/81777
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
-http://rv.flysat.live:80/musa1/musa2/81642
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
-http://rv.flysat.live:80/musa1/musa2/81777
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
-http://rv.flysat.live:80/wade/wade/81642
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
-http://rv.flysat.live:80/wade/wade/81777
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
-http://rv.flysat.live:80/wade/wade/81642
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
-http://rv.flysat.live:80/wade/wade/81777
+http://ottin.me:8000/salam_000946/ImHfNpi5/107760
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
 http://atlasiptv.org:8080/mustafa/mustafa/1240
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
-http://ottin.me:8000/salam_000946/ImHfNpi5/107760
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HEVC
-http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47284
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 SD
 http://atlasiptv.org:8080/mustafa/mustafa/1239
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 
@@ -68,27 +32,9 @@ http://myserverdns.ddns.net:29500/lazaro/lazaro/150157
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 FHD
 http://atlasiptv.org:8080/mustafa/mustafa/1244
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HD
-http://185.71.64.167:80/9369407316/3938935138/81641
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HD
-http://185.71.64.167:80/9369407316/3938935138/81776
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HD
-http://rv.flysat.live:80/musa1/musa2/81641
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HD
-http://rv.flysat.live:80/musa1/musa2/81776
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HD
-http://rv.flysat.live:80/wade/wade/81641
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HD
-http://rv.flysat.live:80/wade/wade/81776
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HD
-http://rv.flysat.live:80/wade/wade/81641
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HD
-http://rv.flysat.live:80/wade/wade/81776
+http://ottin.me:8000/salam_000946/ImHfNpi5/107761
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HD
 http://atlasiptv.org:8080/mustafa/mustafa/1243
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HD
-http://ottin.me:8000/salam_000946/ImHfNpi5/107761
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HEVC
-http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47285
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 SD
 http://atlasiptv.org:8080/mustafa/mustafa/1242
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 
@@ -96,27 +42,9 @@ http://myserverdns.ddns.net:29500/lazaro/lazaro/150158
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 FHD
 http://atlasiptv.org:8080/mustafa/mustafa/1247
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
-http://185.71.64.167:80/9369407316/3938935138/81640
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
-http://185.71.64.167:80/9369407316/3938935138/81775
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
-http://rv.flysat.live:80/musa1/musa2/81640
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
-http://rv.flysat.live:80/musa1/musa2/81775
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
-http://rv.flysat.live:80/wade/wade/81640
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
-http://rv.flysat.live:80/wade/wade/81775
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
-http://rv.flysat.live:80/wade/wade/81640
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
-http://rv.flysat.live:80/wade/wade/81775
+http://ottin.me:8000/salam_000946/ImHfNpi5/107762
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
 http://atlasiptv.org:8080/mustafa/mustafa/1246
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
-http://ottin.me:8000/salam_000946/ImHfNpi5/107762
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HEVC
-http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47286
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 SD
 http://atlasiptv.org:8080/mustafa/mustafa/1245
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 
@@ -124,257 +52,99 @@ http://myserverdns.ddns.net:29500/lazaro/lazaro/150159
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 FHD
 http://atlasiptv.org:8080/mustafa/mustafa/1249
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HD
-http://185.71.64.167:80/9369407316/3938935138/81639
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HD
-http://185.71.64.167:80/9369407316/3938935138/81774
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HD
-http://rv.flysat.live:80/musa1/musa2/81639
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HD
-http://rv.flysat.live:80/musa1/musa2/81774
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HD
-http://rv.flysat.live:80/wade/wade/81639
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HD
-http://rv.flysat.live:80/wade/wade/81774
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HD
-http://rv.flysat.live:80/wade/wade/81639
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HD
-http://rv.flysat.live:80/wade/wade/81774
+http://ottin.me:8000/salam_000946/ImHfNpi5/107763
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HD
 http://atlasiptv.org:8080/mustafa/mustafa/1248
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HD
-http://ottin.me:8000/salam_000946/ImHfNpi5/107763
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HEVC
-http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47287
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 
 http://myserverdns.ddns.net:29500/lazaro/lazaro/150160
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 FHD
 http://atlasiptv.org:8080/mustafa/mustafa/1251
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HD
-http://185.71.64.167:80/9369407316/3938935138/81638
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HD
-http://185.71.64.167:80/9369407316/3938935138/81773
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HD
-http://rv.flysat.live:80/musa1/musa2/81638
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HD
-http://rv.flysat.live:80/musa1/musa2/81773
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HD
-http://rv.flysat.live:80/wade/wade/81638
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HD
-http://rv.flysat.live:80/wade/wade/81773
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HD
-http://rv.flysat.live:80/wade/wade/81638
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HD
-http://rv.flysat.live:80/wade/wade/81773
+http://ottin.me:8000/salam_000946/ImHfNpi5/107764
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HD
 http://atlasiptv.org:8080/mustafa/mustafa/1250
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HD
-http://ottin.me:8000/salam_000946/ImHfNpi5/107764
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HEVC
-http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47288
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 
 http://myserverdns.ddns.net:29500/lazaro/lazaro/150161
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 FHD
 http://atlasiptv.org:8080/mustafa/mustafa/1253
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HD
-http://185.71.64.167:80/9369407316/3938935138/81637
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HD
-http://185.71.64.167:80/9369407316/3938935138/81772
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HD
-http://rv.flysat.live:80/musa1/musa2/81637
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HD
-http://rv.flysat.live:80/musa1/musa2/81772
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HD
-http://rv.flysat.live:80/wade/wade/81637
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HD
-http://rv.flysat.live:80/wade/wade/81772
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HD
-http://rv.flysat.live:80/wade/wade/81637
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HD
-http://rv.flysat.live:80/wade/wade/81772
+http://ottin.me:8000/salam_000946/ImHfNpi5/107765
 #EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HD
 http://atlasiptv.org:8080/mustafa/mustafa/1252
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HD
-http://ottin.me:8000/salam_000946/ImHfNpi5/107765
-#EXTINF:-1 tvg-country="PT" group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HEVC
-http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47289
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 
-http://185.71.64.167:80/9369407316/3938935138/81650
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 
-http://rv.flysat.live:80/musa1/musa2/81650
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 
-http://rv.flysat.live:80/wade/wade/81650
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 
-http://myserverdns.ddns.net:29500/lazaro/lazaro/150211
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 
-http://rv.flysat.live:80/wade/wade/81650
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 
 http://ottin.me:8000/salam_000946/ImHfNpi5/107740
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 
+http://myserverdns.ddns.net:29500/lazaro/lazaro/150211
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 FHD
 http://localhd.tv:8081/abtaria0206/LWwNyUDslN/4445
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 FHD
 http://atlasiptv.org:8080/mustafa/mustafa/1220
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
-http://185.71.64.167:80/9369407316/3938935138/81651
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
-http://185.71.64.167:80/9369407316/3938935138/81652
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
-http://185.71.64.167:80/9369407316/3938935138/81781
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
-http://rv.flysat.live:80/musa1/musa2/81651
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
-http://rv.flysat.live:80/musa1/musa2/81652
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
-http://rv.flysat.live:80/musa1/musa2/81781
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
-http://rv.flysat.live:80/wade/wade/81651
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
-http://rv.flysat.live:80/wade/wade/81652
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
-http://rv.flysat.live:80/wade/wade/81781
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
-http://myserverdns.ddns.net:29500/lazaro/lazaro/150212
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
 http://localhd.tv:8081/abtaria0206/LWwNyUDslN/1721
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
 http://localhd.tv:8081/abtaria0206/LWwNyUDslN/4437
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
-http://rv.flysat.live:80/wade/wade/81651
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
-http://rv.flysat.live:80/wade/wade/81652
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
-http://rv.flysat.live:80/wade/wade/81781
+http://ottin.me:8000/salam_000946/ImHfNpi5/107834
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
 http://atlasiptv.org:8080/mustafa/mustafa/1219
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
-http://ottin.me:8000/salam_000946/ImHfNpi5/107834
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HEVC
-http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47277
+http://myserverdns.ddns.net:29500/lazaro/lazaro/150212
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 SD
 http://localhd.tv:8081/abtaria0206/LWwNyUDslN/4438
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 SD
 http://ottin.me:8000/salam_000946/ImHfNpi5/107835
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 
-http://185.71.64.167:80/9369407316/3938935138/81648
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 
-http://rv.flysat.live:80/musa1/musa2/81648
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 
-http://rv.flysat.live:80/wade/wade/81648
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 
 http://myserverdns.ddns.net:29500/lazaro/lazaro/150213
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 
-http://rv.flysat.live:80/wade/wade/81648
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 FHD
 http://localhd.tv:8081/abtaria0206/LWwNyUDslN/4444
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
-http://185.71.64.167:80/9369407316/3938935138/81649
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
-http://185.71.64.167:80/9369407316/3938935138/81780
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
-http://rv.flysat.live:80/musa1/musa2/81649
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
-http://rv.flysat.live:80/musa1/musa2/81780
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
-http://rv.flysat.live:80/wade/wade/81649
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
-http://rv.flysat.live:80/wade/wade/81780
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
-http://myserverdns.ddns.net:29500/lazaro/lazaro/150214
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
 http://localhd.tv:8081/abtaria0206/LWwNyUDslN/1722
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
-http://rv.flysat.live:80/wade/wade/81649
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
-http://rv.flysat.live:80/wade/wade/81780
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
-http://atlasiptv.org:8080/mustafa/mustafa/1222
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
 http://ottin.me:8000/salam_000946/ImHfNpi5/107836
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
 http://ottin.me:8000/salam_000946/ImHfNpi5/107741
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HEVC
-http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47278
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
+http://atlasiptv.org:8080/mustafa/mustafa/1222
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
+http://myserverdns.ddns.net:29500/lazaro/lazaro/150214
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 SD
 http://ottin.me:8000/salam_000946/ImHfNpi5/107837
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 
-http://185.71.64.167:80/9369407316/3938935138/81646
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 
-http://rv.flysat.live:80/musa1/musa2/81646
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 
-http://rv.flysat.live:80/wade/wade/81646
+http://ottin.me:8000/salam_000946/ImHfNpi5/107742
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 
 http://myserverdns.ddns.net:29500/lazaro/lazaro/150215
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 
-http://rv.flysat.live:80/wade/wade/81646
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 
-http://ottin.me:8000/salam_000946/ImHfNpi5/107742
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 FHD
 http://localhd.tv:8081/abtaria0206/LWwNyUDslN/4443
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 HD
-http://185.71.64.167:80/9369407316/3938935138/81647
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 HD
-http://185.71.64.167:80/9369407316/3938935138/81779
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 HD
-http://rv.flysat.live:80/musa1/musa2/81647
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 HD
-http://rv.flysat.live:80/musa1/musa2/81779
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 HD
-http://rv.flysat.live:80/wade/wade/81647
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 HD
-http://rv.flysat.live:80/wade/wade/81779
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 HD
-http://myserverdns.ddns.net:29500/lazaro/lazaro/150219
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 HD
 http://localhd.tv:8081/abtaria0206/LWwNyUDslN/1723
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 HD
-http://rv.flysat.live:80/wade/wade/81647
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 HD
-http://rv.flysat.live:80/wade/wade/81779
+http://ottin.me:8000/salam_000946/ImHfNpi5/107838
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 HD
 http://atlasiptv.org:8080/mustafa/mustafa/1225
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 HD
-http://ottin.me:8000/salam_000946/ImHfNpi5/107838
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 HEVC
-http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47279
+http://myserverdns.ddns.net:29500/lazaro/lazaro/150219
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 SD
 http://ottin.me:8000/salam_000946/ImHfNpi5/107839
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 
-http://185.71.64.167:80/9369407316/3938935138/81645
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 
-http://rv.flysat.live:80/musa1/musa2/81645
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 
-http://rv.flysat.live:80/wade/wade/81645
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 
-http://myserverdns.ddns.net:29500/lazaro/lazaro/150220
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 
-http://rv.flysat.live:80/wade/wade/81645
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 
 http://ottin.me:8000/salam_000946/ImHfNpi5/107840
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 
 http://ottin.me:8000/salam_000946/ImHfNpi5/107743
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 
+http://myserverdns.ddns.net:29500/lazaro/lazaro/150220
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 FHD
 http://localhd.tv:8081/abtaria0206/LWwNyUDslN/4441
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 HD
 http://localhd.tv:8081/abtaria0206/LWwNyUDslN/1724
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 HD
 http://atlasiptv.org:8080/mustafa/mustafa/1228
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 HEVC
-http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47280
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 
-http://185.71.64.167:80/9369407316/3938935138/81644
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 
-http://rv.flysat.live:80/musa1/musa2/81644
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 
-http://rv.flysat.live:80/wade/wade/81644
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 
-http://myserverdns.ddns.net:29500/lazaro/lazaro/150216
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 
-http://rv.flysat.live:80/wade/wade/81644
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 
-http://atlasiptv.org:8080/mustafa/mustafa/1231
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 
 http://ottin.me:8000/salam_000946/ImHfNpi5/107841
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 
 http://ottin.me:8000/salam_000946/ImHfNpi5/107744
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 
+http://atlasiptv.org:8080/mustafa/mustafa/1231
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 
+http://myserverdns.ddns.net:29500/lazaro/lazaro/150216
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 FHD
 http://localhd.tv:8081/abtaria0206/LWwNyUDslN/4439
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 HD
@@ -383,5 +153,3 @@ http://localhd.tv:8081/abtaria0206/LWwNyUDslN/2295
 http://localhd.tv:8081/abtaria0206/LWwNyUDslN/2139
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 HD
 http://atlasiptv.org:8080/mustafa/mustafa/1232
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 HEVC
-http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47281
