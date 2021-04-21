@@ -3,8 +3,6 @@
 http://localhd.tv:8081/abtaria0206/LWwNyUDslN/1669
 #EXTINF:-1 tvg-country="PT" group-title="BENFICA TV",BENFICA TV 
 http://localhd.tv:8081/abtaria0206/LWwNyUDslN/1670
-#EXTINF:-1 tvg-country="PT" group-title="BENFICA TV",BENFICA TV FHD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/4269
 #EXTINF:-1 tvg-country="PT" group-title="BENFICA TV",BENFICA TV HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47292
 #EXTINF:-1 tvg-country="PT" group-title="BTV",BTV 
@@ -132,8 +130,6 @@ http://ottin.me:8000/salam_000946/ImHfNpi5/107740
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 
 http://rv.flysat.live:80/wade/wade/81650
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 FHD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/4445
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 FHD
 http://atlasiptv.org:8080/mustafa/mustafa/1220
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
 http://185.71.64.167:80/9369407316/3938935138/81651
@@ -141,10 +137,6 @@ http://185.71.64.167:80/9369407316/3938935138/81651
 http://185.71.64.167:80/9369407316/3938935138/81652
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
 http://185.71.64.167:80/9369407316/3938935138/81781
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/1721
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/4437
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
 http://ottin.me:8000/salam_000946/ImHfNpi5/107834
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
@@ -155,24 +147,24 @@ http://rv.flysat.live:80/wade/wade/81652
 http://rv.flysat.live:80/wade/wade/81781
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
 http://atlasiptv.org:8080/mustafa/mustafa/1219
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/1721
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HD
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/4437
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47277
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 SD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/4438
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 SD
 http://ottin.me:8000/salam_000946/ImHfNpi5/107835
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 1",SPORT TV 1 SD
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/4438
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 
 http://185.71.64.167:80/9369407316/3938935138/81648
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 
 http://rv.flysat.live:80/wade/wade/81648
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 FHD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/4444
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
 http://185.71.64.167:80/9369407316/3938935138/81649
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
 http://185.71.64.167:80/9369407316/3938935138/81780
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/1722
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
 http://ottin.me:8000/salam_000946/ImHfNpi5/107836
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
@@ -183,6 +175,8 @@ http://rv.flysat.live:80/wade/wade/81649
 http://rv.flysat.live:80/wade/wade/81780
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
 http://atlasiptv.org:8080/mustafa/mustafa/1222
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HD
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/1722
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47278
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 2",SPORT TV 2 SD
@@ -200,8 +194,6 @@ http://185.71.64.167:80/9369407316/3938935138/81647
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 HD
 http://185.71.64.167:80/9369407316/3938935138/81779
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 HD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/1723
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 HD
 http://ottin.me:8000/salam_000946/ImHfNpi5/107838
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 HD
 http://rv.flysat.live:80/wade/wade/81647
@@ -209,6 +201,8 @@ http://rv.flysat.live:80/wade/wade/81647
 http://rv.flysat.live:80/wade/wade/81779
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 HD
 http://atlasiptv.org:8080/mustafa/mustafa/1225
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 HD
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/1723
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47279
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 3",SPORT TV 3 SD
@@ -224,9 +218,9 @@ http://rv.flysat.live:80/wade/wade/81645
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 FHD
 http://localhd.tv:8081/abtaria0206/LWwNyUDslN/4441
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 HD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/1724
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 HD
 http://atlasiptv.org:8080/mustafa/mustafa/1228
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 HD
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/1724
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 4",SPORT TV 4 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47280
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 
@@ -242,10 +236,10 @@ http://atlasiptv.org:8080/mustafa/mustafa/1231
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 FHD
 http://localhd.tv:8081/abtaria0206/LWwNyUDslN/4439
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 HD
+http://atlasiptv.org:8080/mustafa/mustafa/1232
+#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 HD
 http://localhd.tv:8081/abtaria0206/LWwNyUDslN/2295
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 HD
 http://localhd.tv:8081/abtaria0206/LWwNyUDslN/2139
-#EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 HD
-http://atlasiptv.org:8080/mustafa/mustafa/1232
 #EXTINF:-1 tvg-country="PT" group-title="SPORT TV 5",SPORT TV 5 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47281
