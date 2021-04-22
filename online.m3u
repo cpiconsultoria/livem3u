@@ -6,156 +6,156 @@ http://myserverdns.ddns.net:29500/lazaro/lazaro/150135
 #EXTINF:-1 group-title="BTV",BTV HD
 http://myserverdns.ddns.net:29500/lazaro/lazaro/150136
 #EXTINF:-1 group-title="BTV",BTV HD
-http://rv.flysat.live:80/musa1/musa2/81664
-#EXTINF:-1 group-title="BTV",BTV HD
-http://rv.flysat.live:80/musa1/musa2/81786
-#EXTINF:-1 group-title="BTV",BTV HD
 http://rv.flysat.live:80/wade/wade/81664
 #EXTINF:-1 group-title="BTV",BTV HD
 http://rv.flysat.live:80/wade/wade/81786
+#EXTINF:-1 group-title="BTV",BTV HD
+http://rv.flysat.live:80/musa1/musa2/81664
+#EXTINF:-1 group-title="BTV",BTV HD
+http://rv.flysat.live:80/musa1/musa2/81786
 #EXTINF:-1 group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 
 http://myserverdns.ddns.net:29500/lazaro/lazaro/150156
-#EXTINF:-1 group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
-http://rv.flysat.live:80/musa1/musa2/81642
-#EXTINF:-1 group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
-http://rv.flysat.live:80/musa1/musa2/81777
 #EXTINF:-1 group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
 http://rv.flysat.live:80/wade/wade/81642
 #EXTINF:-1 group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
 http://rv.flysat.live:80/wade/wade/81777
+#EXTINF:-1 group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
+http://rv.flysat.live:80/musa1/musa2/81642
+#EXTINF:-1 group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
+http://rv.flysat.live:80/musa1/musa2/81777
 #EXTINF:-1 group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47284
 #EXTINF:-1 group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 
 http://myserverdns.ddns.net:29500/lazaro/lazaro/150157
 #EXTINF:-1 group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HD
-http://rv.flysat.live:80/musa1/musa2/81641
-#EXTINF:-1 group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HD
-http://rv.flysat.live:80/musa1/musa2/81776
-#EXTINF:-1 group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HD
 http://rv.flysat.live:80/wade/wade/81641
 #EXTINF:-1 group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HD
 http://rv.flysat.live:80/wade/wade/81776
+#EXTINF:-1 group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HD
+http://rv.flysat.live:80/musa1/musa2/81641
+#EXTINF:-1 group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HD
+http://rv.flysat.live:80/musa1/musa2/81776
 #EXTINF:-1 group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47285
 #EXTINF:-1 group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 
 http://myserverdns.ddns.net:29500/lazaro/lazaro/150158
 #EXTINF:-1 group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
-http://rv.flysat.live:80/musa1/musa2/81640
-#EXTINF:-1 group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
-http://rv.flysat.live:80/musa1/musa2/81775
-#EXTINF:-1 group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
 http://rv.flysat.live:80/wade/wade/81640
 #EXTINF:-1 group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
 http://rv.flysat.live:80/wade/wade/81775
+#EXTINF:-1 group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
+http://rv.flysat.live:80/musa1/musa2/81640
+#EXTINF:-1 group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
+http://rv.flysat.live:80/musa1/musa2/81775
 #EXTINF:-1 group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47286
 #EXTINF:-1 group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 
 http://myserverdns.ddns.net:29500/lazaro/lazaro/150159
 #EXTINF:-1 group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HD
-http://rv.flysat.live:80/musa1/musa2/81639
-#EXTINF:-1 group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HD
-http://rv.flysat.live:80/musa1/musa2/81774
-#EXTINF:-1 group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HD
 http://rv.flysat.live:80/wade/wade/81639
 #EXTINF:-1 group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HD
 http://rv.flysat.live:80/wade/wade/81774
+#EXTINF:-1 group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HD
+http://rv.flysat.live:80/musa1/musa2/81639
+#EXTINF:-1 group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HD
+http://rv.flysat.live:80/musa1/musa2/81774
 #EXTINF:-1 group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47287
 #EXTINF:-1 group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 
 http://myserverdns.ddns.net:29500/lazaro/lazaro/150160
 #EXTINF:-1 group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HD
-http://rv.flysat.live:80/musa1/musa2/81638
-#EXTINF:-1 group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HD
-http://rv.flysat.live:80/musa1/musa2/81773
-#EXTINF:-1 group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HD
 http://rv.flysat.live:80/wade/wade/81638
 #EXTINF:-1 group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HD
 http://rv.flysat.live:80/wade/wade/81773
+#EXTINF:-1 group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HD
+http://rv.flysat.live:80/musa1/musa2/81638
+#EXTINF:-1 group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HD
+http://rv.flysat.live:80/musa1/musa2/81773
 #EXTINF:-1 group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47288
 #EXTINF:-1 group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 
 http://myserverdns.ddns.net:29500/lazaro/lazaro/150161
 #EXTINF:-1 group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HD
-http://rv.flysat.live:80/musa1/musa2/81637
-#EXTINF:-1 group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HD
-http://rv.flysat.live:80/musa1/musa2/81772
-#EXTINF:-1 group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HD
 http://rv.flysat.live:80/wade/wade/81637
 #EXTINF:-1 group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HD
 http://rv.flysat.live:80/wade/wade/81772
+#EXTINF:-1 group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HD
+http://rv.flysat.live:80/musa1/musa2/81637
+#EXTINF:-1 group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HD
+http://rv.flysat.live:80/musa1/musa2/81772
 #EXTINF:-1 group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47289
 #EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 
 http://myserverdns.ddns.net:29500/lazaro/lazaro/150211
 #EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 
-http://rv.flysat.live:80/musa1/musa2/81650
-#EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 
 http://rv.flysat.live:80/wade/wade/81650
+#EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 
+http://rv.flysat.live:80/musa1/musa2/81650
 #EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 HD
 http://myserverdns.ddns.net:29500/lazaro/lazaro/150212
-#EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 HD
-http://rv.flysat.live:80/musa1/musa2/81651
-#EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 HD
-http://rv.flysat.live:80/musa1/musa2/81652
-#EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 HD
-http://rv.flysat.live:80/musa1/musa2/81781
 #EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 HD
 http://rv.flysat.live:80/wade/wade/81651
 #EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 HD
 http://rv.flysat.live:80/wade/wade/81652
 #EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 HD
 http://rv.flysat.live:80/wade/wade/81781
+#EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 HD
+http://rv.flysat.live:80/musa1/musa2/81651
+#EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 HD
+http://rv.flysat.live:80/musa1/musa2/81652
+#EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 HD
+http://rv.flysat.live:80/musa1/musa2/81781
 #EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47277
 #EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 
 http://myserverdns.ddns.net:29500/lazaro/lazaro/150213
 #EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 
-http://rv.flysat.live:80/musa1/musa2/81648
-#EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 
 http://rv.flysat.live:80/wade/wade/81648
+#EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 
+http://rv.flysat.live:80/musa1/musa2/81648
 #EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 HD
 http://myserverdns.ddns.net:29500/lazaro/lazaro/150214
-#EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 HD
-http://rv.flysat.live:80/musa1/musa2/81649
-#EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 HD
-http://rv.flysat.live:80/musa1/musa2/81780
 #EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 HD
 http://rv.flysat.live:80/wade/wade/81649
 #EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 HD
 http://rv.flysat.live:80/wade/wade/81780
+#EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 HD
+http://rv.flysat.live:80/musa1/musa2/81649
+#EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 HD
+http://rv.flysat.live:80/musa1/musa2/81780
 #EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47278
 #EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 
 http://myserverdns.ddns.net:29500/lazaro/lazaro/150215
 #EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 
-http://rv.flysat.live:80/musa1/musa2/81646
-#EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 
 http://rv.flysat.live:80/wade/wade/81646
+#EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 
+http://rv.flysat.live:80/musa1/musa2/81646
 #EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 HD
 http://myserverdns.ddns.net:29500/lazaro/lazaro/150219
-#EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 HD
-http://rv.flysat.live:80/musa1/musa2/81647
-#EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 HD
-http://rv.flysat.live:80/musa1/musa2/81779
 #EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 HD
 http://rv.flysat.live:80/wade/wade/81647
 #EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 HD
 http://rv.flysat.live:80/wade/wade/81779
+#EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 HD
+http://rv.flysat.live:80/musa1/musa2/81647
+#EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 HD
+http://rv.flysat.live:80/musa1/musa2/81779
 #EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47279
 #EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 
 http://myserverdns.ddns.net:29500/lazaro/lazaro/150220
 #EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 
-http://rv.flysat.live:80/musa1/musa2/81645
-#EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 
 http://rv.flysat.live:80/wade/wade/81645
+#EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 
+http://rv.flysat.live:80/musa1/musa2/81645
 #EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47280
 #EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 
 http://myserverdns.ddns.net:29500/lazaro/lazaro/150216
 #EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 
-http://rv.flysat.live:80/musa1/musa2/81644
-#EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 
 http://rv.flysat.live:80/wade/wade/81644
+#EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 
+http://rv.flysat.live:80/musa1/musa2/81644
 #EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47281
