@@ -24,13 +24,11 @@ http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47105
 #EXTINF:-1 group-title="BTV",BTV 
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47088
 #EXTINF:-1 group-title="BTV",BTV 
-http://goiptv.co:8080/avatar/fVkKAhhBlr/48495
-#EXTINF:-1 group-title="BTV",BTV 
 http://mediap.xyz:80/swoosh-5063/88UWS47RXI/61004
+#EXTINF:-1 group-title="BTV",BTV 
+http://goiptv.co:8080/avatar/fVkKAhhBlr/48495
 #EXTINF:-1 group-title="BTV",BTV FHD
 http://epiciptvrestreamer.com:8000/stick/stick/819
-#EXTINF:-1 group-title="BTV",BTV HD
-http://176.119.25.104:28506/Imma/12345678/9351
 #EXTINF:-1 group-title="BTV",BTV HD
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47104
 #EXTINF:-1 group-title="BTV",BTV HD
@@ -40,6 +38,8 @@ http://rv.flysat.live:80/musa1/musa2/81664
 #EXTINF:-1 group-title="BTV",BTV HD
 http://rv.flysat.live:80/musa1/musa2/81786
 #EXTINF:-1 group-title="BTV",BTV HD
+http://176.119.25.104:28506/Imma/12345678/9351
+#EXTINF:-1 group-title="BTV",BTV HD
 http://prime-tivu.com:25461/jalel/jalel/51279
 #EXTINF:-1 group-title="BTV",BTV HD
 http://prime-tivu.com:25461/jalel/jalel/51270
@@ -48,11 +48,11 @@ http://goiptv.co:8080/avatar/fVkKAhhBlr/48496
 #EXTINF:-1 group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 FHD
 http://prime-tivu.com:25461/jalel/jalel/28250
 #EXTINF:-1 group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
-http://176.119.25.104:28506/Imma/12345678/20536
-#EXTINF:-1 group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
 http://rv.flysat.live:80/musa1/musa2/81642
 #EXTINF:-1 group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
 http://rv.flysat.live:80/musa1/musa2/81777
+#EXTINF:-1 group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
+http://176.119.25.104:28506/Imma/12345678/20536
 #EXTINF:-1 group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
 http://prime-tivu.com:25461/jalel/jalel/28249
 #EXTINF:-1 group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HEVC
@@ -60,11 +60,11 @@ http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47284
 #EXTINF:-1 group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 FHD
 http://prime-tivu.com:25461/jalel/jalel/28253
 #EXTINF:-1 group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HD
-http://176.119.25.104:28506/Imma/12345678/20537
-#EXTINF:-1 group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HD
 http://rv.flysat.live:80/musa1/musa2/81641
 #EXTINF:-1 group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HD
 http://rv.flysat.live:80/musa1/musa2/81776
+#EXTINF:-1 group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HD
+http://176.119.25.104:28506/Imma/12345678/20537
 #EXTINF:-1 group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HD
 http://prime-tivu.com:25461/jalel/jalel/28252
 #EXTINF:-1 group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HEVC
@@ -72,11 +72,11 @@ http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47285
 #EXTINF:-1 group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 FHD
 http://prime-tivu.com:25461/jalel/jalel/28256
 #EXTINF:-1 group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
-http://176.119.25.104:28506/Imma/12345678/20538
-#EXTINF:-1 group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
 http://rv.flysat.live:80/musa1/musa2/81640
 #EXTINF:-1 group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
 http://rv.flysat.live:80/musa1/musa2/81775
+#EXTINF:-1 group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
+http://176.119.25.104:28506/Imma/12345678/20538
 #EXTINF:-1 group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
 http://prime-tivu.com:25461/jalel/jalel/28255
 #EXTINF:-1 group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
@@ -88,13 +88,13 @@ http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47286
 #EXTINF:-1 group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 FHD
 http://prime-tivu.com:25461/jalel/jalel/28258
 #EXTINF:-1 group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HD
-http://51.91.73.99:25461/spain/XDWu1KatRP/21662
-#EXTINF:-1 group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HD
-http://176.119.25.104:28506/Imma/12345678/20539
-#EXTINF:-1 group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HD
 http://rv.flysat.live:80/musa1/musa2/81639
 #EXTINF:-1 group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HD
 http://rv.flysat.live:80/musa1/musa2/81774
+#EXTINF:-1 group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HD
+http://51.91.73.99:25461/spain/XDWu1KatRP/21662
+#EXTINF:-1 group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HD
+http://176.119.25.104:28506/Imma/12345678/20539
 #EXTINF:-1 group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HD
 http://prime-tivu.com:25461/jalel/jalel/28257
 #EXTINF:-1 group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HEVC
@@ -104,11 +104,11 @@ http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/44546
 #EXTINF:-1 group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 FHD
 http://prime-tivu.com:25461/jalel/jalel/28260
 #EXTINF:-1 group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HD
-http://176.119.25.104:28506/Imma/12345678/20540
-#EXTINF:-1 group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HD
 http://rv.flysat.live:80/musa1/musa2/81638
 #EXTINF:-1 group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HD
 http://rv.flysat.live:80/musa1/musa2/81773
+#EXTINF:-1 group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HD
+http://176.119.25.104:28506/Imma/12345678/20540
 #EXTINF:-1 group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HD
 http://prime-tivu.com:25461/jalel/jalel/28259
 #EXTINF:-1 group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HEVC
@@ -116,21 +116,21 @@ http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47288
 #EXTINF:-1 group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 FHD
 http://prime-tivu.com:25461/jalel/jalel/28262
 #EXTINF:-1 group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HD
-http://176.119.25.104:28506/Imma/12345678/20541
-#EXTINF:-1 group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HD
 http://rv.flysat.live:80/musa1/musa2/81637
 #EXTINF:-1 group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HD
 http://rv.flysat.live:80/musa1/musa2/81772
+#EXTINF:-1 group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HD
+http://176.119.25.104:28506/Imma/12345678/20541
 #EXTINF:-1 group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HD
 http://prime-tivu.com:25461/jalel/jalel/28261
 #EXTINF:-1 group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47289
 #EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 
-http://epiciptvrestreamer.com:8000/stick/stick/913
-#EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/41383
 #EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 
 http://rv.flysat.live:80/musa1/musa2/81650
+#EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 
+http://epiciptvrestreamer.com:8000/stick/stick/913
 #EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 
 http://prime-tivu.com:25461/jalel/jalel/28224
 #EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 FHD
@@ -138,23 +138,23 @@ http://epiciptvrestreamer.com:8000/stick/stick/918
 #EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 FHD
 http://prime-tivu.com:25461/jalel/jalel/28226
 #EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 HD
-http://176.119.25.104:28506/Imma/12345678/9366
-#EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 HD
 http://rv.flysat.live:80/musa1/musa2/81651
 #EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 HD
 http://rv.flysat.live:80/musa1/musa2/81652
 #EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 HD
 http://rv.flysat.live:80/musa1/musa2/81781
 #EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 HD
+http://176.119.25.104:28506/Imma/12345678/9366
+#EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 HD
 http://prime-tivu.com:25461/jalel/jalel/28225
 #EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47277
 #EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 
-http://epiciptvrestreamer.com:8000/stick/stick/914
-#EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/41384
 #EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 
 http://rv.flysat.live:80/musa1/musa2/81648
+#EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 
+http://epiciptvrestreamer.com:8000/stick/stick/914
 #EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 
 http://prime-tivu.com:25461/jalel/jalel/28230
 #EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 FHD
@@ -162,21 +162,21 @@ http://epiciptvrestreamer.com:8000/stick/stick/919
 #EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 FHD
 http://prime-tivu.com:25461/jalel/jalel/28232
 #EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 HD
-http://176.119.25.104:28506/Imma/12345678/9363
-#EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 HD
 http://rv.flysat.live:80/musa1/musa2/81649
 #EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 HD
 http://rv.flysat.live:80/musa1/musa2/81780
+#EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 HD
+http://176.119.25.104:28506/Imma/12345678/9363
 #EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 HD
 http://prime-tivu.com:25461/jalel/jalel/28231
 #EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47278
 #EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 
-http://epiciptvrestreamer.com:8000/stick/stick/915
-#EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/41385
 #EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 
 http://rv.flysat.live:80/musa1/musa2/81646
+#EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 
+http://epiciptvrestreamer.com:8000/stick/stick/915
 #EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 
 http://prime-tivu.com:25461/jalel/jalel/28233
 #EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 FHD
@@ -184,19 +184,19 @@ http://epiciptvrestreamer.com:8000/stick/stick/920
 #EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 FHD
 http://prime-tivu.com:25461/jalel/jalel/28235
 #EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 HD
-http://176.119.25.104:28506/Imma/12345678/9360
-#EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 HD
 http://rv.flysat.live:80/musa1/musa2/81647
 #EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 HD
 http://rv.flysat.live:80/musa1/musa2/81779
+#EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 HD
+http://176.119.25.104:28506/Imma/12345678/9360
 #EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 HD
 http://prime-tivu.com:25461/jalel/jalel/28234
 #EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47279
 #EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 
-http://epiciptvrestreamer.com:8000/stick/stick/916
-#EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 
 http://rv.flysat.live:80/musa1/musa2/81645
+#EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 
+http://epiciptvrestreamer.com:8000/stick/stick/916
 #EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 
 http://prime-tivu.com:25461/jalel/jalel/28236
 #EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 FHD
@@ -210,9 +210,9 @@ http://prime-tivu.com:25461/jalel/jalel/28237
 #EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47280
 #EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 
-http://epiciptvrestreamer.com:8000/stick/stick/917
-#EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 
 http://rv.flysat.live:80/musa1/musa2/81644
+#EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 
+http://epiciptvrestreamer.com:8000/stick/stick/917
 #EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 
 http://prime-tivu.com:25461/jalel/jalel/28240
 #EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 FHD
