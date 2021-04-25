@@ -1,14 +1,26 @@
 #EXTM3U
+#EXTINF:-1 group-title="BENFICA TV",BENFICA TV 4K
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/57524
+#EXTINF:-1 group-title="BENFICA TV",BENFICA TV FHD
+http://miarea.vip:8080/nena/nena/31591
+#EXTINF:-1 group-title="BENFICA TV",BENFICA TV FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/1497
 #EXTINF:-1 group-title="BENFICA TV",BENFICA TV FHD
 http://miarea.vip:8080/nena/nena/31591
 #EXTINF:-1 group-title="BENFICA TV",BENFICA TV FHD
 http://miarea.vip:8080/nena/nena/31591
 #EXTINF:-1 group-title="BENFICA TV",BENFICA TV HD
 http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/1470
+#EXTINF:-1 group-title="BENFICA TV",BENFICA TV HD
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/1470
+#EXTINF:-1 group-title="BENFICA TV",BENFICA TV HD
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/1470
+#EXTINF:-1 group-title="BENFICA TV",BENFICA TV HD
+http://xtra.xcs521.cz:8080/00:1A:79:17:0C:40/ziajdjjfdifjd64646/59211
+#EXTINF:-1 group-title="BENFICA TV",BENFICA TV HEVC
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/57523
 #EXTINF:-1 group-title="BENFICA TV",BENFICA TV HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47292
-#EXTINF:-1 group-title="BTV",BTV 
-http://fresat.live:8080/alvaro/alvaro/393463
 #EXTINF:-1 group-title="BTV",BTV 
 http://vmrs.ddns.net:80/trial/trial/435230
 #EXTINF:-1 group-title="BTV",BTV 
@@ -24,115 +36,175 @@ http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47105
 #EXTINF:-1 group-title="BTV",BTV 
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47088
 #EXTINF:-1 group-title="BTV",BTV 
+http://fresat.live:8080/alvaro/alvaro/393463
+#EXTINF:-1 group-title="BTV",BTV 
+http://fresat.live:8080/alvaro/alvaro/393463
+#EXTINF:-1 group-title="BTV",BTV 
 http://mediap.xyz:80/swoosh-5063/88UWS47RXI/61004
+#EXTINF:-1 group-title="BTV",BTV FHD
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/136258
+#EXTINF:-1 group-title="BTV",BTV FHD
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/136258
+#EXTINF:-1 group-title="BTV",BTV FHD
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/136258
+#EXTINF:-1 group-title="BTV",BTV FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/8042
 #EXTINF:-1 group-title="BTV",BTV FHD
 http://fresat.live:8080/alvaro/alvaro/393462
 #EXTINF:-1 group-title="BTV",BTV FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/136258
+http://fresat.live:8080/alvaro/alvaro/393462
 #EXTINF:-1 group-title="BTV",BTV HD
 http://176.119.25.104:28506/Imma/12345678/9351
-#EXTINF:-1 group-title="BTV",BTV HD
-http://fresat.live:8080/alvaro/alvaro/393461
-#EXTINF:-1 group-title="BTV",BTV HD
-http://bazarhd.online:80/0144569590/4724216271/81664
-#EXTINF:-1 group-title="BTV",BTV HD
-http://bazarhd.online:80/0144569590/4724216271/81786
-#EXTINF:-1 group-title="BTV",BTV HD
-http://pn.tvott.info:80/1932742343/4458181593/81664
-#EXTINF:-1 group-title="BTV",BTV HD
-http://pn.tvott.info:80/1932742343/4458181593/81786
 #EXTINF:-1 group-title="BTV",BTV HD
 http://vmrs.ddns.net:80/trial/trial/435231
 #EXTINF:-1 group-title="BTV",BTV HD
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47104
 #EXTINF:-1 group-title="BTV",BTV HD
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47062
+#EXTINF:-1 group-title="BTV",BTV HD
+http://pn.tvott.info:80/1932742343/4458181593/81664
+#EXTINF:-1 group-title="BTV",BTV HD
+http://pn.tvott.info:80/1932742343/4458181593/81786
+#EXTINF:-1 group-title="BTV",BTV HD
+http://fresat.live:8080/alvaro/alvaro/393461
+#EXTINF:-1 group-title="BTV",BTV HD
+http://fresat.live:8080/alvaro/alvaro/393461
+#EXTINF:-1 group-title="BTV",BTV HD
+http://bazarhd.online:80/0144569590/4724216271/81664
+#EXTINF:-1 group-title="BTV",BTV HD
+http://bazarhd.online:80/0144569590/4724216271/81786
 #EXTINF:-1 group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 
 http://vmrs.ddns.net:80/trial/trial/435336
 #EXTINF:-1 group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 FHD
-http://fresat.live:8080/alvaro/alvaro/393464
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/136269
 #EXTINF:-1 group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 FHD
 http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/136269
+#EXTINF:-1 group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 FHD
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/136269
+#EXTINF:-1 group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/1499
+#EXTINF:-1 group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 FHD
+http://fresat.live:8080/alvaro/alvaro/393464
+#EXTINF:-1 group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 FHD
+http://fresat.live:8080/alvaro/alvaro/393464
 #EXTINF:-1 group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
 http://176.119.25.104:28506/Imma/12345678/20536
+#EXTINF:-1 group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
+http://pn.tvott.info:80/1932742343/4458181593/81642
+#EXTINF:-1 group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
+http://pn.tvott.info:80/1932742343/4458181593/81777
+#EXTINF:-1 group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
+http://fresat.live:8080/alvaro/alvaro/393465
 #EXTINF:-1 group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
 http://fresat.live:8080/alvaro/alvaro/393465
 #EXTINF:-1 group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
 http://bazarhd.online:80/0144569590/4724216271/81642
 #EXTINF:-1 group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
 http://bazarhd.online:80/0144569590/4724216271/81777
-#EXTINF:-1 group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
-http://pn.tvott.info:80/1932742343/4458181593/81642
-#EXTINF:-1 group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
-http://pn.tvott.info:80/1932742343/4458181593/81777
+#EXTINF:-1 group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HEVC
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/57533
 #EXTINF:-1 group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47284
+#EXTINF:-1 group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 SD
+http://fresat.live:8080/alvaro/alvaro/393466
 #EXTINF:-1 group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 SD
 http://fresat.live:8080/alvaro/alvaro/393466
 #EXTINF:-1 group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 
 http://vmrs.ddns.net:80/trial/trial/435335
 #EXTINF:-1 group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 FHD
-http://fresat.live:8080/alvaro/alvaro/393467
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/136259
 #EXTINF:-1 group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 FHD
 http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/136259
+#EXTINF:-1 group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 FHD
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/136259
+#EXTINF:-1 group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/1503
+#EXTINF:-1 group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 FHD
+http://fresat.live:8080/alvaro/alvaro/393467
+#EXTINF:-1 group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 FHD
+http://fresat.live:8080/alvaro/alvaro/393467
 #EXTINF:-1 group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HD
 http://176.119.25.104:28506/Imma/12345678/20537
+#EXTINF:-1 group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HD
+http://pn.tvott.info:80/1932742343/4458181593/81641
+#EXTINF:-1 group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HD
+http://pn.tvott.info:80/1932742343/4458181593/81776
+#EXTINF:-1 group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HD
+http://fresat.live:8080/alvaro/alvaro/393468
 #EXTINF:-1 group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HD
 http://fresat.live:8080/alvaro/alvaro/393468
 #EXTINF:-1 group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HD
 http://bazarhd.online:80/0144569590/4724216271/81641
 #EXTINF:-1 group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HD
 http://bazarhd.online:80/0144569590/4724216271/81776
-#EXTINF:-1 group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HD
-http://pn.tvott.info:80/1932742343/4458181593/81641
-#EXTINF:-1 group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HD
-http://pn.tvott.info:80/1932742343/4458181593/81776
+#EXTINF:-1 group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HEVC
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/57534
 #EXTINF:-1 group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47285
 #EXTINF:-1 group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 
 http://vmrs.ddns.net:80/trial/trial/435331
 #EXTINF:-1 group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 FHD
-http://fresat.live:8080/alvaro/alvaro/393469
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/136252
 #EXTINF:-1 group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 FHD
 http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/136252
+#EXTINF:-1 group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 FHD
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/136252
+#EXTINF:-1 group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/1506
+#EXTINF:-1 group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 FHD
+http://fresat.live:8080/alvaro/alvaro/393469
+#EXTINF:-1 group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 FHD
+http://fresat.live:8080/alvaro/alvaro/393469
+#EXTINF:-1 group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
+http://miarea.vip:8080/nena/nena/511
 #EXTINF:-1 group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
 http://176.119.25.104:28506/Imma/12345678/20538
-#EXTINF:-1 group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
-http://fresat.live:8080/alvaro/alvaro/393470
-#EXTINF:-1 group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
-http://bazarhd.online:80/0144569590/4724216271/81640
-#EXTINF:-1 group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
-http://bazarhd.online:80/0144569590/4724216271/81775
 #EXTINF:-1 group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
 http://pn.tvott.info:80/1932742343/4458181593/81640
 #EXTINF:-1 group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
 http://pn.tvott.info:80/1932742343/4458181593/81775
 #EXTINF:-1 group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
+http://fresat.live:8080/alvaro/alvaro/393470
+#EXTINF:-1 group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
+http://fresat.live:8080/alvaro/alvaro/393470
+#EXTINF:-1 group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
 http://miarea.vip:8080/nena/nena/511
 #EXTINF:-1 group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
 http://miarea.vip:8080/nena/nena/511
+#EXTINF:-1 group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
+http://bazarhd.online:80/0144569590/4724216271/81640
+#EXTINF:-1 group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
+http://bazarhd.online:80/0144569590/4724216271/81775
 #EXTINF:-1 group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47286
 #EXTINF:-1 group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 
 http://vmrs.ddns.net:80/trial/trial/435334
 #EXTINF:-1 group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 FHD
-http://fresat.live:8080/alvaro/alvaro/393471
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/136270
 #EXTINF:-1 group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 FHD
 http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/136270
+#EXTINF:-1 group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 FHD
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/136270
+#EXTINF:-1 group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 FHD
+http://fresat.live:8080/alvaro/alvaro/393471
+#EXTINF:-1 group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 FHD
+http://fresat.live:8080/alvaro/alvaro/393471
+#EXTINF:-1 group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HD
+http://51.91.73.99:25461/spain/XDWu1KatRP/21662
 #EXTINF:-1 group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HD
 http://176.119.25.104:28506/Imma/12345678/20539
 #EXTINF:-1 group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HD
-http://51.91.73.99:25461/spain/XDWu1KatRP/21662
+http://pn.tvott.info:80/1932742343/4458181593/81639
+#EXTINF:-1 group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HD
+http://pn.tvott.info:80/1932742343/4458181593/81774
+#EXTINF:-1 group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HD
+http://fresat.live:8080/alvaro/alvaro/393472
 #EXTINF:-1 group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HD
 http://fresat.live:8080/alvaro/alvaro/393472
 #EXTINF:-1 group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HD
 http://bazarhd.online:80/0144569590/4724216271/81639
 #EXTINF:-1 group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HD
 http://bazarhd.online:80/0144569590/4724216271/81774
-#EXTINF:-1 group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HD
-http://pn.tvott.info:80/1932742343/4458181593/81639
-#EXTINF:-1 group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HD
-http://pn.tvott.info:80/1932742343/4458181593/81774
 #EXTINF:-1 group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47287
 #EXTINF:-1 group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 
@@ -140,55 +212,99 @@ http://vmrs.ddns.net:80/trial/trial/435333
 #EXTINF:-1 group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 FHD
 http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/136271
 #EXTINF:-1 group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 FHD
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/136271
+#EXTINF:-1 group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 FHD
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/136271
+#EXTINF:-1 group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 FHD
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/44546
+#EXTINF:-1 group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/1512
 #EXTINF:-1 group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HD
 http://176.119.25.104:28506/Imma/12345678/20540
+#EXTINF:-1 group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HD
+http://pn.tvott.info:80/1932742343/4458181593/81638
+#EXTINF:-1 group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HD
+http://pn.tvott.info:80/1932742343/4458181593/81773
+#EXTINF:-1 group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HD
+http://fresat.live:8080/alvaro/alvaro/393473
 #EXTINF:-1 group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HD
 http://fresat.live:8080/alvaro/alvaro/393473
 #EXTINF:-1 group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HD
 http://bazarhd.online:80/0144569590/4724216271/81638
 #EXTINF:-1 group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HD
 http://bazarhd.online:80/0144569590/4724216271/81773
-#EXTINF:-1 group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HD
-http://pn.tvott.info:80/1932742343/4458181593/81638
-#EXTINF:-1 group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HD
-http://pn.tvott.info:80/1932742343/4458181593/81773
 #EXTINF:-1 group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47288
 #EXTINF:-1 group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 
 http://vmrs.ddns.net:80/trial/trial/435332
 #EXTINF:-1 group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 FHD
 http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/136253
+#EXTINF:-1 group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 FHD
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/136253
+#EXTINF:-1 group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 FHD
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/136253
+#EXTINF:-1 group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/1515
 #EXTINF:-1 group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HD
 http://176.119.25.104:28506/Imma/12345678/20541
+#EXTINF:-1 group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HD
+http://pn.tvott.info:80/1932742343/4458181593/81637
+#EXTINF:-1 group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HD
+http://pn.tvott.info:80/1932742343/4458181593/81772
+#EXTINF:-1 group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HD
+http://fresat.live:8080/alvaro/alvaro/393474
 #EXTINF:-1 group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HD
 http://fresat.live:8080/alvaro/alvaro/393474
 #EXTINF:-1 group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HD
 http://bazarhd.online:80/0144569590/4724216271/81637
 #EXTINF:-1 group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HD
 http://bazarhd.online:80/0144569590/4724216271/81772
-#EXTINF:-1 group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HD
-http://pn.tvott.info:80/1932742343/4458181593/81637
-#EXTINF:-1 group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HD
-http://pn.tvott.info:80/1932742343/4458181593/81772
 #EXTINF:-1 group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47289
+#EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 
+http://vmrs.ddns.net:80/trial/trial/435318
+#EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/34070
+#EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 
+http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/41383
+#EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 
+http://pn.tvott.info:80/1932742343/4458181593/81650
+#EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 
+http://fresat.live:8080/alvaro/alvaro/393451
 #EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 
 http://fresat.live:8080/alvaro/alvaro/393451
 #EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 
 http://bazarhd.online:80/0144569590/4724216271/81650
-#EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 
-http://pn.tvott.info:80/1932742343/4458181593/81650
-#EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 
-http://vmrs.ddns.net:80/trial/trial/435318
-#EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 
-http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/41383
+#EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 4K
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/57528
+#EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 FHD
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/500
+#EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 FHD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/4494
+#EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 FHD
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/500
+#EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 FHD
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/500
+#EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/1483
 #EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 FHD
 http://fresat.live:8080/alvaro/alvaro/393449
 #EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/500
+http://fresat.live:8080/alvaro/alvaro/393449
 #EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 HD
 http://176.119.25.104:28506/Imma/12345678/9366
+#EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 HD
+http://vmrs.ddns.net:80/trial/trial/435319
+#EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 HD
+http://pn.tvott.info:80/1932742343/4458181593/81651
+#EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 HD
+http://pn.tvott.info:80/1932742343/4458181593/81652
+#EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 HD
+http://pn.tvott.info:80/1932742343/4458181593/81781
+#EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 HD
+http://fresat.live:8080/alvaro/alvaro/393450
+#EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 HD
+http://xtra.xcs521.cz:8080/00:1A:79:17:0C:40/ziajdjjfdifjd64646/59274
 #EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 HD
 http://fresat.live:8080/alvaro/alvaro/393450
 #EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 HD
@@ -197,105 +313,165 @@ http://bazarhd.online:80/0144569590/4724216271/81651
 http://bazarhd.online:80/0144569590/4724216271/81652
 #EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 HD
 http://bazarhd.online:80/0144569590/4724216271/81781
-#EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 HD
-http://pn.tvott.info:80/1932742343/4458181593/81651
-#EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 HD
-http://pn.tvott.info:80/1932742343/4458181593/81652
-#EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 HD
-http://pn.tvott.info:80/1932742343/4458181593/81781
-#EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 HD
-http://vmrs.ddns.net:80/trial/trial/435319
+#EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 HEVC
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/57527
 #EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47277
+#EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 
+http://vmrs.ddns.net:80/trial/trial/435320
+#EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/34071
+#EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 
+http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/41384
+#EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 
+http://pn.tvott.info:80/1932742343/4458181593/81648
+#EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 
+http://fresat.live:8080/alvaro/alvaro/393454
 #EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 
 http://fresat.live:8080/alvaro/alvaro/393454
 #EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 
 http://bazarhd.online:80/0144569590/4724216271/81648
-#EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 
-http://pn.tvott.info:80/1932742343/4458181593/81648
-#EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 
-http://vmrs.ddns.net:80/trial/trial/435320
-#EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 
-http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/41384
+#EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 FHD
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/499
+#EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 FHD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/4493
+#EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 FHD
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/499
+#EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 FHD
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/499
 #EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 FHD
 http://fresat.live:8080/alvaro/alvaro/393452
 #EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/499
+http://fresat.live:8080/alvaro/alvaro/393452
 #EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 HD
 http://176.119.25.104:28506/Imma/12345678/9363
+#EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 HD
+http://vmrs.ddns.net:80/trial/trial/435321
+#EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 HD
+http://pn.tvott.info:80/1932742343/4458181593/81649
+#EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 HD
+http://pn.tvott.info:80/1932742343/4458181593/81780
+#EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 HD
+http://fresat.live:8080/alvaro/alvaro/393453
+#EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 HD
+http://xtra.xcs521.cz:8080/00:1A:79:17:0C:40/ziajdjjfdifjd64646/59275
 #EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 HD
 http://fresat.live:8080/alvaro/alvaro/393453
 #EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 HD
 http://bazarhd.online:80/0144569590/4724216271/81649
 #EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 HD
 http://bazarhd.online:80/0144569590/4724216271/81780
-#EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 HD
-http://pn.tvott.info:80/1932742343/4458181593/81649
-#EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 HD
-http://pn.tvott.info:80/1932742343/4458181593/81780
-#EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 HD
-http://vmrs.ddns.net:80/trial/trial/435321
+#EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 HEVC
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/57529
 #EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47278
 #EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 
-http://bazarhd.online:80/0144569590/4724216271/81646
+http://vmrs.ddns.net:80/trial/trial/435322
+#EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/34072
+#EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 
+http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/41385
 #EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 
 http://pn.tvott.info:80/1932742343/4458181593/81646
 #EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 
-http://vmrs.ddns.net:80/trial/trial/435322
-#EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 
-http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/41385
+http://bazarhd.online:80/0144569590/4724216271/81646
+#EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 FHD
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/498
+#EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 FHD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/4492
+#EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 FHD
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/498
 #EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 FHD
 http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/498
 #EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 HD
 http://176.119.25.104:28506/Imma/12345678/9360
 #EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 HD
-http://bazarhd.online:80/0144569590/4724216271/81647
-#EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 HD
-http://bazarhd.online:80/0144569590/4724216271/81779
+http://vmrs.ddns.net:80/trial/trial/435323
 #EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 HD
 http://pn.tvott.info:80/1932742343/4458181593/81647
 #EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 HD
 http://pn.tvott.info:80/1932742343/4458181593/81779
 #EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 HD
-http://vmrs.ddns.net:80/trial/trial/435323
+http://xtra.xcs521.cz:8080/00:1A:79:17:0C:40/ziajdjjfdifjd64646/59276
+#EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 HD
+http://bazarhd.online:80/0144569590/4724216271/81647
+#EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 HD
+http://bazarhd.online:80/0144569590/4724216271/81779
+#EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 HEVC
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/57530
 #EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47279
 #EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 SD
 http://fresat.live:8080/alvaro/alvaro/393456
+#EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 SD
+http://fresat.live:8080/alvaro/alvaro/393456
+#EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 
+http://vmrs.ddns.net:80/trial/trial/435324
+#EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/34073
+#EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 
+http://pn.tvott.info:80/1932742343/4458181593/81645
+#EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 
+http://fresat.live:8080/alvaro/alvaro/393458
 #EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 
 http://fresat.live:8080/alvaro/alvaro/393458
 #EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 
 http://bazarhd.online:80/0144569590/4724216271/81645
-#EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 
-http://pn.tvott.info:80/1932742343/4458181593/81645
-#EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 
-http://vmrs.ddns.net:80/trial/trial/435324
+#EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 FHD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/4491
+#EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/1492
 #EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 HD
 http://176.119.25.104:28506/Imma/12345678/9357
-#EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 HD
-http://fresat.live:8080/alvaro/alvaro/393457
 #EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 HD
 http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/497
 #EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 HD
 http://vmrs.ddns.net:80/trial/trial/435325
+#EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 HD
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/497
+#EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 HD
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/497
+#EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 HD
+http://fresat.live:8080/alvaro/alvaro/393457
+#EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 HD
+http://xtra.xcs521.cz:8080/00:1A:79:17:0C:40/ziajdjjfdifjd64646/59277
+#EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 HD
+http://fresat.live:8080/alvaro/alvaro/393457
+#EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 HEVC
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/57531
 #EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47280
+#EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 
+http://vmrs.ddns.net:80/trial/trial/435326
+#EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 
+http://pn.tvott.info:80/1932742343/4458181593/81644
+#EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 
+http://fresat.live:8080/alvaro/alvaro/393460
 #EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 
 http://fresat.live:8080/alvaro/alvaro/393460
 #EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 
 http://bazarhd.online:80/0144569590/4724216271/81644
-#EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 
-http://pn.tvott.info:80/1932742343/4458181593/81644
-#EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 
-http://vmrs.ddns.net:80/trial/trial/435326
+#EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 FHD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/4490
+#EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/1495
 #EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 HD
 http://176.119.25.104:28506/Imma/12345678/9355
-#EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 HD
-http://fresat.live:8080/alvaro/alvaro/393459
 #EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 HD
 http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/1644
 #EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 HD
 http://vmrs.ddns.net:80/trial/trial/435327
+#EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 HD
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/1644
+#EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 HD
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/1644
+#EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 HD
+http://fresat.live:8080/alvaro/alvaro/393459
+#EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 HD
+http://xtra.xcs521.cz:8080/00:1A:79:17:0C:40/ziajdjjfdifjd64646/59278
+#EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 HD
+http://fresat.live:8080/alvaro/alvaro/393459
+#EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 HEVC
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/57532
 #EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47281
