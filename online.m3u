@@ -14,6 +14,10 @@ http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47292
 #EXTINF:-1 group-title="BENFICA TV",BENFICA TV HEVC
 http://test.satlok.club:80/Amigo/do92Rd6x8yr3/57523
 #EXTINF:-1 group-title="BTV",BTV 
+http://mediap.xyz:80/swoosh-5063/88UWS47RXI/61004
+#EXTINF:-1 group-title="BTV",BTV 
+http://fresat.live:8080/alvaro/alvaro/393463
+#EXTINF:-1 group-title="BTV",BTV 
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/37324
 #EXTINF:-1 group-title="BTV",BTV 
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/37314
@@ -25,10 +29,6 @@ http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47106
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47105
 #EXTINF:-1 group-title="BTV",BTV 
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47088
-#EXTINF:-1 group-title="BTV",BTV 
-http://fresat.live:8080/alvaro/alvaro/393463
-#EXTINF:-1 group-title="BTV",BTV 
-http://mediap.xyz:80/swoosh-5063/88UWS47RXI/61004
 #EXTINF:-1 group-title="BTV",BTV FHD
 http://fresat.live:8080/alvaro/alvaro/393462
 #EXTINF:-1 group-title="BTV",BTV FHD
@@ -36,11 +36,11 @@ http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/136258
 #EXTINF:-1 group-title="BTV",BTV FHD
 http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/136258
 #EXTINF:-1 group-title="BTV",BTV HD
+http://fresat.live:8080/alvaro/alvaro/393461
+#EXTINF:-1 group-title="BTV",BTV HD
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47104
 #EXTINF:-1 group-title="BTV",BTV HD
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47062
-#EXTINF:-1 group-title="BTV",BTV HD
-http://fresat.live:8080/alvaro/alvaro/393461
 #EXTINF:-1 group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 FHD
 http://fresat.live:8080/alvaro/alvaro/393464
 #EXTINF:-1 group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 FHD
@@ -74,9 +74,9 @@ http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/136252
 #EXTINF:-1 group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 FHD
 http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/136252
 #EXTINF:-1 group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
-http://miarea.vip:8080/nena/nena/511
-#EXTINF:-1 group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
 http://fresat.live:8080/alvaro/alvaro/393470
+#EXTINF:-1 group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
+http://miarea.vip:8080/nena/nena/511
 #EXTINF:-1 group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47286
 #EXTINF:-1 group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 FHD
@@ -110,47 +110,47 @@ http://fresat.live:8080/alvaro/alvaro/393474
 #EXTINF:-1 group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47289
 #EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 
+http://fresat.live:8080/alvaro/alvaro/393451
+#EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/41383
 #EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 
 http://test.satlok.club:80/Amigo/do92Rd6x8yr3/34070
-#EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 
-http://fresat.live:8080/alvaro/alvaro/393451
 #EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 4K
 http://test.satlok.club:80/Amigo/do92Rd6x8yr3/57528
 #EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 FHD
-http://test.satlok.club:80/Amigo/do92Rd6x8yr3/4494
-#EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 FHD
 http://fresat.live:8080/alvaro/alvaro/393449
 #EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 FHD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/4494
+#EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 FHD
 http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/500
 #EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 FHD
 http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/500
 #EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 HD
-http://fresat.live:8080/alvaro/alvaro/393450
-#EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 HD
 http://xtra.xcs521.cz:8080/00:1A:79:17:0C:40/ziajdjjfdifjd64646/59274
+#EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 HD
+http://fresat.live:8080/alvaro/alvaro/393450
 #EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47277
 #EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 HEVC
 http://test.satlok.club:80/Amigo/do92Rd6x8yr3/57527
 #EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 
+http://fresat.live:8080/alvaro/alvaro/393454
+#EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/41384
 #EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 
 http://test.satlok.club:80/Amigo/do92Rd6x8yr3/34071
-#EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 
-http://fresat.live:8080/alvaro/alvaro/393454
-#EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 FHD
-http://test.satlok.club:80/Amigo/do92Rd6x8yr3/4493
 #EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 FHD
 http://fresat.live:8080/alvaro/alvaro/393452
 #EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 FHD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/4493
+#EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 FHD
 http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/499
 #EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 FHD
 http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/499
 #EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 HD
-http://fresat.live:8080/alvaro/alvaro/393453
-#EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 HD
 http://xtra.xcs521.cz:8080/00:1A:79:17:0C:40/ziajdjjfdifjd64646/59275
+#EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 HD
+http://fresat.live:8080/alvaro/alvaro/393453
 #EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47278
 #EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 HEVC
@@ -174,15 +174,15 @@ http://test.satlok.club:80/Amigo/do92Rd6x8yr3/57530
 #EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 SD
 http://fresat.live:8080/alvaro/alvaro/393456
 #EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 
-http://test.satlok.club:80/Amigo/do92Rd6x8yr3/34073
-#EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 
 http://fresat.live:8080/alvaro/alvaro/393458
+#EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/34073
 #EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 FHD
 http://test.satlok.club:80/Amigo/do92Rd6x8yr3/4491
 #EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 HD
-http://fresat.live:8080/alvaro/alvaro/393457
-#EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 HD
 http://xtra.xcs521.cz:8080/00:1A:79:17:0C:40/ziajdjjfdifjd64646/59277
+#EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 HD
+http://fresat.live:8080/alvaro/alvaro/393457
 #EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 HD
 http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/497
 #EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 HD
@@ -196,9 +196,9 @@ http://fresat.live:8080/alvaro/alvaro/393460
 #EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 FHD
 http://test.satlok.club:80/Amigo/do92Rd6x8yr3/4490
 #EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 HD
-http://fresat.live:8080/alvaro/alvaro/393459
-#EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 HD
 http://xtra.xcs521.cz:8080/00:1A:79:17:0C:40/ziajdjjfdifjd64646/59278
+#EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 HD
+http://fresat.live:8080/alvaro/alvaro/393459
 #EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 HD
 http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/1644
 #EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 HD
