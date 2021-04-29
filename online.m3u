@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 group-title="BENFICA TV",BENFICA TV 
 http://uye.performlive.eu:80/batuhan07/R0QMXQ18q/48292
+#EXTINF:-1 group-title="BENFICA TV",BENFICA TV 
+http://cloudcdn.tk:80/4R8GfRc60/AZ7wZI135/3308
 #EXTINF:-1 group-title="BENFICA TV",BENFICA TV 4K
 http://test.satlok.club:80/Amigo/do92Rd6x8yr3/57524
 #EXTINF:-1 group-title="BENFICA TV",BENFICA TV FHD
@@ -8,19 +10,21 @@ http://fcd7.flycany.me:8880/kg14m3n0146/xcvb4568/3239
 #EXTINF:-1 group-title="BENFICA TV",BENFICA TV FHD
 http://hotiptv.site:8080/zkby2013/1d469e6d9e42/1497
 #EXTINF:-1 group-title="BENFICA TV",BENFICA TV HD
+http://uye.performlive.eu:80/batuhan07/R0QMXQ18q/48291
+#EXTINF:-1 group-title="BENFICA TV",BENFICA TV HD
 http://fcd7.flycany.me:8880/kg14m3n0146/xcvb4568/3238
 #EXTINF:-1 group-title="BENFICA TV",BENFICA TV HD
-http://uye.performlive.eu:80/batuhan07/R0QMXQ18q/48291
-#EXTINF:-1 group-title="BENFICA TV",BENFICA TV HEVC
-http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47292
+http://cloudcdn.tk:80/4R8GfRc60/AZ7wZI135/5541
 #EXTINF:-1 group-title="BENFICA TV",BENFICA TV HEVC
 http://test.satlok.club:80/Amigo/do92Rd6x8yr3/57523
+#EXTINF:-1 group-title="BENFICA TV",BENFICA TV HEVC
+http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47292
 #EXTINF:-1 group-title="BENFICA TV",BENFICA TV SD
 http://fcd7.flycany.me:8880/kg14m3n0146/xcvb4568/3237
 #EXTINF:-1 group-title="BTV",BTV 
-http://mediap.xyz:80/swoosh-5063/88UWS47RXI/61004
-#EXTINF:-1 group-title="BTV",BTV 
 http://152.89.62.111:8080/kyle123/kyle123/248351
+#EXTINF:-1 group-title="BTV",BTV 
+http://mediap.xyz:80/swoosh-5063/88UWS47RXI/61004
 #EXTINF:-1 group-title="BTV",BTV 
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/37324
 #EXTINF:-1 group-title="BTV",BTV 
@@ -36,13 +40,13 @@ http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47088
 #EXTINF:-1 group-title="BTV",BTV FHD
 http://hotiptv.site:8080/zkby2013/1d469e6d9e42/8042
 #EXTINF:-1 group-title="BTV",BTV HD
-http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47104
-#EXTINF:-1 group-title="BTV",BTV HD
-http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47062
-#EXTINF:-1 group-title="BTV",BTV HD
 http://bazarhd.online:80/2993289990/5002883998/81664
 #EXTINF:-1 group-title="BTV",BTV HD
 http://bazarhd.online:80/2993289990/5002883998/81786
+#EXTINF:-1 group-title="BTV",BTV HD
+http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47104
+#EXTINF:-1 group-title="BTV",BTV HD
+http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47062
 #EXTINF:-1 group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 
 http://uye.performlive.eu:80/batuhan07/R0QMXQ18q/48266
 #EXTINF:-1 group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 FHD
@@ -55,10 +59,12 @@ http://uye.performlive.eu:80/batuhan07/R0QMXQ18q/48265
 http://bazarhd.online:80/2993289990/5002883998/81642
 #EXTINF:-1 group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
 http://bazarhd.online:80/2993289990/5002883998/81777
-#EXTINF:-1 group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HEVC
-http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47284
+#EXTINF:-1 group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
+http://cloudcdn.tk:80/4R8GfRc60/AZ7wZI135/23325
 #EXTINF:-1 group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HEVC
 http://test.satlok.club:80/Amigo/do92Rd6x8yr3/57533
+#EXTINF:-1 group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HEVC
+http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47284
 #EXTINF:-1 group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 SD
 http://fcd7.flycany.me:8880/kg14m3n0146/xcvb4568/49966
 #EXTINF:-1 group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 
@@ -73,10 +79,12 @@ http://uye.performlive.eu:80/batuhan07/R0QMXQ18q/48263
 http://bazarhd.online:80/2993289990/5002883998/81641
 #EXTINF:-1 group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HD
 http://bazarhd.online:80/2993289990/5002883998/81776
-#EXTINF:-1 group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HEVC
-http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47285
+#EXTINF:-1 group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HD
+http://cloudcdn.tk:80/4R8GfRc60/AZ7wZI135/23320
 #EXTINF:-1 group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HEVC
 http://test.satlok.club:80/Amigo/do92Rd6x8yr3/57534
+#EXTINF:-1 group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HEVC
+http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47285
 #EXTINF:-1 group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 
 http://uye.performlive.eu:80/batuhan07/R0QMXQ18q/48262
 #EXTINF:-1 group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 FHD
@@ -89,6 +97,8 @@ http://uye.performlive.eu:80/batuhan07/R0QMXQ18q/48261
 http://bazarhd.online:80/2993289990/5002883998/81640
 #EXTINF:-1 group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
 http://bazarhd.online:80/2993289990/5002883998/81775
+#EXTINF:-1 group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
+http://cloudcdn.tk:80/4R8GfRc60/AZ7wZI135/23321
 #EXTINF:-1 group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47286
 #EXTINF:-1 group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 
@@ -98,19 +108,21 @@ http://fcd7.flycany.me:8880/kg14m3n0146/xcvb4568/29368
 #EXTINF:-1 group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 FHD
 http://hotiptv.site:8080/zkby2013/1d469e6d9e42/1509
 #EXTINF:-1 group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HD
-http://51.91.73.99:25461/spain/XDWu1KatRP/21662
-#EXTINF:-1 group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HD
 http://uye.performlive.eu:80/batuhan07/R0QMXQ18q/48259
+#EXTINF:-1 group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HD
+http://51.91.73.99:25461/spain/XDWu1KatRP/21662
 #EXTINF:-1 group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HD
 http://bazarhd.online:80/2993289990/5002883998/81639
 #EXTINF:-1 group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HD
 http://bazarhd.online:80/2993289990/5002883998/81774
+#EXTINF:-1 group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HD
+http://cloudcdn.tk:80/4R8GfRc60/AZ7wZI135/23322
 #EXTINF:-1 group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47287
 #EXTINF:-1 group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 
-http://fcd7.flycany.me:8880/kg14m3n0146/xcvb4568/29334
-#EXTINF:-1 group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 
 http://uye.performlive.eu:80/batuhan07/R0QMXQ18q/48258
+#EXTINF:-1 group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 
+http://fcd7.flycany.me:8880/kg14m3n0146/xcvb4568/29334
 #EXTINF:-1 group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 FHD
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/44546
 #EXTINF:-1 group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 FHD
@@ -121,12 +133,16 @@ http://uye.performlive.eu:80/batuhan07/R0QMXQ18q/48257
 http://bazarhd.online:80/2993289990/5002883998/81638
 #EXTINF:-1 group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HD
 http://bazarhd.online:80/2993289990/5002883998/81773
+#EXTINF:-1 group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HD
+http://cloudcdn.tk:80/4R8GfRc60/AZ7wZI135/23323
 #EXTINF:-1 group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47288
 #EXTINF:-1 group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 
 http://uye.performlive.eu:80/batuhan07/R0QMXQ18q/48256
 #EXTINF:-1 group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 FHD
 http://fcd7.flycany.me:8880/kg14m3n0146/xcvb4568/49032
+#EXTINF:-1 group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 FHD
+http://cloudcdn.tk:80/4R8GfRc60/AZ7wZI135/23324
 #EXTINF:-1 group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 FHD
 http://hotiptv.site:8080/zkby2013/1d469e6d9e42/1515
 #EXTINF:-1 group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HD
@@ -138,138 +154,158 @@ http://bazarhd.online:80/2993289990/5002883998/81772
 #EXTINF:-1 group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47289
 #EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 
-http://152.89.62.111:8080/kyle123/kyle123/248420
-#EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 
 http://uye.performlive.eu:80/batuhan07/R0QMXQ18q/48193
 #EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 
-http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/41383
+http://152.89.62.111:8080/kyle123/kyle123/248420
+#EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/34070
 #EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 
 http://bazarhd.online:80/2993289990/5002883998/81650
 #EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 
-http://test.satlok.club:80/Amigo/do92Rd6x8yr3/34070
+http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/41383
+#EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 
+http://cloudcdn.tk:80/4R8GfRc60/AZ7wZI135/7846
 #EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 4K
 http://test.satlok.club:80/Amigo/do92Rd6x8yr3/57528
 #EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 FHD
 http://fcd7.flycany.me:8880/kg14m3n0146/xcvb4568/29392
 #EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 FHD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/1483
-#EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 FHD
 http://test.satlok.club:80/Amigo/do92Rd6x8yr3/4494
-#EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 HD
-http://fcd7.flycany.me:8880/kg14m3n0146/xcvb4568/3192
+#EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 FHD
+http://cloudcdn.tk:80/4R8GfRc60/AZ7wZI135/17744
+#EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 FHD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/1483
 #EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 HD
 http://uye.performlive.eu:80/batuhan07/R0QMXQ18q/48192
+#EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 HD
+http://fcd7.flycany.me:8880/kg14m3n0146/xcvb4568/3192
 #EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 HD
 http://bazarhd.online:80/2993289990/5002883998/81651
 #EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 HD
 http://bazarhd.online:80/2993289990/5002883998/81652
 #EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 HD
 http://bazarhd.online:80/2993289990/5002883998/81781
-#EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 HEVC
-http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47277
+#EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 HD
+http://cloudcdn.tk:80/4R8GfRc60/AZ7wZI135/3221
 #EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 HEVC
 http://test.satlok.club:80/Amigo/do92Rd6x8yr3/57527
+#EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 HEVC
+http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47277
 #EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 SD
 http://fcd7.flycany.me:8880/kg14m3n0146/xcvb4568/29388
 #EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 
-http://152.89.62.111:8080/kyle123/kyle123/248421
-#EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 
 http://uye.performlive.eu:80/batuhan07/R0QMXQ18q/48191
 #EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 
-http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/41384
+http://152.89.62.111:8080/kyle123/kyle123/248421
+#EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/34071
 #EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 
 http://bazarhd.online:80/2993289990/5002883998/81648
 #EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 
-http://test.satlok.club:80/Amigo/do92Rd6x8yr3/34071
+http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/41384
+#EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 
+http://cloudcdn.tk:80/4R8GfRc60/AZ7wZI135/7845
 #EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 FHD
 http://fcd7.flycany.me:8880/kg14m3n0146/xcvb4568/29391
 #EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 FHD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/1486
-#EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 FHD
 http://test.satlok.club:80/Amigo/do92Rd6x8yr3/4493
-#EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 HD
-http://fcd7.flycany.me:8880/kg14m3n0146/xcvb4568/3191
+#EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 FHD
+http://cloudcdn.tk:80/4R8GfRc60/AZ7wZI135/3222
+#EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 FHD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/1486
 #EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 HD
 http://uye.performlive.eu:80/batuhan07/R0QMXQ18q/48190
+#EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 HD
+http://fcd7.flycany.me:8880/kg14m3n0146/xcvb4568/3191
 #EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 HD
 http://bazarhd.online:80/2993289990/5002883998/81649
 #EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 HD
 http://bazarhd.online:80/2993289990/5002883998/81780
 #EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 HEVC
-http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47278
-#EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 HEVC
 http://test.satlok.club:80/Amigo/do92Rd6x8yr3/57529
+#EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 HEVC
+http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47278
 #EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 SD
 http://fcd7.flycany.me:8880/kg14m3n0146/xcvb4568/29387
+#EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 
+http://uye.performlive.eu:80/batuhan07/R0QMXQ18q/48189
 #EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 
 http://152.89.62.111:8080/kyle123/kyle123/248423
 #EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 
 http://152.89.62.111:8080/kyle123/kyle123/248422
 #EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 
-http://uye.performlive.eu:80/batuhan07/R0QMXQ18q/48189
-#EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 
-http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/41385
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/34072
 #EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 
 http://bazarhd.online:80/2993289990/5002883998/81646
 #EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 
-http://test.satlok.club:80/Amigo/do92Rd6x8yr3/34072
+http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/41385
+#EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 
+http://cloudcdn.tk:80/4R8GfRc60/AZ7wZI135/7844
 #EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 FHD
 http://fcd7.flycany.me:8880/kg14m3n0146/xcvb4568/29390
 #EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 FHD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/1489
-#EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 FHD
 http://test.satlok.club:80/Amigo/do92Rd6x8yr3/4492
-#EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 HD
-http://fcd7.flycany.me:8880/kg14m3n0146/xcvb4568/3190
+#EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 FHD
+http://cloudcdn.tk:80/4R8GfRc60/AZ7wZI135/3223
+#EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 FHD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/1489
 #EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 HD
 http://uye.performlive.eu:80/batuhan07/R0QMXQ18q/48188
+#EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 HD
+http://fcd7.flycany.me:8880/kg14m3n0146/xcvb4568/3190
 #EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 HD
 http://bazarhd.online:80/2993289990/5002883998/81647
 #EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 HD
 http://bazarhd.online:80/2993289990/5002883998/81779
 #EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 HEVC
-http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47279
-#EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 HEVC
 http://test.satlok.club:80/Amigo/do92Rd6x8yr3/57530
+#EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 HEVC
+http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47279
 #EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 SD
 http://fcd7.flycany.me:8880/kg14m3n0146/xcvb4568/29386
 #EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 
 http://152.89.62.111:8080/kyle123/kyle123/248424
 #EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/34073
+#EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 
 http://bazarhd.online:80/2993289990/5002883998/81645
 #EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 
-http://test.satlok.club:80/Amigo/do92Rd6x8yr3/34073
+http://cloudcdn.tk:80/4R8GfRc60/AZ7wZI135/7843
 #EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 FHD
 http://fcd7.flycany.me:8880/kg14m3n0146/xcvb4568/29389
 #EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 FHD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/1492
-#EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 FHD
 http://test.satlok.club:80/Amigo/do92Rd6x8yr3/4491
+#EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 FHD
+http://cloudcdn.tk:80/4R8GfRc60/AZ7wZI135/3224
 #EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 HD
 http://fcd7.flycany.me:8880/kg14m3n0146/xcvb4568/3189
 #EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 HEVC
-http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47280
-#EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 HEVC
 http://test.satlok.club:80/Amigo/do92Rd6x8yr3/57531
+#EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 HEVC
+http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47280
 #EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 SD
 http://fcd7.flycany.me:8880/kg14m3n0146/xcvb4568/29385
 #EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 
-http://152.89.62.111:8080/kyle123/kyle123/248425
-#EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 
 http://uye.performlive.eu:80/batuhan07/R0QMXQ18q/48187
 #EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 
+http://152.89.62.111:8080/kyle123/kyle123/248425
+#EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 
 http://bazarhd.online:80/2993289990/5002883998/81644
+#EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 
+http://cloudcdn.tk:80/4R8GfRc60/AZ7wZI135/7842
 #EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 FHD
 http://fcd7.flycany.me:8880/kg14m3n0146/xcvb4568/49958
 #EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 FHD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/1495
-#EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 FHD
 http://test.satlok.club:80/Amigo/do92Rd6x8yr3/4490
-#EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 HD
-http://fcd7.flycany.me:8880/kg14m3n0146/xcvb4568/3188
+#EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 FHD
+http://cloudcdn.tk:80/4R8GfRc60/AZ7wZI135/16297
+#EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 FHD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/1495
 #EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 HD
 http://uye.performlive.eu:80/batuhan07/R0QMXQ18q/48186
-#EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 HEVC
-http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47281
+#EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 HD
+http://fcd7.flycany.me:8880/kg14m3n0146/xcvb4568/3188
 #EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 HEVC
 http://test.satlok.club:80/Amigo/do92Rd6x8yr3/57532
+#EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 HEVC
+http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47281
