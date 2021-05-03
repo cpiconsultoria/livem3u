@@ -18,8 +18,6 @@ http://test.satlok.club:80/Amigo/do92Rd6x8yr3/57524
 #EXTINF:-1 group-title="BENFICA TV",BENFICA TV 4K
 http://test.satlok.club:80/Amigo/do92Rd6x8yr3/57524
 #EXTINF:-1 group-title="BENFICA TV",BENFICA TV FHD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/1497
-#EXTINF:-1 group-title="BENFICA TV",BENFICA TV FHD
 http://80.82.76.193:8081/hichamdbb22/J7d2FPvK0c/4269
 #EXTINF:-1 group-title="BENFICA TV",BENFICA TV FHD
 http://ky-tv.cc:25461/cde123/cde123/399240
@@ -27,22 +25,34 @@ http://ky-tv.cc:25461/cde123/cde123/399240
 http://ky-tv.cc:25461/cde123/cde123/219188
 #EXTINF:-1 group-title="BENFICA TV",BENFICA TV FHD
 http://hotiptv.site:8080/zkby2013/1d469e6d9e42/1497
-#EXTINF:-1 group-title="BENFICA TV",BENFICA TV HD
-http://kingtv.dyndns.tv:17898/tina2017/tina2017/147284
+#EXTINF:-1 group-title="BENFICA TV",BENFICA TV FHD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/1497
 #EXTINF:-1 group-title="BENFICA TV",BENFICA TV HD
 http://iconnect10.com:8080/alejo/alejo123/3645
+#EXTINF:-1 group-title="BENFICA TV",BENFICA TV HD
+http://kingtv.dyndns.tv:17898/tina2017/tina2017/147284
+#EXTINF:-1 group-title="BENFICA TV",BENFICA TV HEVC
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/57523
+#EXTINF:-1 group-title="BENFICA TV",BENFICA TV HEVC
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/57523
+#EXTINF:-1 group-title="BENFICA TV",BENFICA TV HEVC
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/57523
 #EXTINF:-1 group-title="BENFICA TV",BENFICA TV HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47292
 #EXTINF:-1 group-title="BENFICA TV",BENFICA TV HEVC
 http://test.satlok.club:80/Amigo/do92Rd6x8yr3/57523
 #EXTINF:-1 group-title="BENFICA TV",BENFICA TV HEVC
 http://test.satlok.club:80/Amigo/do92Rd6x8yr3/57523
-#EXTINF:-1 group-title="BENFICA TV",BENFICA TV HEVC
-http://test.satlok.club:80/Amigo/do92Rd6x8yr3/57523
-#EXTINF:-1 group-title="BENFICA TV",BENFICA TV HEVC
-http://test.satlok.club:80/Amigo/do92Rd6x8yr3/57523
-#EXTINF:-1 group-title="BENFICA TV",BENFICA TV HEVC
-http://test.satlok.club:80/Amigo/do92Rd6x8yr3/57523
+#EXTINF:-1 group-title="BTV",BTV 
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/55892
+#EXTINF:-1 group-title="BTV",BTV 
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/4435
+#EXTINF:-1 group-title="BTV",BTV 
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/24426
+#EXTINF:-1 group-title="BTV",BTV 
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/24425
+#EXTINF:-1 group-title="BTV",BTV 
+http://mediap.xyz:80/swoosh-5063/88UWS47RXI/61004
 #EXTINF:-1 group-title="BTV",BTV 
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/37324
 #EXTINF:-1 group-title="BTV",BTV 
@@ -57,52 +67,42 @@ http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47105
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47088
 #EXTINF:-1 group-title="BTV",BTV 
 http://152.89.62.111:8080/nXyAiP3DNp/QgOuvocpGv/248351
-#EXTINF:-1 group-title="BTV",BTV 
-http://mediap.xyz:80/swoosh-5063/88UWS47RXI/61004
-#EXTINF:-1 group-title="BTV",BTV 
-http://test.satlok.club:80/Amigo/do92Rd6x8yr3/55892
-#EXTINF:-1 group-title="BTV",BTV 
-http://test.satlok.club:80/Amigo/do92Rd6x8yr3/4435
-#EXTINF:-1 group-title="BTV",BTV 
-http://test.satlok.club:80/Amigo/do92Rd6x8yr3/24426
-#EXTINF:-1 group-title="BTV",BTV 
-http://test.satlok.club:80/Amigo/do92Rd6x8yr3/24425
-#EXTINF:-1 group-title="BTV",BTV FHD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/8042
 #EXTINF:-1 group-title="BTV",BTV FHD
 http://iconnect10.com:8080/alejo/alejo123/9642
 #EXTINF:-1 group-title="BTV",BTV FHD
 http://hotiptv.site:8080/zkby2013/1d469e6d9e42/8042
-#EXTINF:-1 group-title="BTV",BTV HD
-http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47104
-#EXTINF:-1 group-title="BTV",BTV HD
-http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47062
+#EXTINF:-1 group-title="BTV",BTV FHD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/8042
 #EXTINF:-1 group-title="BTV",BTV HD
 http://test.satlok.club:80/Amigo/do92Rd6x8yr3/4436
 #EXTINF:-1 group-title="BTV",BTV HD
 http://test.satlok.club:80/Amigo/do92Rd6x8yr3/4404
 #EXTINF:-1 group-title="BTV",BTV HD
+http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47104
+#EXTINF:-1 group-title="BTV",BTV HD
+http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47062
+#EXTINF:-1 group-title="BTV",BTV HD
 http://ottin.me:8000/live/salam_000946/ImHfNpi5/107776.ts
 #EXTINF:-1 group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 
 http://kingtv.dyndns.tv:17898/tina2017/tina2017/78971
 #EXTINF:-1 group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 FHD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/1499
-#EXTINF:-1 group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 FHD
 http://ky-tv.cc:25461/cde123/cde123/399286
 #EXTINF:-1 group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 FHD
 http://hotiptv.site:8080/zkby2013/1d469e6d9e42/1499
-#EXTINF:-1 group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
-http://kingtv.dyndns.tv:17898/tina2017/tina2017/78972
+#EXTINF:-1 group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 FHD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/1499
 #EXTINF:-1 group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
 http://ottin.me:8000/live/salam_000946/ImHfNpi5/107760.ts
+#EXTINF:-1 group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
+http://kingtv.dyndns.tv:17898/tina2017/tina2017/78972
+#EXTINF:-1 group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HEVC
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/57533
+#EXTINF:-1 group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HEVC
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/57533
+#EXTINF:-1 group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HEVC
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/57533
 #EXTINF:-1 group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47284
-#EXTINF:-1 group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HEVC
-http://test.satlok.club:80/Amigo/do92Rd6x8yr3/57533
-#EXTINF:-1 group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HEVC
-http://test.satlok.club:80/Amigo/do92Rd6x8yr3/57533
-#EXTINF:-1 group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HEVC
-http://test.satlok.club:80/Amigo/do92Rd6x8yr3/57533
 #EXTINF:-1 group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HEVC
 http://test.satlok.club:80/Amigo/do92Rd6x8yr3/57533
 #EXTINF:-1 group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HEVC
@@ -110,23 +110,23 @@ http://test.satlok.club:80/Amigo/do92Rd6x8yr3/57533
 #EXTINF:-1 group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 
 http://kingtv.dyndns.tv:17898/tina2017/tina2017/78968
 #EXTINF:-1 group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 FHD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/1503
-#EXTINF:-1 group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 FHD
 http://ky-tv.cc:25461/cde123/cde123/399289
 #EXTINF:-1 group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 FHD
 http://hotiptv.site:8080/zkby2013/1d469e6d9e42/1503
-#EXTINF:-1 group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HD
-http://kingtv.dyndns.tv:17898/tina2017/tina2017/78969
+#EXTINF:-1 group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 FHD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/1503
 #EXTINF:-1 group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HD
 http://ottin.me:8000/live/salam_000946/ImHfNpi5/107761.ts
+#EXTINF:-1 group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HD
+http://kingtv.dyndns.tv:17898/tina2017/tina2017/78969
+#EXTINF:-1 group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HEVC
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/57534
+#EXTINF:-1 group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HEVC
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/57534
+#EXTINF:-1 group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HEVC
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/57534
 #EXTINF:-1 group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47285
-#EXTINF:-1 group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HEVC
-http://test.satlok.club:80/Amigo/do92Rd6x8yr3/57534
-#EXTINF:-1 group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HEVC
-http://test.satlok.club:80/Amigo/do92Rd6x8yr3/57534
-#EXTINF:-1 group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HEVC
-http://test.satlok.club:80/Amigo/do92Rd6x8yr3/57534
 #EXTINF:-1 group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HEVC
 http://test.satlok.club:80/Amigo/do92Rd6x8yr3/57534
 #EXTINF:-1 group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HEVC
@@ -134,31 +134,31 @@ http://test.satlok.club:80/Amigo/do92Rd6x8yr3/57534
 #EXTINF:-1 group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 
 http://kingtv.dyndns.tv:17898/tina2017/tina2017/78965
 #EXTINF:-1 group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 FHD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/1506
-#EXTINF:-1 group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 FHD
 http://ky-tv.cc:25461/cde123/cde123/399292
 #EXTINF:-1 group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 FHD
 http://hotiptv.site:8080/zkby2013/1d469e6d9e42/1506
-#EXTINF:-1 group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
-http://kingtv.dyndns.tv:17898/tina2017/tina2017/78966
+#EXTINF:-1 group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 FHD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/1506
 #EXTINF:-1 group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
 http://ottin.me:8000/live/salam_000946/ImHfNpi5/107762.ts
+#EXTINF:-1 group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
+http://kingtv.dyndns.tv:17898/tina2017/tina2017/78966
 #EXTINF:-1 group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47286
 #EXTINF:-1 group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 
 http://kingtv.dyndns.tv:17898/tina2017/tina2017/78962
 #EXTINF:-1 group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 FHD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/1509
-#EXTINF:-1 group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 FHD
 http://ky-tv.cc:25461/cde123/cde123/399295
+#EXTINF:-1 group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 FHD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/1509
 #EXTINF:-1 group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 FHD
 http://hotiptv.site:8080/zkby2013/1d469e6d9e42/1509
 #EXTINF:-1 group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HD
 http://51.91.73.99:25461/spain/XDWu1KatRP/21662
 #EXTINF:-1 group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HD
-http://kingtv.dyndns.tv:17898/tina2017/tina2017/78963
-#EXTINF:-1 group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HD
 http://ottin.me:8000/live/salam_000946/ImHfNpi5/107763.ts
+#EXTINF:-1 group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HD
+http://kingtv.dyndns.tv:17898/tina2017/tina2017/78963
 #EXTINF:-1 group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47287
 #EXTINF:-1 group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 
@@ -166,53 +166,53 @@ http://kingtv.dyndns.tv:17898/tina2017/tina2017/78959
 #EXTINF:-1 group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 FHD
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/44546
 #EXTINF:-1 group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 FHD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/1512
-#EXTINF:-1 group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 FHD
 http://ky-tv.cc:25461/cde123/cde123/399298
 #EXTINF:-1 group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 FHD
 http://hotiptv.site:8080/zkby2013/1d469e6d9e42/1512
-#EXTINF:-1 group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HD
-http://kingtv.dyndns.tv:17898/tina2017/tina2017/78960
+#EXTINF:-1 group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 FHD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/1512
 #EXTINF:-1 group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HD
 http://ottin.me:8000/live/salam_000946/ImHfNpi5/107764.ts
+#EXTINF:-1 group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HD
+http://kingtv.dyndns.tv:17898/tina2017/tina2017/78960
 #EXTINF:-1 group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47288
 #EXTINF:-1 group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 
 http://kingtv.dyndns.tv:17898/tina2017/tina2017/78956
 #EXTINF:-1 group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 FHD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/1515
-#EXTINF:-1 group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 FHD
 http://ky-tv.cc:25461/cde123/cde123/399301
 #EXTINF:-1 group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 FHD
 http://hotiptv.site:8080/zkby2013/1d469e6d9e42/1515
-#EXTINF:-1 group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HD
-http://kingtv.dyndns.tv:17898/tina2017/tina2017/78957
+#EXTINF:-1 group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 FHD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/1515
 #EXTINF:-1 group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HD
 http://ottin.me:8000/live/salam_000946/ImHfNpi5/107765.ts
+#EXTINF:-1 group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HD
+http://kingtv.dyndns.tv:17898/tina2017/tina2017/78957
 #EXTINF:-1 group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47289
 #EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/34070
+#EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/34070
+#EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/34070
+#EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/41383
+#EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/34070
 #EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 
 http://152.89.62.111:8080/nXyAiP3DNp/QgOuvocpGv/248420
 #EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 
 http://test.satlok.club:80/Amigo/do92Rd6x8yr3/34070
 #EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 
-http://test.satlok.club:80/Amigo/do92Rd6x8yr3/34070
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107740.ts
 #EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 
-http://test.satlok.club:80/Amigo/do92Rd6x8yr3/34070
+http://iconnect10.com:8080/alejo/alejo123/6494
 #EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 
 http://kingtv.dyndns.tv:17898/tina2017/tina2017/147429
 #EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 
 http://kingtv.dyndns.tv:17898/tina2017/tina2017/32685
-#EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 
-http://test.satlok.club:80/Amigo/do92Rd6x8yr3/34070
-#EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 
-http://test.satlok.club:80/Amigo/do92Rd6x8yr3/34070
-#EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 
-http://iconnect10.com:8080/alejo/alejo123/6494
-#EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/107740.ts
 #EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 4K
 http://test.satlok.club:80/Amigo/do92Rd6x8yr3/57528
 #EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 4K
@@ -224,7 +224,9 @@ http://test.satlok.club:80/Amigo/do92Rd6x8yr3/57528
 #EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 4K
 http://test.satlok.club:80/Amigo/do92Rd6x8yr3/57528
 #EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 FHD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/1483
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/4494
+#EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 FHD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/4494
 #EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 FHD
 http://test.satlok.club:80/Amigo/do92Rd6x8yr3/4494
 #EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 FHD
@@ -236,13 +238,11 @@ http://ip.trboss.net:80/dindin/sdfsjfujskrez/4494
 #EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 FHD
 http://test.satlok.club:80/Amigo/do92Rd6x8yr3/4494
 #EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 FHD
-http://test.satlok.club:80/Amigo/do92Rd6x8yr3/4494
-#EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 FHD
-http://test.satlok.club:80/Amigo/do92Rd6x8yr3/4494
-#EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 FHD
 http://iconnect10.com:8080/alejo/alejo123/16056
 #EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 FHD
 http://ky-tv.cc:25461/cde123/cde123/399398
+#EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 FHD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/1483
 #EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 FHD
 http://hotiptv.site:8080/zkby2013/1d469e6d9e42/1483
 #EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 HD
@@ -250,17 +250,17 @@ http://80.82.76.193:8081/hichamdbb22/J7d2FPvK0c/1721
 #EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 HD
 http://80.82.76.193:8081/hichamdbb22/J7d2FPvK0c/4437
 #EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 HD
-http://kingtv.dyndns.tv:17898/tina2017/tina2017/32683
-#EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 HD
 http://ottin.me:8000/live/salam_000946/ImHfNpi5/107834.ts
+#EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 HD
+http://kingtv.dyndns.tv:17898/tina2017/tina2017/32683
+#EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 HEVC
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/57527
+#EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 HEVC
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/57527
+#EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 HEVC
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/57527
 #EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47277
-#EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 HEVC
-http://test.satlok.club:80/Amigo/do92Rd6x8yr3/57527
-#EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 HEVC
-http://test.satlok.club:80/Amigo/do92Rd6x8yr3/57527
-#EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 HEVC
-http://test.satlok.club:80/Amigo/do92Rd6x8yr3/57527
 #EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 HEVC
 http://test.satlok.club:80/Amigo/do92Rd6x8yr3/57527
 #EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 HEVC
@@ -272,27 +272,29 @@ http://ottin.me:8000/live/salam_000946/ImHfNpi5/107835.ts
 #EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 SD
 http://ky-tv.cc:25461/cde123/cde123/1225714
 #EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/34071
+#EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/34071
+#EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/34071
+#EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/41384
+#EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/34071
 #EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 
 http://152.89.62.111:8080/nXyAiP3DNp/QgOuvocpGv/248421
 #EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 
 http://test.satlok.club:80/Amigo/do92Rd6x8yr3/34071
 #EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 
-http://test.satlok.club:80/Amigo/do92Rd6x8yr3/34071
-#EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 
-http://test.satlok.club:80/Amigo/do92Rd6x8yr3/34071
+http://iconnect10.com:8080/alejo/alejo123/6495
 #EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 
 http://kingtv.dyndns.tv:17898/tina2017/tina2017/147430
 #EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 
 http://kingtv.dyndns.tv:17898/tina2017/tina2017/32681
-#EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 
-http://test.satlok.club:80/Amigo/do92Rd6x8yr3/34071
-#EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 
-http://test.satlok.club:80/Amigo/do92Rd6x8yr3/34071
-#EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 
-http://iconnect10.com:8080/alejo/alejo123/6495
 #EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 FHD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/1486
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/4493
+#EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 FHD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/4493
 #EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 FHD
 http://test.satlok.club:80/Amigo/do92Rd6x8yr3/4493
 #EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 FHD
@@ -304,31 +306,29 @@ http://ip.trboss.net:80/dindin/sdfsjfujskrez/4493
 #EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 FHD
 http://test.satlok.club:80/Amigo/do92Rd6x8yr3/4493
 #EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 FHD
-http://test.satlok.club:80/Amigo/do92Rd6x8yr3/4493
-#EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 FHD
-http://test.satlok.club:80/Amigo/do92Rd6x8yr3/4493
-#EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 FHD
 http://iconnect10.com:8080/alejo/alejo123/16055
 #EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 FHD
 http://ky-tv.cc:25461/cde123/cde123/399401
 #EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 FHD
 http://hotiptv.site:8080/zkby2013/1d469e6d9e42/1486
+#EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 FHD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/1486
 #EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 HD
 http://80.82.76.193:8081/hichamdbb22/J7d2FPvK0c/1722
-#EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 HD
-http://kingtv.dyndns.tv:17898/tina2017/tina2017/32679
 #EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 HD
 http://ottin.me:8000/live/salam_000946/ImHfNpi5/107836.ts
 #EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 HD
 http://ottin.me:8000/live/salam_000946/ImHfNpi5/107741.ts
+#EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 HD
+http://kingtv.dyndns.tv:17898/tina2017/tina2017/32679
+#EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 HEVC
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/57529
+#EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 HEVC
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/57529
+#EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 HEVC
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/57529
 #EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47278
-#EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 HEVC
-http://test.satlok.club:80/Amigo/do92Rd6x8yr3/57529
-#EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 HEVC
-http://test.satlok.club:80/Amigo/do92Rd6x8yr3/57529
-#EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 HEVC
-http://test.satlok.club:80/Amigo/do92Rd6x8yr3/57529
 #EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 HEVC
 http://test.satlok.club:80/Amigo/do92Rd6x8yr3/57529
 #EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 HEVC
@@ -338,7 +338,15 @@ http://ottin.me:8000/live/salam_000946/ImHfNpi5/107837.ts
 #EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 SD
 http://ky-tv.cc:25461/cde123/cde123/1225722
 #EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/34072
+#EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/34072
+#EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/34072
+#EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/41385
+#EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/34072
 #EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 
 http://152.89.62.111:8080/nXyAiP3DNp/QgOuvocpGv/248423
 #EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 
@@ -346,23 +354,17 @@ http://152.89.62.111:8080/nXyAiP3DNp/QgOuvocpGv/248422
 #EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 
 http://test.satlok.club:80/Amigo/do92Rd6x8yr3/34072
 #EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 
-http://test.satlok.club:80/Amigo/do92Rd6x8yr3/34072
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107742.ts
 #EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 
-http://test.satlok.club:80/Amigo/do92Rd6x8yr3/34072
+http://iconnect10.com:8080/alejo/alejo123/6496
 #EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 
 http://kingtv.dyndns.tv:17898/tina2017/tina2017/147431
 #EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 
 http://kingtv.dyndns.tv:17898/tina2017/tina2017/32677
-#EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 
-http://test.satlok.club:80/Amigo/do92Rd6x8yr3/34072
-#EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 
-http://test.satlok.club:80/Amigo/do92Rd6x8yr3/34072
-#EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 
-http://iconnect10.com:8080/alejo/alejo123/6496
-#EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/107742.ts
 #EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 FHD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/1489
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/4492
+#EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 FHD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/4492
 #EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 FHD
 http://test.satlok.club:80/Amigo/do92Rd6x8yr3/4492
 #EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 FHD
@@ -374,29 +376,27 @@ http://ip.trboss.net:80/dindin/sdfsjfujskrez/4492
 #EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 FHD
 http://test.satlok.club:80/Amigo/do92Rd6x8yr3/4492
 #EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 FHD
-http://test.satlok.club:80/Amigo/do92Rd6x8yr3/4492
-#EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 FHD
-http://test.satlok.club:80/Amigo/do92Rd6x8yr3/4492
-#EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 FHD
 http://iconnect10.com:8080/alejo/alejo123/16054
 #EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 FHD
 http://ky-tv.cc:25461/cde123/cde123/399404
 #EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 FHD
 http://hotiptv.site:8080/zkby2013/1d469e6d9e42/1489
+#EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 FHD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/1489
 #EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 HD
 http://80.82.76.193:8081/hichamdbb22/J7d2FPvK0c/1723
 #EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 HD
-http://kingtv.dyndns.tv:17898/tina2017/tina2017/32675
-#EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 HD
 http://ottin.me:8000/live/salam_000946/ImHfNpi5/107838.ts
+#EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 HD
+http://kingtv.dyndns.tv:17898/tina2017/tina2017/32675
+#EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 HEVC
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/57530
+#EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 HEVC
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/57530
+#EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 HEVC
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/57530
 #EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47279
-#EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 HEVC
-http://test.satlok.club:80/Amigo/do92Rd6x8yr3/57530
-#EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 HEVC
-http://test.satlok.club:80/Amigo/do92Rd6x8yr3/57530
-#EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 HEVC
-http://test.satlok.club:80/Amigo/do92Rd6x8yr3/57530
 #EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 HEVC
 http://test.satlok.club:80/Amigo/do92Rd6x8yr3/57530
 #EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 HEVC
@@ -404,29 +404,31 @@ http://test.satlok.club:80/Amigo/do92Rd6x8yr3/57530
 #EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 SD
 http://ottin.me:8000/live/salam_000946/ImHfNpi5/107839.ts
 #EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/34073
+#EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/34073
+#EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/34073
+#EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/34073
+#EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 
 http://152.89.62.111:8080/nXyAiP3DNp/QgOuvocpGv/248424
 #EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 
 http://test.satlok.club:80/Amigo/do92Rd6x8yr3/34073
 #EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 
-http://test.satlok.club:80/Amigo/do92Rd6x8yr3/34073
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107840.ts
 #EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 
-http://test.satlok.club:80/Amigo/do92Rd6x8yr3/34073
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107743.ts
+#EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 
+http://iconnect10.com:8080/alejo/alejo123/6497
 #EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 
 http://kingtv.dyndns.tv:17898/tina2017/tina2017/149826
 #EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 
 http://kingtv.dyndns.tv:17898/tina2017/tina2017/32673
-#EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 
-http://test.satlok.club:80/Amigo/do92Rd6x8yr3/34073
-#EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 
-http://test.satlok.club:80/Amigo/do92Rd6x8yr3/34073
-#EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 
-http://iconnect10.com:8080/alejo/alejo123/6497
-#EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/107840.ts
-#EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/107743.ts
 #EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 FHD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/1492
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/4491
+#EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 FHD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/4491
 #EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 FHD
 http://test.satlok.club:80/Amigo/do92Rd6x8yr3/4491
 #EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 FHD
@@ -438,13 +440,11 @@ http://ip.trboss.net:80/dindin/sdfsjfujskrez/4491
 #EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 FHD
 http://test.satlok.club:80/Amigo/do92Rd6x8yr3/4491
 #EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 FHD
-http://test.satlok.club:80/Amigo/do92Rd6x8yr3/4491
-#EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 FHD
-http://test.satlok.club:80/Amigo/do92Rd6x8yr3/4491
-#EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 FHD
 http://iconnect10.com:8080/alejo/alejo123/16053
 #EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 FHD
 http://ky-tv.cc:25461/cde123/cde123/399407
+#EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 FHD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/1492
 #EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 FHD
 http://hotiptv.site:8080/zkby2013/1d469e6d9e42/1492
 #EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 HD
@@ -452,13 +452,13 @@ http://80.82.76.193:8081/hichamdbb22/J7d2FPvK0c/1724
 #EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 HD
 http://kingtv.dyndns.tv:17898/tina2017/tina2017/32672
 #EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 HEVC
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/57531
+#EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 HEVC
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/57531
+#EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 HEVC
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/57531
+#EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47280
-#EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 HEVC
-http://test.satlok.club:80/Amigo/do92Rd6x8yr3/57531
-#EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 HEVC
-http://test.satlok.club:80/Amigo/do92Rd6x8yr3/57531
-#EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 HEVC
-http://test.satlok.club:80/Amigo/do92Rd6x8yr3/57531
 #EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 HEVC
 http://test.satlok.club:80/Amigo/do92Rd6x8yr3/57531
 #EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 HEVC
@@ -466,17 +466,19 @@ http://test.satlok.club:80/Amigo/do92Rd6x8yr3/57531
 #EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 
 http://152.89.62.111:8080/nXyAiP3DNp/QgOuvocpGv/248425
 #EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 
-http://kingtv.dyndns.tv:17898/tina2017/tina2017/149825
-#EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 
-http://kingtv.dyndns.tv:17898/tina2017/tina2017/32670
-#EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 
-http://iconnect10.com:8080/alejo/alejo123/6498
-#EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 
 http://ottin.me:8000/live/salam_000946/ImHfNpi5/107841.ts
 #EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 
 http://ottin.me:8000/live/salam_000946/ImHfNpi5/107744.ts
+#EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 
+http://iconnect10.com:8080/alejo/alejo123/6498
+#EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 
+http://kingtv.dyndns.tv:17898/tina2017/tina2017/149825
+#EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 
+http://kingtv.dyndns.tv:17898/tina2017/tina2017/32670
 #EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 FHD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/1495
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/4490
+#EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 FHD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/4490
 #EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 FHD
 http://test.satlok.club:80/Amigo/do92Rd6x8yr3/4490
 #EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 FHD
@@ -488,13 +490,11 @@ http://ip.trboss.net:80/dindin/sdfsjfujskrez/4490
 #EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 FHD
 http://test.satlok.club:80/Amigo/do92Rd6x8yr3/4490
 #EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 FHD
-http://test.satlok.club:80/Amigo/do92Rd6x8yr3/4490
-#EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 FHD
-http://test.satlok.club:80/Amigo/do92Rd6x8yr3/4490
-#EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 FHD
 http://iconnect10.com:8080/alejo/alejo123/16052
 #EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 FHD
 http://ky-tv.cc:25461/cde123/cde123/399410
+#EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 FHD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/1495
 #EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 FHD
 http://hotiptv.site:8080/zkby2013/1d469e6d9e42/1495
 #EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 HD
@@ -504,13 +504,13 @@ http://80.82.76.193:8081/hichamdbb22/J7d2FPvK0c/2139
 #EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 HD
 http://kingtv.dyndns.tv:17898/tina2017/tina2017/32669
 #EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 HEVC
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/57532
+#EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 HEVC
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/57532
+#EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 HEVC
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/57532
+#EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47281
-#EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 HEVC
-http://test.satlok.club:80/Amigo/do92Rd6x8yr3/57532
-#EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 HEVC
-http://test.satlok.club:80/Amigo/do92Rd6x8yr3/57532
-#EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 HEVC
-http://test.satlok.club:80/Amigo/do92Rd6x8yr3/57532
 #EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 HEVC
 http://test.satlok.club:80/Amigo/do92Rd6x8yr3/57532
 #EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 HEVC
