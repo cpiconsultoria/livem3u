@@ -17,8 +17,6 @@ http://80.82.76.193:8081/hichamdbb22/J7d2FPvK0c/4269
 http://80.82.76.193:8081/hichamdbb22/J7d2FPvK0c/4269
 #EXTINF:-1 group-title="BENFICA TV",BENFICA TV FHD
 http://iptvpro.premium-itv.com:8789/mehdi/mehdi123/14092
-#EXTINF:-1 group-title="BENFICA TV",BENFICA TV FHD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/1497
 #EXTINF:-1 group-title="BENFICA TV",BENFICA TV HD
 http://livego.club:8080/Petra/Petra2021/3645
 #EXTINF:-1 group-title="BENFICA TV",BENFICA TV HEVC
@@ -27,6 +25,8 @@ http://test.satlok.club:80/Amigo/do92Rd6x8yr3/57523
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47292
 #EXTINF:-1 group-title="BENFICA TV",BENFICA TV HEVC
 http://iptvpro.premium-itv.com:8789/mehdi/mehdi123/85735
+#EXTINF:-1 group-title="BTV",BTV 
+http://mediap.xyz:80/swoosh-5063/88UWS47RXI/61004
 #EXTINF:-1 group-title="BTV",BTV 
 http://goiptv.co:8080/kennythetiger/1YFY8z6jwT/48495
 #EXTINF:-1 group-title="BTV",BTV 
@@ -41,12 +41,8 @@ http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47106
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47105
 #EXTINF:-1 group-title="BTV",BTV 
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47088
-#EXTINF:-1 group-title="BTV",BTV 
-http://mediap.xyz:80/swoosh-5063/88UWS47RXI/61004
 #EXTINF:-1 group-title="BTV",BTV FHD
 http://livego.club:8080/Petra/Petra2021/9642
-#EXTINF:-1 group-title="BTV",BTV FHD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/8042
 #EXTINF:-1 group-title="BTV",BTV HD
 http://goiptv.co:8080/kennythetiger/1YFY8z6jwT/48496
 #EXTINF:-1 group-title="BTV",BTV HD
@@ -59,8 +55,6 @@ http://goiptv.co:8080/kennythetiger/1YFY8z6jwT/48601
 http://iptvpro.premium-itv.com:8789/mehdi/mehdi123/35371
 #EXTINF:-1 group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 FHD
 http://iptvpro.premium-itv.com:8789/mehdi/mehdi123/29988
-#EXTINF:-1 group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 FHD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/1499
 #EXTINF:-1 group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HEVC
 http://test.satlok.club:80/Amigo/do92Rd6x8yr3/57533
 #EXTINF:-1 group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HEVC
@@ -73,8 +67,6 @@ http://goiptv.co:8080/kennythetiger/1YFY8z6jwT/48600
 http://iptvpro.premium-itv.com:8789/mehdi/mehdi123/35372
 #EXTINF:-1 group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 FHD
 http://iptvpro.premium-itv.com:8789/mehdi/mehdi123/29987
-#EXTINF:-1 group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 FHD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/1503
 #EXTINF:-1 group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HEVC
 http://test.satlok.club:80/Amigo/do92Rd6x8yr3/57534
 #EXTINF:-1 group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HEVC
@@ -87,16 +79,12 @@ http://goiptv.co:8080/kennythetiger/1YFY8z6jwT/48596
 http://iptvpro.premium-itv.com:8789/mehdi/mehdi123/35373
 #EXTINF:-1 group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 FHD
 http://iptvpro.premium-itv.com:8789/mehdi/mehdi123/29986
-#EXTINF:-1 group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 FHD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/1506
 #EXTINF:-1 group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47286
 #EXTINF:-1 group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HEVC
 http://iptvpro.premium-itv.com:8789/mehdi/mehdi123/85729
 #EXTINF:-1 group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 
 http://goiptv.co:8080/kennythetiger/1YFY8z6jwT/48599
-#EXTINF:-1 group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 FHD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/1509
 #EXTINF:-1 group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HD
 http://iptvpro.premium-itv.com:8789/mehdi/mehdi123/29985
 #EXTINF:-1 group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HEVC
@@ -109,16 +97,12 @@ http://goiptv.co:8080/kennythetiger/1YFY8z6jwT/48598
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/44546
 #EXTINF:-1 group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 FHD
 http://iptvpro.premium-itv.com:8789/mehdi/mehdi123/29984
-#EXTINF:-1 group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 FHD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/1512
 #EXTINF:-1 group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47288
 #EXTINF:-1 group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HEVC
 http://iptvpro.premium-itv.com:8789/mehdi/mehdi123/85731
 #EXTINF:-1 group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 
 http://goiptv.co:8080/kennythetiger/1YFY8z6jwT/48597
-#EXTINF:-1 group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 FHD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/1515
 #EXTINF:-1 group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HD
 http://iptvpro.premium-itv.com:8789/mehdi/mehdi123/29983
 #EXTINF:-1 group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HEVC
@@ -130,11 +114,11 @@ http://goiptv.co:8080/kennythetiger/1YFY8z6jwT/48583
 #EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 
 http://test.satlok.club:80/Amigo/do92Rd6x8yr3/34070
 #EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 
+http://livego.club:8080/Petra/Petra2021/6494
+#EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/41383
 #EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 
 http://iptvpro.premium-itv.com:8789/mehdi/mehdi123/14107
-#EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 
-http://livego.club:8080/Petra/Petra2021/6494
 #EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 4K
 http://test.satlok.club:80/Amigo/do92Rd6x8yr3/57528
 #EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 FHD
@@ -144,11 +128,9 @@ http://80.82.76.193:8081/hichamdbb22/J7d2FPvK0c/4445
 #EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 FHD
 http://test.satlok.club:80/Amigo/do92Rd6x8yr3/4494
 #EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 FHD
-http://iptvpro.premium-itv.com:8789/mehdi/mehdi123/89710
-#EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 FHD
 http://livego.club:8080/Petra/Petra2021/16056
 #EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 FHD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/1483
+http://iptvpro.premium-itv.com:8789/mehdi/mehdi123/89710
 #EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 HD
 http://80.82.76.193:8081/hichamdbb22/J7d2FPvK0c/1721
 #EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 HD
@@ -174,9 +156,9 @@ http://goiptv.co:8080/kennythetiger/1YFY8z6jwT/48585
 #EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 
 http://test.satlok.club:80/Amigo/do92Rd6x8yr3/34071
 #EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 
-http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/41384
-#EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 
 http://livego.club:8080/Petra/Petra2021/6495
+#EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 
+http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/41384
 #EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 FHD
 http://80.82.76.193:8081/hichamdbb22/J7d2FPvK0c/4444
 #EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 FHD
@@ -184,11 +166,9 @@ http://80.82.76.193:8081/hichamdbb22/J7d2FPvK0c/4444
 #EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 FHD
 http://test.satlok.club:80/Amigo/do92Rd6x8yr3/4493
 #EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 FHD
-http://iptvpro.premium-itv.com:8789/mehdi/mehdi123/14101
-#EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 FHD
 http://livego.club:8080/Petra/Petra2021/16055
 #EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 FHD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/1486
+http://iptvpro.premium-itv.com:8789/mehdi/mehdi123/14101
 #EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 HD
 http://80.82.76.193:8081/hichamdbb22/J7d2FPvK0c/1722
 #EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 HD
@@ -208,11 +188,11 @@ http://goiptv.co:8080/kennythetiger/1YFY8z6jwT/48587
 #EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 
 http://test.satlok.club:80/Amigo/do92Rd6x8yr3/34072
 #EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 
+http://livego.club:8080/Petra/Petra2021/6496
+#EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/41385
 #EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 
 http://iptvpro.premium-itv.com:8789/mehdi/mehdi123/14105
-#EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 
-http://livego.club:8080/Petra/Petra2021/6496
 #EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 FHD
 http://80.82.76.193:8081/hichamdbb22/J7d2FPvK0c/4443
 #EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 FHD
@@ -220,11 +200,9 @@ http://80.82.76.193:8081/hichamdbb22/J7d2FPvK0c/4443
 #EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 FHD
 http://test.satlok.club:80/Amigo/do92Rd6x8yr3/4492
 #EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 FHD
-http://iptvpro.premium-itv.com:8789/mehdi/mehdi123/14100
-#EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 FHD
 http://livego.club:8080/Petra/Petra2021/16054
 #EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 FHD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/1489
+http://iptvpro.premium-itv.com:8789/mehdi/mehdi123/14100
 #EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 HD
 http://80.82.76.193:8081/hichamdbb22/J7d2FPvK0c/1723
 #EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 HD
@@ -242,9 +220,9 @@ http://goiptv.co:8080/kennythetiger/1YFY8z6jwT/48589
 #EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 
 http://test.satlok.club:80/Amigo/do92Rd6x8yr3/34073
 #EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 
-http://iptvpro.premium-itv.com:8789/mehdi/mehdi123/14104
-#EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 
 http://livego.club:8080/Petra/Petra2021/6497
+#EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 
+http://iptvpro.premium-itv.com:8789/mehdi/mehdi123/14104
 #EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 FHD
 http://80.82.76.193:8081/hichamdbb22/J7d2FPvK0c/4441
 #EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 FHD
@@ -252,11 +230,9 @@ http://80.82.76.193:8081/hichamdbb22/J7d2FPvK0c/4441
 #EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 FHD
 http://test.satlok.club:80/Amigo/do92Rd6x8yr3/4491
 #EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 FHD
-http://iptvpro.premium-itv.com:8789/mehdi/mehdi123/14099
-#EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 FHD
 http://livego.club:8080/Petra/Petra2021/16053
 #EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 FHD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/1492
+http://iptvpro.premium-itv.com:8789/mehdi/mehdi123/14099
 #EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 HD
 http://80.82.76.193:8081/hichamdbb22/J7d2FPvK0c/1724
 #EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 HD
@@ -280,11 +256,9 @@ http://80.82.76.193:8081/hichamdbb22/J7d2FPvK0c/4439
 #EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 FHD
 http://test.satlok.club:80/Amigo/do92Rd6x8yr3/4490
 #EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 FHD
-http://185.183.33.77:2052/portugalSOURCEPRO2/2797998477/1577
-#EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 FHD
 http://livego.club:8080/Petra/Petra2021/16052
 #EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 FHD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/1495
+http://185.183.33.77:2052/portugalSOURCEPRO2/2797998477/1577
 #EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 HD
 http://80.82.76.193:8081/hichamdbb22/J7d2FPvK0c/2295
 #EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 HD
