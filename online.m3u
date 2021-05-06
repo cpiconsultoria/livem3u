@@ -20,9 +20,9 @@ http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47105
 #EXTINF:-1 group-title="BTV",BTV 
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47088
 #EXTINF:-1 group-title="BTV",BTV 
-http://goiptv.co:8080/kennythetiger/1YFY8z6jwT/48495
-#EXTINF:-1 group-title="BTV",BTV 
 http://mediap.xyz:80/swoosh-5063/88UWS47RXI/61004
+#EXTINF:-1 group-title="BTV",BTV 
+http://goiptv.co:8080/kennythetiger/1YFY8z6jwT/48495
 #EXTINF:-1 group-title="BTV",BTV HD
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47104
 #EXTINF:-1 group-title="BTV",BTV HD
@@ -59,16 +59,14 @@ http://goiptv.co:8080/kennythetiger/1YFY8z6jwT/48597
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47289
 #EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/41383
-#EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 
-http://goiptv.co:8080/kennythetiger/1YFY8z6jwT/48583
 #EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 FHD
 http://80.82.76.193:8081/hichamdbb22/J7d2FPvK0c/4445
-#EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 HD
-http://goiptv.co:8080/kennythetiger/1YFY8z6jwT/48584
 #EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 HD
 http://80.82.76.193:8081/hichamdbb22/J7d2FPvK0c/1721
 #EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 HD
 http://80.82.76.193:8081/hichamdbb22/J7d2FPvK0c/4437
+#EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 HD
+http://goiptv.co:8080/kennythetiger/1YFY8z6jwT/48584
 #EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47277
 #EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 SD
@@ -80,9 +78,9 @@ http://goiptv.co:8080/kennythetiger/1YFY8z6jwT/48585
 #EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 FHD
 http://80.82.76.193:8081/hichamdbb22/J7d2FPvK0c/4444
 #EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 HD
-http://goiptv.co:8080/kennythetiger/1YFY8z6jwT/48586
-#EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 HD
 http://80.82.76.193:8081/hichamdbb22/J7d2FPvK0c/1722
+#EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 HD
+http://goiptv.co:8080/kennythetiger/1YFY8z6jwT/48586
 #EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47278
 #EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 
@@ -92,9 +90,9 @@ http://goiptv.co:8080/kennythetiger/1YFY8z6jwT/48587
 #EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 FHD
 http://80.82.76.193:8081/hichamdbb22/J7d2FPvK0c/4443
 #EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 HD
-http://goiptv.co:8080/kennythetiger/1YFY8z6jwT/48588
-#EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 HD
 http://80.82.76.193:8081/hichamdbb22/J7d2FPvK0c/1723
+#EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 HD
+http://goiptv.co:8080/kennythetiger/1YFY8z6jwT/48588
 #EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47279
 #EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 
@@ -102,9 +100,9 @@ http://goiptv.co:8080/kennythetiger/1YFY8z6jwT/48589
 #EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 FHD
 http://80.82.76.193:8081/hichamdbb22/J7d2FPvK0c/4441
 #EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 HD
-http://goiptv.co:8080/kennythetiger/1YFY8z6jwT/48590
-#EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 HD
 http://80.82.76.193:8081/hichamdbb22/J7d2FPvK0c/1724
+#EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 HD
+http://goiptv.co:8080/kennythetiger/1YFY8z6jwT/48590
 #EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47280
 #EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 
@@ -112,10 +110,10 @@ http://goiptv.co:8080/kennythetiger/1YFY8z6jwT/48591
 #EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 FHD
 http://80.82.76.193:8081/hichamdbb22/J7d2FPvK0c/4439
 #EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 HD
-http://goiptv.co:8080/kennythetiger/1YFY8z6jwT/48592
-#EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 HD
 http://80.82.76.193:8081/hichamdbb22/J7d2FPvK0c/2295
 #EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 HD
 http://80.82.76.193:8081/hichamdbb22/J7d2FPvK0c/2139
+#EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 HD
+http://goiptv.co:8080/kennythetiger/1YFY8z6jwT/48592
 #EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47281
