@@ -8,6 +8,8 @@ http://147.135.130.72:8011/100200300/100200300/42501
 #EXTINF:-1 group-title="BENFICA TV",BENFICA TV HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47292
 #EXTINF:-1 group-title="BTV",BTV 
+http://mediap.xyz:80/swoosh-5063/88UWS47RXI/61004
+#EXTINF:-1 group-title="BTV",BTV 
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/37324
 #EXTINF:-1 group-title="BTV",BTV 
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/37314
@@ -20,6 +22,8 @@ http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47105
 #EXTINF:-1 group-title="BTV",BTV 
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47088
 #EXTINF:-1 group-title="BTV",BTV 
+http://pulselive.uk:8080/t1/t1/248351
+#EXTINF:-1 group-title="BTV",BTV 
 http://aimariajuju.ddns.net:8080/2g1IMbq8uD/kZP4dyrG5b/93808
 #EXTINF:-1 group-title="BTV",BTV 
 http://aimariajuju.ddns.net:8080/2g1IMbq8uD/kZP4dyrG5b/57992
@@ -29,20 +33,16 @@ http://aimariajuju.ddns.net:8080/2g1IMbq8uD/kZP4dyrG5b/52307
 http://aimariajuju.ddns.net:8080/2g1IMbq8uD/kZP4dyrG5b/52306
 #EXTINF:-1 group-title="BTV",BTV 
 http://aimariajuju.ddns.net:8080/2g1IMbq8uD/kZP4dyrG5b/52305
-#EXTINF:-1 group-title="BTV",BTV 
-http://pulselive.uk:8080/t1/t1/248351
-#EXTINF:-1 group-title="BTV",BTV 
-http://mediap.xyz:80/swoosh-5063/88UWS47RXI/61004
 #EXTINF:-1 group-title="BTV",BTV FHD
 http://147.135.130.72:8011/100200300/100200300/42508
 #EXTINF:-1 group-title="BTV",BTV FHD
 http://147.135.130.72:8011/100200300/100200300/42507
 #EXTINF:-1 group-title="BTV",BTV HD
+http://147.135.130.72:8011/100200300/100200300/42509
+#EXTINF:-1 group-title="BTV",BTV HD
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47104
 #EXTINF:-1 group-title="BTV",BTV HD
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47062
-#EXTINF:-1 group-title="BTV",BTV HD
-http://147.135.130.72:8011/100200300/100200300/42509
 #EXTINF:-1 group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 
 http://aimariajuju.ddns.net:8080/2g1IMbq8uD/kZP4dyrG5b/93816
 #EXTINF:-1 group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 FHD
@@ -110,6 +110,8 @@ http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47289
 #EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/41383
 #EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 
+http://pulselive.uk:8080/t1/t1/248420
+#EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 
 http://aimariajuju.ddns.net:8080/2g1IMbq8uD/kZP4dyrG5b/93822
 #EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 
 http://aimariajuju.ddns.net:8080/2g1IMbq8uD/kZP4dyrG5b/57847
@@ -119,8 +121,6 @@ http://aimariajuju.ddns.net:8080/2g1IMbq8uD/kZP4dyrG5b/52270
 http://aimariajuju.ddns.net:8080/2g1IMbq8uD/kZP4dyrG5b/52269
 #EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 
 http://aimariajuju.ddns.net:8080/2g1IMbq8uD/kZP4dyrG5b/52268
-#EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 
-http://pulselive.uk:8080/t1/t1/248420
 #EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 FHD
 http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/3187
 #EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 HD
@@ -132,6 +132,8 @@ http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/3189
 #EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/41384
 #EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 
+http://pulselive.uk:8080/t1/t1/248421
+#EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 
 http://aimariajuju.ddns.net:8080/2g1IMbq8uD/kZP4dyrG5b/93821
 #EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 
 http://aimariajuju.ddns.net:8080/2g1IMbq8uD/kZP4dyrG5b/52273
@@ -139,8 +141,6 @@ http://aimariajuju.ddns.net:8080/2g1IMbq8uD/kZP4dyrG5b/52273
 http://aimariajuju.ddns.net:8080/2g1IMbq8uD/kZP4dyrG5b/52272
 #EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 
 http://aimariajuju.ddns.net:8080/2g1IMbq8uD/kZP4dyrG5b/52271
-#EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 
-http://pulselive.uk:8080/t1/t1/248421
 #EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 FHD
 http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/3190
 #EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 HD
@@ -152,6 +152,10 @@ http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/3192
 #EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/41385
 #EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 
+http://pulselive.uk:8080/t1/t1/248423
+#EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 
+http://pulselive.uk:8080/t1/t1/248422
+#EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 
 http://aimariajuju.ddns.net:8080/2g1IMbq8uD/kZP4dyrG5b/93820
 #EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 
 http://aimariajuju.ddns.net:8080/2g1IMbq8uD/kZP4dyrG5b/52276
@@ -159,10 +163,6 @@ http://aimariajuju.ddns.net:8080/2g1IMbq8uD/kZP4dyrG5b/52276
 http://aimariajuju.ddns.net:8080/2g1IMbq8uD/kZP4dyrG5b/52275
 #EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 
 http://aimariajuju.ddns.net:8080/2g1IMbq8uD/kZP4dyrG5b/52274
-#EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 
-http://pulselive.uk:8080/t1/t1/248423
-#EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 
-http://pulselive.uk:8080/t1/t1/248422
 #EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 FHD
 http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/3193
 #EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 HD
@@ -174,6 +174,8 @@ http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47279
 #EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 SD
 http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/3195
 #EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 
+http://pulselive.uk:8080/t1/t1/248424
+#EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 
 http://aimariajuju.ddns.net:8080/2g1IMbq8uD/kZP4dyrG5b/93819
 #EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 
 http://aimariajuju.ddns.net:8080/2g1IMbq8uD/kZP4dyrG5b/52279
@@ -181,8 +183,6 @@ http://aimariajuju.ddns.net:8080/2g1IMbq8uD/kZP4dyrG5b/52279
 http://aimariajuju.ddns.net:8080/2g1IMbq8uD/kZP4dyrG5b/52278
 #EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 
 http://aimariajuju.ddns.net:8080/2g1IMbq8uD/kZP4dyrG5b/52277
-#EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 
-http://pulselive.uk:8080/t1/t1/248424
 #EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 FHD
 http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/3196
 #EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 HD
@@ -192,6 +192,8 @@ http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47280
 #EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 SD
 http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/3198
 #EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 
+http://pulselive.uk:8080/t1/t1/248425
+#EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 
 http://aimariajuju.ddns.net:8080/2g1IMbq8uD/kZP4dyrG5b/93818
 #EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 
 http://aimariajuju.ddns.net:8080/2g1IMbq8uD/kZP4dyrG5b/52282
@@ -199,8 +201,6 @@ http://aimariajuju.ddns.net:8080/2g1IMbq8uD/kZP4dyrG5b/52282
 http://aimariajuju.ddns.net:8080/2g1IMbq8uD/kZP4dyrG5b/52281
 #EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 
 http://aimariajuju.ddns.net:8080/2g1IMbq8uD/kZP4dyrG5b/52280
-#EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 
-http://pulselive.uk:8080/t1/t1/248425
 #EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 HD
 http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/3199
 #EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 HEVC
