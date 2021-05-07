@@ -8,8 +8,6 @@ http://147.135.130.72:8011/100200300/100200300/42501
 #EXTINF:-1 group-title="BENFICA TV",BENFICA TV HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47292
 #EXTINF:-1 group-title="BTV",BTV 
-http://mediap.xyz:80/swoosh-5063/88UWS47RXI/61004
-#EXTINF:-1 group-title="BTV",BTV 
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/37324
 #EXTINF:-1 group-title="BTV",BTV 
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/37314
@@ -33,16 +31,18 @@ http://aimariajuju.ddns.net:8080/2g1IMbq8uD/kZP4dyrG5b/52306
 http://aimariajuju.ddns.net:8080/2g1IMbq8uD/kZP4dyrG5b/52305
 #EXTINF:-1 group-title="BTV",BTV 
 http://pulselive.uk:8080/t1/t1/248351
+#EXTINF:-1 group-title="BTV",BTV 
+http://mediap.xyz:80/swoosh-5063/88UWS47RXI/61004
 #EXTINF:-1 group-title="BTV",BTV FHD
 http://147.135.130.72:8011/100200300/100200300/42508
 #EXTINF:-1 group-title="BTV",BTV FHD
 http://147.135.130.72:8011/100200300/100200300/42507
 #EXTINF:-1 group-title="BTV",BTV HD
-http://147.135.130.72:8011/100200300/100200300/42509
-#EXTINF:-1 group-title="BTV",BTV HD
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47104
 #EXTINF:-1 group-title="BTV",BTV HD
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47062
+#EXTINF:-1 group-title="BTV",BTV HD
+http://147.135.130.72:8011/100200300/100200300/42509
 #EXTINF:-1 group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 
 http://aimariajuju.ddns.net:8080/2g1IMbq8uD/kZP4dyrG5b/93816
 #EXTINF:-1 group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 FHD
