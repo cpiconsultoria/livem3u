@@ -1,6 +1,20 @@
 #EXTM3U
+#EXTINF:-1 group-title="BENFICA TV",BENFICA TV FHD
+http://147.135.130.72:8011/100200300/100200300/42502
+#EXTINF:-1 group-title="BENFICA TV",BENFICA TV FHD
+http://147.135.130.72:8011/100200300/100200300/42501
+#EXTINF:-1 group-title="BENFICA TV",BENFICA TV FHD
+http://pluskor1.com:8080/live/mesut/25.04.2021/169960.ts
+#EXTINF:-1 group-title="BENFICA TV",BENFICA TV HD
+http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/59211
 #EXTINF:-1 group-title="BENFICA TV",BENFICA TV HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47292
+#EXTINF:-1 group-title="BTV",BTV 
+http://tvstar.live:8880/ammar610077/668488/146378
+#EXTINF:-1 group-title="BTV",BTV 
+http://mediap.xyz:80/swoosh-5063/88UWS47RXI/61004
+#EXTINF:-1 group-title="BTV",BTV 
+http://pulselive.uk:8080/t1/t1/248351
 #EXTINF:-1 group-title="BTV",BTV 
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/37324
 #EXTINF:-1 group-title="BTV",BTV 
@@ -13,41 +27,131 @@ http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47106
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47105
 #EXTINF:-1 group-title="BTV",BTV 
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47088
-#EXTINF:-1 group-title="BTV",BTV 
-http://mediap.xyz:80/swoosh-5063/88UWS47RXI/61004
+#EXTINF:-1 group-title="BTV",BTV FHD
+http://147.135.130.72:8011/100200300/100200300/42508
+#EXTINF:-1 group-title="BTV",BTV FHD
+http://147.135.130.72:8011/100200300/100200300/42507
+#EXTINF:-1 group-title="BTV",BTV FHD
+http://pluskor1.com:8080/live/mesut/25.04.2021/169965.ts
+#EXTINF:-1 group-title="BTV",BTV HD
+http://147.135.130.72:8011/100200300/100200300/42509
+#EXTINF:-1 group-title="BTV",BTV HD
+http://tvstar.live:8880/ammar610077/668488/61162
 #EXTINF:-1 group-title="BTV",BTV HD
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47104
 #EXTINF:-1 group-title="BTV",BTV HD
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47062
+#EXTINF:-1 group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 FHD
+http://tvstar.live:8880/ammar610077/668488/146379
+#EXTINF:-1 group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 FHD
+http://pluskor1.com:8080/live/mesut/25.04.2021/170025.ts
+#EXTINF:-1 group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
+http://tvstar.live:8880/ammar610077/668488/99280
 #EXTINF:-1 group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47284
+#EXTINF:-1 group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 FHD
+http://tvstar.live:8880/ammar610077/668488/146380
+#EXTINF:-1 group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 FHD
+http://pluskor1.com:8080/live/mesut/25.04.2021/170027.ts
+#EXTINF:-1 group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HD
+http://tvstar.live:8880/ammar610077/668488/99281
 #EXTINF:-1 group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47285
+#EXTINF:-1 group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 FHD
+http://pluskor1.com:8080/live/mesut/25.04.2021/170029.ts
+#EXTINF:-1 group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
+http://tvstar.live:8880/ammar610077/668488/99282
 #EXTINF:-1 group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47286
+#EXTINF:-1 group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 FHD
+http://pluskor1.com:8080/live/mesut/25.04.2021/170031.ts
 #EXTINF:-1 group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HD
 http://51.91.73.99:25461/spain/XDWu1KatRP/21662
+#EXTINF:-1 group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HD
+http://tvstar.live:8880/ammar610077/668488/99283
 #EXTINF:-1 group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47287
 #EXTINF:-1 group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 FHD
+http://tvstar.live:8880/ammar610077/668488/146382
+#EXTINF:-1 group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 FHD
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/44546
+#EXTINF:-1 group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 FHD
+http://pluskor1.com:8080/live/mesut/25.04.2021/170033.ts
+#EXTINF:-1 group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HD
+http://tvstar.live:8880/ammar610077/668488/99284
 #EXTINF:-1 group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47288
+#EXTINF:-1 group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 FHD
+http://tvstar.live:8880/ammar610077/668488/146383
+#EXTINF:-1 group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 FHD
+http://pluskor1.com:8080/live/mesut/25.04.2021/170035.ts
+#EXTINF:-1 group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HD
+http://tvstar.live:8880/ammar610077/668488/99285
 #EXTINF:-1 group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47289
 #EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 
+http://pulselive.uk:8080/t1/t1/248420
+#EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/41383
+#EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 FHD
+http://tvstar.live:8880/ammar610077/668488/59871
+#EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 FHD
+http://pluskor1.com:8080/live/mesut/25.04.2021/170184.ts
+#EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 HD
+http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/59274
+#EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 HD
+http://tvstar.live:8880/ammar610077/668488/61153
 #EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47277
 #EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 
+http://pulselive.uk:8080/t1/t1/248421
+#EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/41384
+#EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 FHD
+http://tvstar.live:8880/ammar610077/668488/59874
+#EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 FHD
+http://pluskor1.com:8080/live/mesut/25.04.2021/170186.ts
+#EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 HD
+http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/59275
+#EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 HD
+http://tvstar.live:8880/ammar610077/668488/99287
 #EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47278
 #EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 
+http://pulselive.uk:8080/t1/t1/248423
+#EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 
+http://pulselive.uk:8080/t1/t1/248422
+#EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/41385
+#EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 FHD
+http://pluskor1.com:8080/live/mesut/25.04.2021/170188.ts
+#EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 HD
+http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/59276
+#EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 HD
+http://147.135.130.72:8011/100200300/100200300/85586
+#EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 HD
+http://tvstar.live:8880/ammar610077/668488/61157
 #EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47279
+#EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 
+http://pulselive.uk:8080/t1/t1/248424
+#EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 FHD
+http://pluskor1.com:8080/live/mesut/25.04.2021/170190.ts
+#EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 HD
+http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/59277
+#EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 HD
+http://tvstar.live:8880/ammar610077/668488/99288
 #EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47280
+#EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 
+http://pulselive.uk:8080/t1/t1/248425
+#EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 FHD
+http://pluskor1.com:8080/live/mesut/25.04.2021/170192.ts
+#EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 HD
+http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/59278
+#EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 HD
+http://tvstar.live:8880/ammar610077/668488/99289
 #EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47281
+#EXTINF:-1 group-title="SPORTTV 2",SPORTTV 2 HD
+http://tvstar.live:8880/ammar610077/668488/105805
