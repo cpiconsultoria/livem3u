@@ -10,8 +10,6 @@ http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/59211
 #EXTINF:-1 group-title="BENFICA TV",BENFICA TV HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47292
 #EXTINF:-1 group-title="BTV",BTV 
-http://mediap.xyz:80/swoosh-5063/88UWS47RXI/61004
-#EXTINF:-1 group-title="BTV",BTV 
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/37324
 #EXTINF:-1 group-title="BTV",BTV 
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/37314
@@ -25,6 +23,8 @@ http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47105
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47088
 #EXTINF:-1 group-title="BTV",BTV 
 http://tvstar.live:8880/ammar610077/668488/146378
+#EXTINF:-1 group-title="BTV",BTV 
+http://mediap.xyz:80/swoosh-5063/88UWS47RXI/61004
 #EXTINF:-1 group-title="BTV",BTV 
 http://pulselive.uk:8080/t1/t1/248351
 #EXTINF:-1 group-title="BTV",BTV FHD
