@@ -10,9 +10,11 @@ http://vigilantev.net:80/nightmare/nightmare/654709
 #EXTINF:-1 group-title="BENFICA TV",BENFICA TV HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47292
 #EXTINF:-1 group-title="BTV",BTV 
-http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/16384
-#EXTINF:-1 group-title="BTV",BTV 
 http://mediap.xyz:80/swoosh-5063/88UWS47RXI/61004
+#EXTINF:-1 group-title="BTV",BTV 
+http://pulselive.uk:8080/vDZbYAnC8X/GZ3fYeeX8H/248351
+#EXTINF:-1 group-title="BTV",BTV 
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/16384
 #EXTINF:-1 group-title="BTV",BTV 
 http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/16384
 #EXTINF:-1 group-title="BTV",BTV 
@@ -27,22 +29,20 @@ http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47106
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47105
 #EXTINF:-1 group-title="BTV",BTV 
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47088
-#EXTINF:-1 group-title="BTV",BTV 
-http://pulselive.uk:8080/vDZbYAnC8X/GZ3fYeeX8H/248351
 #EXTINF:-1 group-title="BTV",BTV FHD
 http://vigilantev.net:80/nightmare/nightmare/654462
 #EXTINF:-1 group-title="BTV",BTV HD
-http://ostv.site:8080/zero/zero/189
-#EXTINF:-1 group-title="BTV",BTV HD
-http://zero2.site:8080/zero/zero/189
-#EXTINF:-1 group-title="BTV",BTV HD
 http://oostv.site:8080/iptv/iptv/189
 #EXTINF:-1 group-title="BTV",BTV HD
-http://vigilantev.net:80/nightmare/nightmare/654461
+http://ostv.site:8080/zero/zero/189
 #EXTINF:-1 group-title="BTV",BTV HD
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47104
 #EXTINF:-1 group-title="BTV",BTV HD
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47062
+#EXTINF:-1 group-title="BTV",BTV HD
+http://vigilantev.net:80/nightmare/nightmare/654461
+#EXTINF:-1 group-title="BTV",BTV HD
+http://zero2.site:8080/zero/zero/189
 #EXTINF:-1 group-title="BTV",BTV UHD
 http://vigilantev.net:80/nightmare/nightmare/654463
 #EXTINF:-1 group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 
@@ -122,9 +122,9 @@ http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/18148
 #EXTINF:-1 group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 
 http://iptvch.com:2082/ahmed/ahmed123/130962
 #EXTINF:-1 group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 FHD
-http://vigilantev.net:80/nightmare/nightmare/654485
-#EXTINF:-1 group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 FHD
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/44546
+#EXTINF:-1 group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 FHD
+http://vigilantev.net:80/nightmare/nightmare/654485
 #EXTINF:-1 group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47288
 #EXTINF:-1 group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 SD
@@ -140,19 +140,19 @@ http://vigilantev.net:80/nightmare/nightmare/654483
 #EXTINF:-1 group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47289
 #EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 
+http://pulselive.uk:8080/vDZbYAnC8X/GZ3fYeeX8H/248420
+#EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 
 http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/16432
 #EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 
 http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/16432
+#EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 
+http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/41383
 #EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 
 http://vigilantev.net:80/nightmare/nightmare/654734
 #EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 
 http://vigilantev.net:80/nightmare/nightmare/654524
 #EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 
 http://iptvch.com:2082/ahmed/ahmed123/130952
-#EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 
-http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/41383
-#EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 
-http://pulselive.uk:8080/vDZbYAnC8X/GZ3fYeeX8H/248420
 #EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 FHD
 http://vigilantev.net:80/nightmare/nightmare/654480
 #EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 HD
@@ -166,19 +166,19 @@ http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47277
 #EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 UHD
 http://vigilantev.net:80/nightmare/nightmare/654481
 #EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 
+http://pulselive.uk:8080/vDZbYAnC8X/GZ3fYeeX8H/248421
+#EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 
 http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/16433
 #EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 
 http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/16433
+#EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 
+http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/41384
 #EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 
 http://vigilantev.net:80/nightmare/nightmare/654732
 #EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 
 http://vigilantev.net:80/nightmare/nightmare/654522
 #EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 
 http://iptvch.com:2082/ahmed/ahmed123/130953
-#EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 
-http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/41384
-#EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 
-http://pulselive.uk:8080/vDZbYAnC8X/GZ3fYeeX8H/248421
 #EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 FHD
 http://vigilantev.net:80/nightmare/nightmare/654477
 #EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 HD
@@ -192,21 +192,21 @@ http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47278
 #EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 UHD
 http://vigilantev.net:80/nightmare/nightmare/654478
 #EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 
+http://pulselive.uk:8080/vDZbYAnC8X/GZ3fYeeX8H/248423
+#EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 
+http://pulselive.uk:8080/vDZbYAnC8X/GZ3fYeeX8H/248422
+#EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 
 http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/16434
 #EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 
 http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/16434
+#EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 
+http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/41385
 #EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 
 http://vigilantev.net:80/nightmare/nightmare/654730
 #EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 
 http://vigilantev.net:80/nightmare/nightmare/654520
 #EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 
 http://iptvch.com:2082/ahmed/ahmed123/130954
-#EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 
-http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/41385
-#EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 
-http://pulselive.uk:8080/vDZbYAnC8X/GZ3fYeeX8H/248423
-#EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 
-http://pulselive.uk:8080/vDZbYAnC8X/GZ3fYeeX8H/248422
 #EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 HD
 http://vigilantev.net:80/nightmare/nightmare/654729
 #EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 HD
@@ -215,6 +215,8 @@ http://vigilantev.net:80/nightmare/nightmare/654521
 http://vigilantev.net:80/nightmare/nightmare/654475
 #EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47279
+#EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 
+http://pulselive.uk:8080/vDZbYAnC8X/GZ3fYeeX8H/248424
 #EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 
 http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/16435
 #EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 
@@ -225,14 +227,14 @@ http://vigilantev.net:80/nightmare/nightmare/654728
 http://vigilantev.net:80/nightmare/nightmare/654518
 #EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 
 http://iptvch.com:2082/ahmed/ahmed123/130955
-#EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 
-http://pulselive.uk:8080/vDZbYAnC8X/GZ3fYeeX8H/248424
 #EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 HD
 http://vigilantev.net:80/nightmare/nightmare/654519
 #EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 HD
 http://vigilantev.net:80/nightmare/nightmare/654474
 #EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47280
+#EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 
+http://pulselive.uk:8080/vDZbYAnC8X/GZ3fYeeX8H/248425
 #EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 
 http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/16436
 #EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 
@@ -243,8 +245,6 @@ http://vigilantev.net:80/nightmare/nightmare/654727
 http://vigilantev.net:80/nightmare/nightmare/654516
 #EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 
 http://iptvch.com:2082/ahmed/ahmed123/130956
-#EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 
-http://pulselive.uk:8080/vDZbYAnC8X/GZ3fYeeX8H/248425
 #EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 HD
 http://vigilantev.net:80/nightmare/nightmare/654517
 #EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 HD
