@@ -20,11 +20,11 @@ http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47105
 #EXTINF:-1 group-title="BTV",BTV 
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47088
 #EXTINF:-1 group-title="BTV",BTV HD
-http://zero2.site:8080/zero/zero/189
-#EXTINF:-1 group-title="BTV",BTV HD
 http://oostv.site:8080/iptv/iptv/189
 #EXTINF:-1 group-title="BTV",BTV HD
 http://ostv.site:8080/zero/zero/189
+#EXTINF:-1 group-title="BTV",BTV HD
+http://zero2.site:8080/zero/zero/189
 #EXTINF:-1 group-title="BTV",BTV HD
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47104
 #EXTINF:-1 group-title="BTV",BTV HD
