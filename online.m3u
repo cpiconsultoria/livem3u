@@ -4,6 +4,8 @@ http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/16381
 #EXTINF:-1 group-title="BENFICA TV",BENFICA TV HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47292
 #EXTINF:-1 group-title="BTV",BTV 
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/16384
+#EXTINF:-1 group-title="BTV",BTV 
 http://mediap.xyz:80/swoosh-5063/88UWS47RXI/61004
 #EXTINF:-1 group-title="BTV",BTV 
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/37324
@@ -17,18 +19,16 @@ http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47106
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47105
 #EXTINF:-1 group-title="BTV",BTV 
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47088
-#EXTINF:-1 group-title="BTV",BTV 
-http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/16384
 #EXTINF:-1 group-title="BTV",BTV HD
 http://ostv.site:8080/zero/zero/189
 #EXTINF:-1 group-title="BTV",BTV HD
 http://oostv.site:8080/iptv/iptv/189
 #EXTINF:-1 group-title="BTV",BTV HD
+http://zero2.site:8080/zero/zero/189
+#EXTINF:-1 group-title="BTV",BTV HD
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47104
 #EXTINF:-1 group-title="BTV",BTV HD
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47062
-#EXTINF:-1 group-title="BTV",BTV HD
-http://zero2.site:8080/zero/zero/189
 #EXTINF:-1 group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
 http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/18144
 #EXTINF:-1 group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HEVC
@@ -58,21 +58,21 @@ http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/18149
 #EXTINF:-1 group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47289
 #EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 
-http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/41383
-#EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 
 http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/16432
+#EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 
+http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/41383
 #EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47277
 #EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 
-http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/41384
-#EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 
 http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/16433
+#EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 
+http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/41384
 #EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47278
 #EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 
-http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/41385
-#EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 
 http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/16434
+#EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 
+http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/41385
 #EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47279
 #EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 
