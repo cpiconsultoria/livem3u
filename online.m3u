@@ -4,9 +4,9 @@ http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/16381
 #EXTINF:-1 group-title="BENFICA TV",BENFICA TV HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47292
 #EXTINF:-1 group-title="BTV",BTV 
-http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/16384
-#EXTINF:-1 group-title="BTV",BTV 
 http://mediap.xyz:80/swoosh-5063/88UWS47RXI/61004
+#EXTINF:-1 group-title="BTV",BTV 
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/16384
 #EXTINF:-1 group-title="BTV",BTV 
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/37324
 #EXTINF:-1 group-title="BTV",BTV 
@@ -20,11 +20,11 @@ http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47105
 #EXTINF:-1 group-title="BTV",BTV 
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47088
 #EXTINF:-1 group-title="BTV",BTV HD
-http://ostv.site:8080/zero/zero/189
+http://zero2.site:8080/zero/zero/189
 #EXTINF:-1 group-title="BTV",BTV HD
 http://oostv.site:8080/iptv/iptv/189
 #EXTINF:-1 group-title="BTV",BTV HD
-http://zero2.site:8080/zero/zero/189
+http://ostv.site:8080/zero/zero/189
 #EXTINF:-1 group-title="BTV",BTV HD
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47104
 #EXTINF:-1 group-title="BTV",BTV HD
