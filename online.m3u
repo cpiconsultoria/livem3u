@@ -1,8 +1,16 @@
 #EXTM3U
+#EXTINF:-1 group-title="BENFICA TV",BENFICA TV FHD
+http://ky-tv.cc:25461/cisco/cisco123/399240
+#EXTINF:-1 group-title="BENFICA TV",BENFICA TV FHD
+http://ky-tv.cc:25461/cisco/cisco123/219188
+#EXTINF:-1 group-title="BENFICA TV",BENFICA TV HD
+http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/59211
 #EXTINF:-1 group-title="BENFICA TV",BENFICA TV HD
 http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/59211
 #EXTINF:-1 group-title="BENFICA TV",BENFICA TV HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47292
+#EXTINF:-1 group-title="BTV",BTV 
+http://pulselive.uk:8080/user1234/user1234/248351
 #EXTINF:-1 group-title="BTV",BTV 
 http://mediap.xyz:80/swoosh-5063/88UWS47RXI/61004
 #EXTINF:-1 group-title="BTV",BTV 
@@ -19,76 +27,166 @@ http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47105
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47088
 #EXTINF:-1 group-title="BTV",BTV FHD
 http://sl.masterstv.net:1997/Rku0iA0DXO/s9Bp800MfN/51621
+#EXTINF:-1 group-title="BTV",BTV FHD
+http://sl.masterstv.net:1997/Rku0iA0DXO/s9Bp800MfN/51621
 #EXTINF:-1 group-title="BTV",BTV HD
 http://oostv.site:8080/iptv/iptv/189
 #EXTINF:-1 group-title="BTV",BTV HD
-http://ostv.site:8080/zero/zero/189
+http://sl.masterstv.net:1997/Rku0iA0DXO/s9Bp800MfN/6403
 #EXTINF:-1 group-title="BTV",BTV HD
-http://zero2.site:8080/zero/zero/189
+http://sl.masterstv.net:1997/Rku0iA0DXO/s9Bp800MfN/6403
 #EXTINF:-1 group-title="BTV",BTV HD
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47104
 #EXTINF:-1 group-title="BTV",BTV HD
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47062
-#EXTINF:-1 group-title="BTV",BTV HD
-http://sl.masterstv.net:1997/Rku0iA0DXO/s9Bp800MfN/6403
+#EXTINF:-1 group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 FHD
+http://ky-tv.cc:25461/cisco/cisco123/399286
+#EXTINF:-1 group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
+http://gooserace.xyz:2052/donna/donna123/1109206
 #EXTINF:-1 group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47284
+#EXTINF:-1 group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 FHD
+http://ky-tv.cc:25461/cisco/cisco123/399289
+#EXTINF:-1 group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HD
+http://gooserace.xyz:2052/donna/donna123/1109210
 #EXTINF:-1 group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47285
+#EXTINF:-1 group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 FHD
+http://ky-tv.cc:25461/cisco/cisco123/399292
+#EXTINF:-1 group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
+http://gooserace.xyz:2052/donna/donna123/1109213
 #EXTINF:-1 group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47286
+#EXTINF:-1 group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 FHD
+http://ky-tv.cc:25461/cisco/cisco123/399295
 #EXTINF:-1 group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HD
 http://51.91.73.99:25461/spain/XDWu1KatRP/21662
+#EXTINF:-1 group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HD
+http://gooserace.xyz:2052/donna/donna123/1109216
 #EXTINF:-1 group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47287
 #EXTINF:-1 group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 FHD
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/44546
+#EXTINF:-1 group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 FHD
+http://ky-tv.cc:25461/cisco/cisco123/399298
+#EXTINF:-1 group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HD
+http://gooserace.xyz:2052/donna/donna123/1109220
 #EXTINF:-1 group-title="ELEVEN SPORTS 5",ELEVEN SPORTS 5 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47288
+#EXTINF:-1 group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 FHD
+http://ky-tv.cc:25461/cisco/cisco123/399301
+#EXTINF:-1 group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HD
+http://gooserace.xyz:2052/donna/donna123/1109223
 #EXTINF:-1 group-title="ELEVEN SPORTS 6",ELEVEN SPORTS 6 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47289
 #EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 
+http://pulselive.uk:8080/user1234/user1234/248420
+#EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/41383
+#EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 
+http://gooserace.xyz:2052/donna/donna123/1116411
 #EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 FHD
 http://sl.masterstv.net:1997/Rku0iA0DXO/s9Bp800MfN/51613
+#EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 FHD
+http://sl.masterstv.net:1997/Rku0iA0DXO/s9Bp800MfN/51613
+#EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 FHD
+http://ky-tv.cc:25461/cisco/cisco123/399398
+#EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 HD
+http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/59274
 #EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 HD
 http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/59274
 #EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 HD
 http://sl.masterstv.net:1997/Rku0iA0DXO/s9Bp800MfN/6415
+#EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 HD
+http://sl.masterstv.net:1997/Rku0iA0DXO/s9Bp800MfN/6415
 #EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47277
+#EXTINF:-1 group-title="SPORT TV 1",SPORT TV 1 SD
+http://ky-tv.cc:25461/cisco/cisco123/1225714
+#EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 
+http://pulselive.uk:8080/user1234/user1234/248421
 #EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/41384
+#EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 
+http://gooserace.xyz:2052/donna/donna123/1116507
 #EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 FHD
 http://sl.masterstv.net:1997/Rku0iA0DXO/s9Bp800MfN/51614
+#EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 FHD
+http://sl.masterstv.net:1997/Rku0iA0DXO/s9Bp800MfN/51614
+#EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 FHD
+http://ky-tv.cc:25461/cisco/cisco123/399401
+#EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 HD
+http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/59275
 #EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 HD
 http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/59275
 #EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 HD
 http://sl.masterstv.net:1997/Rku0iA0DXO/s9Bp800MfN/6413
+#EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 HD
+http://sl.masterstv.net:1997/Rku0iA0DXO/s9Bp800MfN/6413
 #EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47278
+#EXTINF:-1 group-title="SPORT TV 2",SPORT TV 2 SD
+http://ky-tv.cc:25461/cisco/cisco123/1225722
+#EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 
+http://pulselive.uk:8080/user1234/user1234/248423
+#EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 
+http://pulselive.uk:8080/user1234/user1234/248422
 #EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/41385
+#EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 
+http://gooserace.xyz:2052/donna/donna123/1116509
 #EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 FHD
 http://sl.masterstv.net:1997/Rku0iA0DXO/s9Bp800MfN/51615
+#EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 FHD
+http://sl.masterstv.net:1997/Rku0iA0DXO/s9Bp800MfN/51615
+#EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 FHD
+http://ky-tv.cc:25461/cisco/cisco123/399404
+#EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 HD
+http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/59276
 #EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 HD
 http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/59276
 #EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 HD
 http://sl.masterstv.net:1997/Rku0iA0DXO/s9Bp800MfN/6411
+#EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 HD
+http://sl.masterstv.net:1997/Rku0iA0DXO/s9Bp800MfN/6411
 #EXTINF:-1 group-title="SPORT TV 3",SPORT TV 3 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47279
+#EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 
+http://pulselive.uk:8080/user1234/user1234/248424
+#EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 
+http://gooserace.xyz:2052/donna/donna123/1116513
 #EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 FHD
 http://sl.masterstv.net:1997/Rku0iA0DXO/s9Bp800MfN/51616
+#EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 FHD
+http://sl.masterstv.net:1997/Rku0iA0DXO/s9Bp800MfN/51616
+#EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 FHD
+http://ky-tv.cc:25461/cisco/cisco123/399407
+#EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 HD
+http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/59277
 #EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 HD
 http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/59277
 #EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 HD
 http://sl.masterstv.net:1997/Rku0iA0DXO/s9Bp800MfN/6409
+#EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 HD
+http://sl.masterstv.net:1997/Rku0iA0DXO/s9Bp800MfN/6409
 #EXTINF:-1 group-title="SPORT TV 4",SPORT TV 4 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47280
+#EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 
+http://pulselive.uk:8080/user1234/user1234/248425
+#EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 
+http://gooserace.xyz:2052/donna/donna123/1116511
 #EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 FHD
 http://sl.masterstv.net:1997/Rku0iA0DXO/s9Bp800MfN/51617
+#EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 FHD
+http://sl.masterstv.net:1997/Rku0iA0DXO/s9Bp800MfN/51617
+#EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 FHD
+http://ky-tv.cc:25461/cisco/cisco123/399410
 #EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 HD
 http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/59278
+#EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 HD
+http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/59278
+#EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 HD
+http://sl.masterstv.net:1997/Rku0iA0DXO/s9Bp800MfN/6407
 #EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 HD
 http://sl.masterstv.net:1997/Rku0iA0DXO/s9Bp800MfN/6407
 #EXTINF:-1 group-title="SPORT TV 5",SPORT TV 5 HEVC
