@@ -4,6 +4,8 @@ http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/59211
 #EXTINF:-1 group-title="BENFICA TV",BENFICA TV HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47292
 #EXTINF:-1 group-title="BTV",BTV 
+http://mediap.xyz:80/swoosh-5063/88UWS47RXI/61004
+#EXTINF:-1 group-title="BTV",BTV 
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/37324
 #EXTINF:-1 group-title="BTV",BTV 
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/37314
@@ -15,22 +17,20 @@ http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47106
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47105
 #EXTINF:-1 group-title="BTV",BTV 
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47088
-#EXTINF:-1 group-title="BTV",BTV 
-http://mediap.xyz:80/swoosh-5063/88UWS47RXI/61004
 #EXTINF:-1 group-title="BTV",BTV FHD
 http://sl.masterstv.net:1997/Rku0iA0DXO/s9Bp800MfN/51621
+#EXTINF:-1 group-title="BTV",BTV HD
+http://oostv.site:8080/iptv/iptv/189
+#EXTINF:-1 group-title="BTV",BTV HD
+http://ostv.site:8080/zero/zero/189
+#EXTINF:-1 group-title="BTV",BTV HD
+http://zero2.site:8080/zero/zero/189
 #EXTINF:-1 group-title="BTV",BTV HD
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47104
 #EXTINF:-1 group-title="BTV",BTV HD
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47062
 #EXTINF:-1 group-title="BTV",BTV HD
-http://zero2.site:8080/zero/zero/189
-#EXTINF:-1 group-title="BTV",BTV HD
-http://ostv.site:8080/zero/zero/189
-#EXTINF:-1 group-title="BTV",BTV HD
 http://sl.masterstv.net:1997/Rku0iA0DXO/s9Bp800MfN/6403
-#EXTINF:-1 group-title="BTV",BTV HD
-http://oostv.site:8080/iptv/iptv/189
 #EXTINF:-1 group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HEVC
 http://iptvpro.vision-new.org:8789/vod3panelsource/2zIgZqPRI8/47284
 #EXTINF:-1 group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HEVC
